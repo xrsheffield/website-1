@@ -1,0 +1,385 @@
+@font-face {
+    font-family: "fucxed";
+    src: url(/fonts/fucxed.woff2);
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+:root {
+    --pink: #F1B2D1;
+    --dark-pink: #986297; /* for PRESS section */
+    --green: #3AAA37;
+    --light-blue: #76D0F2;
+    /* --blue: #05B8FC; old blue */
+    --blue: #21ACE2;
+    --dark-blue: #3960AB;
+    --yellow: #FFC113;
+    --black: #181818;
+    --width: 1024px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+body {
+    margin: 0;
+    background-color: #fff;
+    font-family: Montserrat, 'PT Serif', 'JostMedium', verdana, georgia, serif;
+    font-size: 20px;
+    font-weight:4300;
+    font-size: clamp(0.88rem, calc(0.72rem + 0.77vw), 1.25rem);
+    line-height: 1.6;
+    color: var(--black);
+}
+body.press header {
+    background-color: var(--dark-pink);
+}
+body.news header {
+    background-color: var(--yellow);
+}
+
+.wrapper {
+    min-height: 100vh;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+main {
+    background-color: #fff;
+    padding: 1em;
+}
+main,
+.inner {
+    width: min(100%, var(--width));
+    margin-inline: auto;
+    padding-inline: 2em;
+}
+
+header {
+    padding-top: 1.5em;
+    padding-bottom: 0.75em;
+    font-family: "fucxed", sans-serif;
+    background-color: var(--light-blue);
+    /* background-image: url(/img/climate-book-gradient.svg); */
+    background-size: 100%;
+    letter-spacing: -.02em;
+    word-spacing: -0.2em;
+}
+header .inner {
+    display: grid;
+    row-gap: .6em;
+}
+.main-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1.5em;
+}
+.main-heading img {
+    width: 14em;
+}
+.main-heading img:hover {
+    fill: white;
+}
+.heading {
+    text-align: right;
+    font-size: 1.1em;
+    line-height: 1;
+}
+.sheffield {
+    font-size: 3.4em;
+}
+.hourglass-logo {
+    width: 7em;
+    /* outline: solid 1px black; */
+}
+.hourglass-logo img {
+    width: 100%;
+}
+nav ul,
+main nav > ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+header .main-menu ul {
+    justify-content: space-between;
+    word-spacing: -0.2em;
+}
+.main-menu a {
+	color: #f6e705;
+	text-shadow: 2px 2px black;
+}
+header nav.socials ul {
+    gap: 1em;
+    justify-content: end;
+    align-items: center;
+}
+.socials li:not(:first-child) {
+    width: 1.5em;
+}
+.icon svg {
+    width: 100%;
+    transition: all 0.5s;
+}
+.icon:hover svg {
+    fill: #fff;
+    transform: scale(1.3);
+}
+
+footer {
+    background-color: var(--black);
+    color: #fff;
+    padding-top: 1em;
+}
+footer a {
+    color: #ccc;
+}
+footer .inner {
+    margin-block: 1em 2em;
+    display: flex;
+    justify-content: space-between;
+    gap: 2em;
+}
+.footer-left {
+    display: flex;
+    flex-direction: column;
+    gap: auto;
+}
+.footer-centre ul {
+    flex-direction: column;
+    text-transform: capitalize;
+}
+.copyright {
+    font-size: 0.8em;
+}
+
+h1,
+h2,
+h3 {
+    color: var(--blue);
+    font-family: fucxed, sans-serif;
+    text-transform: uppercase;
+    line-height: 1;
+    letter-spacing: -0.051em;
+    margin-bottom: 0.2em;
+}
+h1 {
+    font-size: 4em;
+}
+h2 {
+    font-size: 2.5em;
+    border-bottom: 2px solid currentColor;
+}
+h3 {
+    font-size: 1.75em;
+}
+h3 + p {
+    margin-top: 0.25em;
+}
+p {
+    margin-top: 0;
+}
+
+body.press h1,
+body.press h2,
+body.press h3 {
+    color: var(--dark-pink);
+}
+body.news h1,
+body.news h2,
+body.news h3 {
+    color: var(--yellow);
+}
+
+button:hover {
+    cursor: pointer;
+}
+.donate {
+    display: inline-block;
+    background-color: #fff;
+    color: var(--black);
+    padding: 0.5em 1em;
+    font-size: 1em;
+    font-family: 'fucxed', sans-serif;
+    text-transform: uppercase;
+    height: 35px;
+    line-height: 20px;
+    border: none;
+    border-radius: 30px;
+}
+header .donate {
+    background-color: var(--black);
+    color: #fff;
+}
+
+
+.link-box {
+    margin: 3em 0;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.25em;
+}
+.link-box img {
+    max-width: 100%;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+    transition: all 0.4s;
+}
+
+
+.author-date {
+    display: flex;
+    gap: 2em;
+    font-size: 0.7em;
+}
+
+.prev-next {
+    margin: 2em 0;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    text-align: center;
+}
+
+.footnotes {
+    margin-top: 2em;
+}
+.footnotes::before {
+    content: 'References';
+    display: block;
+    color: #555;
+    font-family: fucxed, sans-serif;
+    font-size: 1.75em;
+    line-height: 1;
+    text-transform: uppercase;
+}
+.footnotes > hr {
+    display: none;
+}
+
+/* ------ HOME PAGE ----- */
+
+.home .content > p:first-child {
+    font-size: 1.25em;
+    font-weight: bold;
+}
+
+/* ---- List page ---- */
+
+.list-page-list {
+    list-style-type: none;
+    padding: 0;
+}
+.list-page-list li {
+    border: solid 1px #aaa;
+    margin-block: 1em;
+    padding: 1em;
+}
+
+.list-page-list li h2 {
+    border: none;
+    margin: 1em 0 0 0;
+    font-size: 2em;
+}
+.list-page-list li h2 a {
+    color: var(--green);
+}
+
+.pagination {
+    margin: 3em 0;
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+}
+.pagination .active a {
+    color: darkred;
+}
+
+
+/* ----- HOME Page ---- */
+
+.join {
+    margin: 3em 0 ;
+    background-color: var(--green);
+    padding: 1em;
+}
+.join h2 {
+    border: none;
+    margin: 0;
+    color: var(--black);
+}
+.join h2 span {
+    color: #fff;
+}
+
+
+/* ---- Contact page ---- */
+
+.contact-list {
+    border: solid 20px var(--green);
+    padding: 2em;
+}
+.contact-list ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.contact-list li {
+    margin-bottom: 1em;
+}
+
+.contact-socials ul {
+    margin-block: 4em;
+    display: grid;
+    grid-template-columns: repeat(4, 4.5em);
+    justify-content: center;
+    gap: 1em;
+}
+.contact-socials li a {
+    display: block;
+    text-align: center;
+    font-size: 0.9em;
+    /* width: 14em; */
+}
+.contact-socials li a:hover {
+    transform: scale(1.1);
+}
+.contact-socials svg {
+    width: 100%;
+}
+.contact-socials #fb {
+    fill: #1A6ED8;
+}
+.contact-socials #tw {
+    fill: #1D9BF0;
+}
+.contact-socials #ig {
+    fill: #DD2A7B;
+}
+.contact-socials #yt {
+    fill: darkred;
+}
+
+
+/* ------ Search Page -----` */
+
+input[type="text"] {
+    font-size: 1em;
+}
+
+
+@media screen and (min-width: 1380px) {
+    body {
+    background-image: url(/photos/change-your-bank.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    }
+}
