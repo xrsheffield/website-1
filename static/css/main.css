@@ -2,6 +2,20 @@
     font-family: "fucxed";
     src: url(/fonts/fucxed.woff2);
 }
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url(/fonts/SourceSansPro-Regular.woff2);
+}
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url(/fonts/SourceSansPro-Italic.woff2);
+    font-style: italic;
+}
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url(/fonts/SourceSansPro-Bold.woff2);
+    font-weight: bold;
+}
 
 *, *::before, *::after {
     box-sizing: border-box;
@@ -13,6 +27,7 @@
     --light-blue: #76D0F2;
     /* --blue: #05B8FC; old blue */
     --blue: #21ACE2;
+    --dark-blue: #084697;
     --dark-blue: #3960AB;
     --yellow: #FFC113;
     --black: #181818;
@@ -25,18 +40,11 @@ html {
 body {
     margin: 0;
     background-color: #fff;
-    font-family: Montserrat, 'PT Serif', 'JostMedium', verdana, georgia, serif;
-    font-size: 20px;
-    font-weight:4300;
-    font-size: clamp(0.88rem, calc(0.72rem + 0.77vw), 1.25rem);
-    line-height: 1.6;
+    font-family: 'Source Sans Pro', verdana, Arial, Helvetica, sans-serif;
+    /* font-size: clamp(0.88rem, calc(0.72rem + 0.77vw), 1.25rem); */
+    font-size: clamp(0.88rem, calc(0.50rem + 1.51vw), 1.50rem);
+    line-height: 1.4;
     color: var(--black);
-}
-body.press header {
-    background-color: var(--dark-pink);
-}
-body.news header {
-    background-color: var(--yellow);
 }
 
 .wrapper {
@@ -59,8 +67,10 @@ header {
     padding-top: 1.5em;
     padding-bottom: 0.75em;
     font-family: "fucxed", sans-serif;
-    background-color: var(--light-blue);
-    /* background-image: url(/img/climate-book-gradient.svg); */
+    background-color: var(--blue);
+    background-image: 
+    linear-gradient(to bottom, #2225, transparent 50%),
+    url(/img/climate-book-gradient.svg);
     background-size: 100%;
     letter-spacing: -.02em;
     word-spacing: -0.2em;
@@ -77,9 +87,11 @@ header .inner {
 }
 .main-heading img {
     width: 14em;
+    transition: 0.3s;
 }
 .main-heading img:hover {
     fill: white;
+    transform: scale(1.1);
 }
 .heading {
     text-align: right;
@@ -91,7 +103,6 @@ header .inner {
 }
 .hourglass-logo {
     width: 7em;
-    /* outline: solid 1px black; */
 }
 .hourglass-logo img {
     width: 100%;
@@ -129,6 +140,8 @@ header nav.socials ul {
     transform: scale(1.3);
 }
 
+/* ------ FOOOTER  ------ */
+
 footer {
     background-color: var(--black);
     color: #fff;
@@ -138,7 +151,7 @@ footer a {
     color: #ccc;
 }
 footer .inner {
-    margin-block: 1em 2em;
+    margin-block: 2em;
     display: flex;
     justify-content: space-between;
     gap: 2em;
@@ -146,14 +159,17 @@ footer .inner {
 .footer-left {
     display: flex;
     flex-direction: column;
-    gap: auto;
+    justify-content: space-between;
+    flex-shrink: 2;
 }
 .footer-centre ul {
+    flex-shrink: 0;
     flex-direction: column;
     text-transform: capitalize;
 }
 .copyright {
     font-size: 0.8em;
+    margin-bottom: 0;
 }
 
 h1,
@@ -183,16 +199,16 @@ p {
     margin-top: 0;
 }
 
-body.press h1,
+/* body.press h1,
 body.press h2,
 body.press h3 {
     color: var(--dark-pink);
-}
-body.news h1,
+} */
+/* body.news h1,
 body.news h2,
 body.news h3 {
     color: var(--yellow);
-}
+} */
 
 button:hover {
     cursor: pointer;
@@ -263,12 +279,6 @@ a {
     display: none;
 }
 
-/* ------ HOME PAGE ----- */
-
-.home .content > p:first-child {
-    font-size: 1.25em;
-    font-weight: bold;
-}
 
 /* ---- List page ---- */
 
@@ -302,8 +312,13 @@ a {
 }
 
 
-/* ----- HOME Page ---- */
 
+/* ------ HOME PAGE ----- */
+
+.home .content > p:first-child {
+    font-size: 1.25em;
+    font-weight: bold;
+}
 .join {
     margin: 3em 0 ;
     background-color: var(--green);
@@ -316,6 +331,26 @@ a {
 }
 .join h2 span {
     color: #fff;
+}
+
+
+/* ---- WHO WE ARE PAGE ------- */
+
+.demands {
+    margin-block: 2em 4em;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    column-gap: 1em;
+    row-gap: 2em;
+}
+.demand h3 {
+    margin: 0;
+}
+.demand-number {
+    font-family: fucxed, sans-serif;
+    font-size: 4em;
+    color: var(--blue);
+    line-height: 1;
 }
 
 
@@ -371,15 +406,4 @@ a {
 
 input[type="text"] {
     font-size: 1em;
-}
-
-
-@media screen and (min-width: 1380px) {
-    body {
-    background-image: url(/photos/change-your-bank.jpg);
-    background-size: 100%;
-    background-attachment: fixed;
-    background-position: center bottom;
-    background-repeat: no-repeat;
-    }
 }

@@ -1,0 +1,8 @@
+    <li>
+        {{ partial "author-date" . }}
+        <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+        <section class="summary">
+            <p>{{ .Summary | truncate 200 }}</p>
+        </section>
+    </li>

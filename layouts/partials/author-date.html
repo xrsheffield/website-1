@@ -1,0 +1,9 @@
+<div class="author-date">
+        {{ with .Params.author }}
+        <div class="author">{{ . }}</div>
+        {{ end }}
+        {{ with .Date }}
+            <time>{{ .Format "Jan 02, 2006" }}</time>
+        {{ end }}
+        <div class="reading-time">{{ .ReadingTime }} min read</div>
+    </div>

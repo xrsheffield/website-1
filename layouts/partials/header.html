@@ -1,0 +1,30 @@
+<header>
+
+    <div class="inner">
+        <div class="main-heading">
+            {{/*  <a href="/"><img src="/img/xr-logo-text.svg" alt="XR logo" title="Home page"></a>  */}}
+            {{/*  <span class="hourglass-logo">
+                <a href="/"><img src="/img/hourglass-logo.svg" alt="hourglass logo"></a>
+            </span>
+            <div class="heading">
+                EXTINCTION REBELLION&nbsp; <br><span class="sheffield">SHEFFIELD</span></div>
+                */}}
+                <a href="/" title="Home page"><img src="/img/sheffield-logo-1.svg" alt="EXTINCTION REBELLION SHEFFIELD logo"></a>
+        </div>  
+        <nav class="main-menu">
+            <ul>
+                {{ range site.Menus.main }}
+                    <li><a href="{{ .URL }}">{{ .Name | upper }}</a></li>
+                {{ end }}
+            </ul>
+        </nav>
+        <nav class="socials">
+            <ul>
+                <li>{{ partial "donate" . }}</li>
+                {{ range first 5 site.Menus.social }}
+                    <li><a href="{{ .URL }}" class="icon" title="{{ .Name }}">{{ .Pre }}</a></li>
+                {{ end }}
+            </ul>
+        </nav>
+    </div>
+</header>

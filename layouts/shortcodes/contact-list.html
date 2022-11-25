@@ -1,0 +1,7 @@
+<section class="contact-list">
+    <ul>
+        {{ range site.Data.contacts }}
+            <li><b>{{ .title }}</b> - <a href="mailto:{{ .email }}">{{ .email }}</a><br>{{ .description }}</li>
+        {{ end }}
+    </ul>
+</section>
