@@ -33,7 +33,7 @@ Tevy Kuch, 18:
 
 
 [^1]: http://democracy.sheffield.gov.uk/mgAi.aspx?ID=18587
-[^2]: https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/1b70ce1trk/TheTimes_190430_EuropeVI_Trackers_w.pdf
+[^2]: [https://d25d2506sfb94s.clo .. TheTimes_190430_EuropeVI_Trackers_w.pdf](https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/1b70ce1trk/TheTimes_190430_EuropeVI_Trackers_w.pdf)
 
 
 ### Contact Details                 
@@ -70,7 +70,7 @@ Start a group where you are – locally in the UK or in your country around the 
 
 Find your local group:
 
-https:/www.google.com/maps/d/viewer?mid=11jUqqjTHMThksd4KbvGGzb3I3Cr3PkBl&usp=sharing
+[https:/www.google.com/maps .. kBl&usp](https:/www.google.com/maps/d/viewer?mid=11jUqqjTHMThksd4KbvGGzb3I3Cr3PkBl&usp=sharing)
 
 Check out the International XR website, with links to the French, German, Italian and UK websites. We are holding Collaborative Leadership Calls to help coach people to improve their leadership skills and capacities. And while your time and energy are the most important things, if you are financially able to donate money, see our Fundrazr crowdfunder.
 

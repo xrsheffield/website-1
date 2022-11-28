@@ -1,5 +1,6 @@
 ---
-title: "Ways of Working Summary"
+title: "XR Sheffield: Ways of Working - Summary"
+linktitle: "Ways of Working Summary"
 date: 2022-11-25T20:33:39Z
 draft: false
 ---

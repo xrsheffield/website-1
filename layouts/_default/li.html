@@ -1,4 +1,8 @@
-    <li>
+    <li
+    {{ if .Params.cover_image }}
+        style="background-color: #ccc;"
+    {{ end }}
+    >
         {{ partial "author-date" . }}
         <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
 

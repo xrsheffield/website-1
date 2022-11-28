@@ -2,6 +2,7 @@
 title: SHEFFIELD CITY COUNCIL ACTION
 date: 2019-02-10
 author: XR Sheffield Press
+cover_image: samba-band-at-town-hall-large.jpg
 ---
 
 

@@ -2,6 +2,7 @@
 title: MONDAY MEETING AT THEATRE DELI
 date: 2019-11-21
 author: XR Sheffield Press
+cover_image: green-flag-on-milbank-small.jpg
 ---
 
 This Monday we will be meeting at Theatre Deli, 202 Eyre St, Sheffield City Centre, S1 4QZ

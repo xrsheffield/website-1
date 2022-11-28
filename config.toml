@@ -2,12 +2,18 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'EXTINCTION REBELLION SHEFFIELD'
 sectionPagesMenu = "footer"
+enableGitInfo = true
 
 paginate = 10
 
 
 [menu]
 
+  [[menu.main]]
+    identifier = "home"
+    name = "home"
+    url = "/"
+    weight = "10"
   [[menu.main]]
     identifier = "who we are"
     name = "who we are"

@@ -3,6 +3,7 @@ title: SHEFFIELD FALLING BEHIND NOTTINGHAM AND MANCHESTER AS DAN JARVIS FAILS TO
 date: 2020-06-26
 Updated: Aug 18, 2020
 author: XR Sheffield Press
+cover_image: town-hall-1.jpg
 ---
 
 * Sheffield in danger of losing green-city reputation under Dan Jarvis, according to XR Sheffield
@@ -12,12 +13,9 @@ author: XR Sheffield Press
 
 Members of Extinction Rebellion Sheffield, joined by members of Greenpeace and the Sheffield Climate Alliance, today accused Sheffield City Region Mayor Dan Jarvis of failing to keep pace with other cities’ plans for a green recovery from the coronavirus pandemic, as they marched on the town hall.
 
-
 Forty climate campaigners took part in a series of physically distanced demonstrations outside the City Region offices and the town hall, while others hand-delivered letters to local MPs’ offices. The letter was signed by Extinction Rebellion Sheffield, Barnsley TUC, Barnsley Action Against Climate Crisis, and Barnsley Green Party.
 
-
 The protest was one of dozens of actions across the country as the Committee on Climate Change delivered a damning verdict on the UK’s progress towards climate targets.
-
 
 Simon Reynell from XR Sheffield said: “When the pandemic first arrived I was really worried for the health and well-being of people like my 89-year-old mother and one of my close neighbours, Eve, who had to isolate herself completely because of a longstanding health condition. But what I have seen is how the people of Sheffield have made enormous changes to their lives to come together and do the right thing to protect and help those who need it.
 

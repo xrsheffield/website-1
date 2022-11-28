@@ -3,6 +3,7 @@ title: BE SMARTPHONE SMART! SECURE IT AND USE IT TO GOOD EFFECT
 date: 2019-08-10
 author: XR Geek
 Updated: Aug 13, 2019
+cover_image: police-and-phone.jpg
 ---
 
 
