@@ -2,6 +2,7 @@
 title: DONATE!
 date: 2020-03-21
 Updated: Aug 16, 2021
+categories: [news]
 author: XR Sheffield Press
 ---
 

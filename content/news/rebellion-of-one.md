@@ -2,6 +2,7 @@
 title: REBELLION OF ONE
 date: 2021-08-03
 author: XR Sheffield Press
+categories: [news]
 cover_image: im-terrified.jpg
 ---
 

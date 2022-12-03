@@ -2,6 +2,7 @@
 title: Beyond Coronavirus 3
 date: 2020-06-19
 author: Zoe Roberts
+categories: [news]
 ---
 
  

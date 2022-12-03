@@ -2,6 +2,7 @@
 title: THE BLOOD OF OUR CHILDREN
 date: 2019-09-27
 author: XR Sheffield Press
+categories: [news]
 ---
 
 * In a dramatic, theatrical action this weekend Extinction Rebellion Sheffield will highlight the existential threat posed to future generations and the ongoing extinction of species caused by the climate crisis and ecological emergency.

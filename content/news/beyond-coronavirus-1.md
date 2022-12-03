@@ -2,6 +2,7 @@
 title: Beyond Coronavirus 1
 date: 2020-06-11
 author: Dinah Ward
+categories: [news]
 ---
 
 XR Sheffield activist Dinah Ward talks about the effect of aeroplanes, or lack thereof, on our local environment during this pandemic.

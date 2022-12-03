@@ -1,6 +1,6 @@
     <li
     {{ if .Params.cover_image }}
-        style="background-color: #ccc;"
+        style="background-color: #f7f7f7;"
     {{ end }}
     >
         {{ partial "author-date" . }}
@@ -8,5 +8,6 @@
 
         <section class="summary">
             <p>{{ .Summary | truncate 200 }}</p>
+            <p><a href="{{ .RelPermalink }}">View article ..</a></p>
         </section>
     </li>

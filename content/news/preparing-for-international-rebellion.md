@@ -2,6 +2,7 @@
 title: INTERNATIONAL REBELLION
 date: 2019-08-19
 Updated: Sep 22, 2019
+categories: [news]
 author: XR Sheffield Press
 ---
 

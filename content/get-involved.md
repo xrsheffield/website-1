@@ -45,7 +45,9 @@ We are facing an ecological crisis and we need your help. Our beautiful movement
 
 ## Vacancies
 
-**Talks and Training:** Could you help to coordinate our regular talks and events? If you're interested please contact xrsheffield@gmail.com or xrsheffieldtrainingandtalks@gmail.com
+**Talks and Training:** Could you help to coordinate our regular talks and events? If you're interested please contact  
+xrsheffield@gmail.com or  
+xrsheffieldtrainingandtalks@gmail.com
 
 **Legal WG:** We now have a co-ordinator for this new group, but we need volunteers to help to run the WG to offer advice and support to arrestees or those with questions regarding legal matters, no prior experience needed.
 

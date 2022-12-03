@@ -2,6 +2,7 @@
 title: RUPERT READ TALK
 date: 2019-11-21
 author: XR Sheffield Press
+categories: [news]
 cover_image: rupert-read-talk.jpg
 ---
 

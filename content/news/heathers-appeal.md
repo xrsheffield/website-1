@@ -2,6 +2,7 @@
 title: HEATHER’S APPEAL
 date: 2021-12-09
 author: XR Sheffield Press
+categories: [news]
 cover_image: heather-1.jpg
 ---
 

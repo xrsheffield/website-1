@@ -2,6 +2,7 @@
 title: "COMING UP: REBEL CAMP IN MANCHESTER"
 date: 2019-08-10
 Updated: Sep 14, 2019
+categories: [news]
 ---
 
 

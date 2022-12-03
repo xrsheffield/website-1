@@ -2,6 +2,7 @@
 title: MONDAY MEETING AT THEATRE DELI
 date: 2019-11-21
 author: XR Sheffield Press
+categories: [news]
 cover_image: green-flag-on-milbank-small.jpg
 ---
 

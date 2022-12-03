@@ -14,36 +14,43 @@ paginate = 10
     name = "home"
     url = "/"
     weight = "10"
+    pre = "<svg viewBox='0 0 24 24' id='hm'><use href='/img/socials.svg#house'></use></svg>"
   [[menu.main]]
     identifier = "who we are"
     name = "who we are"
     url = "/who-we-are/"
     weight = "100"
+    pre = "<svg viewBox='0 0 24 24' id='wh'><use href='/img/socials.svg#who'></use></svg>"
   [[menu.main]]
     identifier = "get involved"
     name = "get involved"
     url = "/get-involved/"
     weight = "200"
+    pre = "<svg viewBox='0 0 24 24' id='jn'><use href='/img/socials.svg#join'></use></svg>"
   [[menu.main]]
     identifier = "press"
     name = "press"
     url = "/press/"
     weight = "300"
+    pre = "<svg viewBox='0 0 24 24' id='prss'><use href='/img/socials.svg#press'></use></svg>"
   [[menu.main]]
     identifier = "news"
     name = "news"
     url = "/news/"
     weight = "400"
+    pre = "<svg viewBox='0 0 24 24' id='nws'><use href='/img/socials.svg#news'></use></svg>"
   [[menu.main]]
     identifier = "contact us"
     name = "contact us"
     url = "/contact/"
     weight = "500"
+    pre = "<svg viewBox='0 0 24 24' id='cntct'><use href='/img/socials.svg#contact'></use></svg>"
   [[menu.main]]
     identifier = "search"
     name = "search"
     url = "/search/"
     weight = "600"
+    pre = "<svg viewBox='0 0 24 24' id='srch'><use href='/img/socials.svg#search'></use></svg>"
 
   [[menu.social]]  
     identifier = "facebook"

@@ -2,6 +2,7 @@
 title: LOCKED-UP FOR PROTECTING OUR FUTURE
 date: 2019-04-24
 author: XR Sheffield Press
+categories: [press]
 ---
 
 * During the week of peaceful protest in the capital, 1065 people were arrested. Seven of this number were from Extinction Rebellion Sheffield.

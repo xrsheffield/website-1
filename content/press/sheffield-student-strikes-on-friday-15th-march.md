@@ -2,6 +2,7 @@
 title: SHEFFIELD STUDENT STRIKES ON FRIDAY 15TH MARCH
 date: 2019-03-13
 Updated: Apr 11, 2019
+categories: [press]
 author: XR Sheffield Press
 ---
 

@@ -2,6 +2,7 @@
 title: EXTINCTION REBELLION SHEFFIELD WRITES TO COUNCIL DEMANDING A HALT TO ROAD WIDENING
 date: 2019-09-19
 author: XR Sheffield Press
+categories: [news]
 ---
 
 

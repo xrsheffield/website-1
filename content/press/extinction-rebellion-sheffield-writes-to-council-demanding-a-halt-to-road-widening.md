@@ -2,6 +2,7 @@
 title: EXTINCTION REBELLION SHEFFIELD WRITES TO COUNCIL DEMANDING A HALT TO ROAD WIDENING
 date: 2019-09-19
 author: XR Sheffield Press
+categories: [press]
 ---
 
 * At 08:00 on the morning of Monday 9th September, Extinction Rebellion Sheffield will disrupt roads around the Bridgehouses Roundabout.

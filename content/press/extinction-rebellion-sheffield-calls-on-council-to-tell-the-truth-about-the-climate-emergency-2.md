@@ -2,6 +2,7 @@
 title: EXTINCTION REBELLION SHEFFIELD CALLS ON COUNCIL TO TELL THE TRUTH ABOUT THE CLIMATE EMERGENCY
 date: 2019-07-02
 ---
+categories: [press]
 
 Extinction Rebellion Sheffield has called on the city council to embark on a public information campaign to “ensure everyone understands the scale of the potential impact of climate breakdown on Sheffield, and the positive solutions necessary to secure our futures”.
 

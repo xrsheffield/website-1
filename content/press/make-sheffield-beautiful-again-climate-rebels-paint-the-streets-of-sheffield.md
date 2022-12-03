@@ -2,6 +2,7 @@
 title: "MAKE SHEFFIELD BEAUTIFUL AGAIN: CLIMATE REBELS PAINT THE STREETS OF SHEFFIELD"
 date: 2019-03-30
 Updated: Apr 11, 2019
+categories: [press]
 author: XR Sheffield Press
 ---
 

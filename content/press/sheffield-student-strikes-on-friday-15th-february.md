@@ -2,6 +2,7 @@
 title: SHEFFIELD STUDENT STRIKES ON FRIDAY 15TH FEBRUARY
 date: 2019-02-04
 Updated: Apr 11, 2019
+categories: [press]
 author: XR Sheffield Press
 ---
 

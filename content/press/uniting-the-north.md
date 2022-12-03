@@ -2,6 +2,7 @@
 title: UNITING THE NORTH - LEEDS SUMMER UPRISING
 date: 2019-07-20
 author: XR Sheffield Press
+categories: [press]
 --- 
 
 * Extinction Rebellion Leeds, supported by Extinction Rebellion Sheffield and Nottingham blocks a central road for a working week staging die-ins, speeches and music.

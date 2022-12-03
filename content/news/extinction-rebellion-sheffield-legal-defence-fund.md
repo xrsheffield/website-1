@@ -2,6 +2,7 @@
 title: EXTINCTION REBELLION SHEFFIELD LEGAL DEFENCE FUND
 date: 2019-07-23
 Updated: Aug 10, 2019
+categories: [news]
 author: XR Sheffield Press
 ---
 

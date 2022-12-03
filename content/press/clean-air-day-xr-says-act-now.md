@@ -2,6 +2,7 @@
 title: 'CLEAN AIR DAY – XR SAYS, “ACT NOW!”'
 date: 2019-06-14
 Updated: Jul 20, 2019
+categories: [press]
 ---
 
 * Toxic NO2 levels recorded by SCC’s partner organization care4air all across the city. Outside schools (eg Nether Edge school), at the station’s taxi rank (with taxis idling), and along congested routes like Spital Hill.

@@ -2,6 +2,7 @@
 title: "PETITION TO SHEFFIELD COUNCIL: STOP USING GLYPHOSATE"
 date: 2019-07-31
 Updated: Sep 19, 2019
+categories: [press]
 author: XR Sheffield Press
 cover_image: ban-glyphosphate-group.jpg
 ---

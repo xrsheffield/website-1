@@ -2,6 +2,7 @@
 title: SHEFFIELD FALLING BEHIND NOTTINGHAM AND MANCHESTER AS DAN JARVIS FAILS TO ACT
 date: 2020-06-26
 Updated: Aug 18, 2020
+categories: [news]
 author: XR Sheffield Press
 cover_image: town-hall-1.jpg
 ---

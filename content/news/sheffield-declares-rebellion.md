@@ -2,6 +2,7 @@
 title: SHEFFIELD DECLARES REBELLION
 date: 2019-09-19
 author: XR Sheffield Press
+categories: [news]
 ---
 
 * Extinction Rebellion Sheffield is will reaffirm their declaration a rebellion against the government

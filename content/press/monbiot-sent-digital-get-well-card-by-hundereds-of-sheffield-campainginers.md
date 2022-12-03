@@ -2,6 +2,7 @@
 title: MONBIOT SENT DIGITAL "GET WELL!' CARD BY HUNDREDS OF SHEFFIELD CAMPAIGNERS
 date: 2019-05-15
 author: XR Sheffield Press
+categories: [press]
 ---
 
 Hundreds of Sheffield tree campaigners and anti-climate change activists have got together to send a digital "get well!" card to writer and environmentalist George Monbiot after he was forced to cancel a speaking engagement here due to a second prostate cancer-related operation.

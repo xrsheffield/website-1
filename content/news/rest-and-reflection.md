@@ -2,6 +2,7 @@
 title: REST AND REFLECTION
 date: 2019-12-16
 author: XR Sheffield Press
+categories: [news]
 cover_image: box-of-xr-star-biscuits.jpg
 ---
 

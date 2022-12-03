@@ -2,6 +2,7 @@
 title: WE ARE MEETING EVERY MONDAY
 date: 2019-11-05
 Updated: Dec 13, 2019
+categories: [news]
 author: XR Sheffield Press
 ---
 

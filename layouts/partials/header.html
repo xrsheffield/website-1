@@ -15,7 +15,7 @@
 
             <ul>
                 {{ range site.Menus.main }}
-                    <li id="{{ replace .Name " " "-" }}"><a href="{{ .URL }}">{{ .Name | upper }}</a></li>
+                    <li id="menu-{{ replace .Name " " "-" }}"><a href="{{ .URL }}"><span class="icon"></span> {{ .Name | upper }}</a></li>
                 {{ end }}
             </ul>
         </nav>

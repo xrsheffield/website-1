@@ -2,6 +2,7 @@
 title: OIL ON THE WINGS OF A DOVE
 date: 2019-04-15
 author: XR Sheffield Press
+categories: [press]
 ---
 
 

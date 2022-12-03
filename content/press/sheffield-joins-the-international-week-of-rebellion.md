@@ -2,6 +2,7 @@
 title: SHEFFIELD JOINS THE INTERNATIONAL WEEK OF REBELLION
 date: 2019-04-08
 Updated: Apr 11, 2019
+categories: [press]
 author: XR Sheffield Press
 ---
 

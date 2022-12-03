@@ -1,3 +1,10 @@
+/* Fluid space measurements calculated using the following settings:
+
+width: 1100 to 550px / font size 24px to 14px
+@link https://utopia.fyi/space/calculator?c=550,14,1.2,1100,24,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,xs-m&g=s,l,xl,12 */
+
+
+
 @font-face {
     font-family: "fucxed";
     src: url(/fonts/fucxed.woff2);
@@ -39,7 +46,6 @@ html {
 }
 body {
     margin: 0;
-    background-color: #fff;
     font-family: 'Source Sans Pro', verdana, Arial, Helvetica, sans-serif;
     /* font-size: clamp(0.88rem, calc(0.72rem + 0.77vw), 1.25rem); */
     font-size: clamp(0.88rem, calc(0.50rem + 1.51vw), 1.50rem);
@@ -60,7 +66,7 @@ main,
 .inner {
     width: min(100%, var(--width));
     margin-inline: auto;
-    padding-inline: 2em;
+    padding-inline: clamp(0.69rem, calc(-0.87rem + 4.55vw), 2.25rem);
 }
 
 header {
@@ -123,7 +129,11 @@ header .main-menu ul {
 	color: #f6e705;
 	text-shadow: 2px 2px black;
 }
-li#home {
+.main-menu .icon svg {
+    max-width: 1em;
+    fill: yellow:
+}
+li#menu-home {
     display: none;
 }
 
@@ -166,8 +176,13 @@ header nav.socials ul {
 footer {
     background-color: var(--black);
     color: #fff;
+    background-image: url(/img/xr-logo-tilted.svg);
+    background-repeat: no-repeat;
+    background-size: 20em;
+    background-position: 30% -2em;
     padding-top: 1em;
 }
+
 footer a {
     color: #ccc;
 }
@@ -204,11 +219,14 @@ h3 {
     margin-bottom: 0.2em;
 }
 h1 {
-    font-size: 4em;
+    font-size: 3.6em;
 }
 h2 {
-    font-size: 2.5em;
+    font-size: 2.2em;
     border-bottom: 2px solid currentColor;
+}
+h2 a {
+    text-decoration: none;
 }
 h3 {
     font-size: 1.75em;
@@ -234,22 +252,25 @@ body.news h3 {
 button:hover {
     cursor: pointer;
 }
-.donate {
+
+.btn {
     display: inline-block;
-    background-color: #fff;
-    color: var(--black);
-    padding: 0.5em 1em;
-    font-size: 1em;
+    text-decoration: none;
+    font-size: 0.8em;
     font-family: 'fucxed', sans-serif;
     text-transform: uppercase;
-    height: 35px;
-    line-height: 20px;
+    /* height: 35px; */
+    /* line-height: 20px; */
     border: none;
     border-radius: 30px;
-}
-header .donate {
     background-color: var(--black);
     color: #fff;
+    padding: 0.5em 1em 0.3em 1em;
+}
+
+.donate {
+    background-color: #fff;
+    color: var(--black);
 }
 
 
@@ -260,16 +281,18 @@ header .donate {
     gap: 0.25em;
 }
 .link-box img {
-    max-width: 100%;
+    width: 100%;
 }
 
-a {
+header a {
     color: #000;
     text-decoration: none;
     transition: all 0.4s;
 }
 
-
+.time {
+    font-size: 0.8em;
+}
 .author-date {
     display: flex;
     gap: 2em;
@@ -326,10 +349,14 @@ a {
     margin: 3em 0;
     display: flex;
     justify-content: center;
-    gap: 1em;
+    gap: 0.25em;
+    font-size: 1.1em;
+}
+.pagination a {
+    text-decoration: none;
 }
 .pagination .active a {
-    color: darkred;
+    background-color: darkred;
 }
 
 
@@ -378,8 +405,8 @@ a {
 /* ---- Contact page ---- */
 
 .contact-list {
-    border: solid 20px var(--green);
-    padding: 2em;
+    border: solid clamp(0.88rem, calc(0.25rem + 1.82vw), 1.50rem) var(--green);
+    padding: clamp(0.88rem, calc(-0.50rem + 4.00vw), 2.25rem);
 }
 .contact-list ul {
     list-style-type: none;
@@ -443,7 +470,11 @@ input[type="text"] {
      top: 0;
      width: 100%;
      height: 100%;
-     background-color: #000000d4;;
+     background-color: #000000d4;
+     background-image: url(/img/xr-logo-tilted.svg);
+     background-repeat: no-repeat;
+     background-size: 90vw;
+     background-position: -10vw 120%;
      backdrop-filter: blur(5px);
     transition: all 0.7s;
     }
@@ -453,7 +484,7 @@ input[type="text"] {
         height: 60vh;
         text-align: center;
     }
-    li#home {
+    li#menu-home {
         display: block;
     }
     .hamburger {

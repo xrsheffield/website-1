@@ -2,6 +2,7 @@
 title: BARCLAYS SOLO PROTEST
 date: 2021-08-16
 author: XR Sheffield Press
+categories: [news]
 cover_image: solo-barclays-large.jpg
 ---
 

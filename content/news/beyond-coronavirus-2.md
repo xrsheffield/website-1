@@ -2,6 +2,7 @@
 title: Beyond Coronavirus 2
 date: 2020-06-12
 Updated: Jun 15, 2020
+categories: [news]
 author: Ci Davis
 ---
 

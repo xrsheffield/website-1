@@ -2,6 +2,7 @@
 title: STOP THE POLLUTION, BLOCK THE ROADS
 date: 2019-03-19
 Updated: Apr 11, 2019
+categories: [press]
 author: XR Sheffield Press
 ---
 

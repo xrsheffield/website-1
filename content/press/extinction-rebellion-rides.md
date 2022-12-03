@@ -2,6 +2,7 @@
 title: EXTINCTION REBELLION RIDES
 date: 2019-11-19
 author: XR Sheffield Press
+categories: [press]
 ---
 
 Press Release for Action on 14th July 2019

@@ -2,6 +2,7 @@
 title: LOOK TO THE FUTURE AS WELL AS THE PAST
 title: "Look to the Future"
 date: 2019-06-20
+categories: [press]
 Updated: Jul 2, 2019
 draft: false
 author: Graham Wroe

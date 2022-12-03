@@ -2,6 +2,7 @@
 title: ART ACTS NOW
 date: 2020-03-03
 Updated: Mar 7, 2020
+categories: [news]
 ---
 
 
