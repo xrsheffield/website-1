@@ -1,0 +1,23 @@
+    <li class="event-li"
+    {{ if .Params.cover_image }}
+        style="background-color: #fafafa;"
+    {{ end }}
+    >
+    <a href="{{ .RelPermalink }}">
+        <div class="catagory">{{ with .Params.Catagories }}{{ . }}{{ end }}</div>
+        <h3>{{ .LinkTitle }}</h3>
+
+        <div class="time">
+            <time>{{ .ExpiryDate.Format "3.04pm, 2 Jan 06" }}</time>
+        </div>
+
+        <section class="summary">
+            <p>{{ .Summary | truncate 200 }}</p>
+            
+            {{ if .Truncated }}
+                
+            <p><a href="{{ .RelPermalink }}">Read more ..</a></p>
+            {{ end }}
+        </section>
+    </a>
+    </li>

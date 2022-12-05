@@ -23,6 +23,8 @@ New member Catherine says:
 
 > "In August me and my partner went to London to take part in the 'Impossible Rebellion'. We’d never joined a protest or taken part in direct action, but were moved to get involved after hearing the shocking IPCC report headlines and Code Red for Humanity. We read that global warming of 2°C will be exceeded unless deep reductions in carbon dioxide occur. It was shocking. But jolted us into action. Since then we’ve attended the MMMs and joined some other XR Sheffield activities. The MMM is where people come along, learn about what is happening in XR and think about where they can get involved. People might break into groups to talk about a specific issue or plan action. There is an idea that ‘we are all crew’, that everyone can practically contribute, so you are encouraged to get involved in the things that interest you or that you have time for. I generally work six or seven days a week, life is very busy, but I feel better turning up on a Monday and being involved in an organisation that is raising the alarm about the climate emergency and trying to get politicians to act."
 
-## UPCOMING EVENTS
+## Meetings & events
 
-For all our latest events see our [Facebook page](https://www.facebook.com/pg/xrshef/events/).
+{{< event-list >}}
+
+Also our latest events are on our [Facebook page](https://www.facebook.com/pg/xrshef/events/).

@@ -1,0 +1,7 @@
+<ul class="list-page-list">
+    {{ range where site.RegularPages.ByExpiryDate "Section" "events" }}
+        {{ .Render "event-li" }}
+    {{ end }}
+</ul>
+
+<p>For a full list see <a class="btn" href="/events/">events</a></p>

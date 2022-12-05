@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'EXTINCTION REBELLION SHEFFIELD'
+title = 'XR Sheffield'
 sectionPagesMenu = "footer"
 enableGitInfo = true
 
@@ -27,12 +27,12 @@ paginate = 10
     url = "/get-involved/"
     weight = "200"
     pre = "<svg viewBox='0 0 24 24' id='jn'><use href='/img/socials.svg#join'></use></svg>"
-  [[menu.main]]
-    identifier = "press"
-    name = "press"
-    url = "/press/"
-    weight = "300"
-    pre = "<svg viewBox='0 0 24 24' id='prss'><use href='/img/socials.svg#press'></use></svg>"
+  # [[menu.main]]
+  #   identifier = "press"
+  #   name = "press"
+  #   url = "/press/"
+  #   weight = "300"
+  #   pre = "<svg viewBox='0 0 24 24' id='prss'><use href='/img/socials.svg#press'></use></svg>"
   [[menu.main]]
     identifier = "news"
     name = "news"
