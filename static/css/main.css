@@ -4,7 +4,6 @@ width: 1100 to 550px / font size 24px to 14px
 @link https://utopia.fyi/space/calculator?c=550,14,1.2,1100,24,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,xs-m&g=s,l,xl,12 */
 
 
-
 @font-face {
     font-family: "fucxed";
     src: url(/fonts/fucxed.woff2);
@@ -41,13 +40,100 @@ width: 1100 to 550px / font size 24px to 14px
     --width: 1100px;
 }
 
+/* ----- MOBILE HAMBURGER NAV ------ */
+
+/*!
+ * Hamburgers
+ * @description Tasty CSS-animated hamburgers
+ * @author Jonathan Suh @jonsuh
+ * @site https://jonsuh.com/hamburgers
+ * @link https://github.com/jonsuh/hamburgers
+ */
+.hamburger {
+  padding: 15px 15px;
+  display: inline-block;
+  cursor: pointer;
+  transition-property: opacity, filter;
+  transition-duration: 0.15s;
+  transition-timing-function: linear;
+  font: inherit;
+  color: inherit;
+  text-transform: none;
+  background-color: transparent;
+  border: 0;
+  margin: 0;
+  overflow: visible; }
+  .hamburger:hover {
+    opacity: 0.7; }
+  .hamburger.is-active:hover {
+    opacity: 0.7; }
+  .hamburger.is-active .hamburger-inner,
+  .hamburger.is-active .hamburger-inner::before,
+  .hamburger.is-active .hamburger-inner::after {
+    background-color: #000; }
+
+.hamburger-box {
+  width: 40px;
+  height: 24px;
+  display: inline-block;
+  position: relative; }
+
+.hamburger-inner {
+  display: block;
+  top: 50%;
+  margin-top: -2px; }
+  .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
+    width: 40px;
+    height: 4px;
+    background-color: #000;
+    border-radius: 4px;
+    position: absolute;
+    transition-property: transform;
+    transition-duration: 0.15s;
+    transition-timing-function: ease; }
+  .hamburger-inner::before, .hamburger-inner::after {
+    content: "";
+    display: block; }
+  .hamburger-inner::before {
+    top: -10px; }
+  .hamburger-inner::after {
+    bottom: -10px; }
+
+
+
+/*
+   * Arrow
+   */
+.hamburger--arrow.is-active .hamburger-inner::before {
+  transform: translate3d(-8px, 0, 0) rotate(-45deg) scale(0.7, 1); }
+
+.hamburger--arrow.is-active .hamburger-inner::after {
+  transform: translate3d(-8px, 0, 0) rotate(45deg) scale(0.7, 1); }
+
+
+/*
+   * Arrow Turn
+   */
+.hamburger--arrowturn.is-active .hamburger-inner {
+  transform: rotate(-180deg); }
+  .hamburger--arrowturn.is-active .hamburger-inner::before {
+    transform: translate3d(8px, 0, 0) rotate(45deg) scale(0.7, 1); }
+  .hamburger--arrowturn.is-active .hamburger-inner::after {
+    transform: translate3d(8px, 0, 0) rotate(-45deg) scale(0.7, 1); }
+
+
+
 html {
     scroll-behavior: smooth;
 }
 body {
     margin: 0;
     font-family: 'Source Sans Pro', verdana, Arial, Helvetica, sans-serif;
-    font-size: clamp(0.88rem, calc(0.50rem + 1.51vw), 1.50rem);
+    /* font-size: clamp(0.88rem, calc(0.50rem + 1.51vw), 1.50rem); */
+    
+    /* starting at 1920 width with 25px */
+    /* @link https://utopia.fyi/type/calculator?c=400,14,1.2,1920,25,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+    font-size: clamp(0.88rem, calc(0.69rem + 0.72vw), 1.56rem);
     line-height: 1.4;
     color: var(--black);
 }
@@ -73,9 +159,7 @@ header {
     padding-bottom: 0.75em;
     font-family: "fucxed", sans-serif;
     background-color: var(--blue);
-    background-image: 
-    linear-gradient(to bottom, #2225, transparent 50%),
-    url(/img/climate-book-gradient.svg);
+    background-image: url(/img/climate-book-gradient.svg);
     background-size: 100%;
     letter-spacing: -.02em;
     word-spacing: -0.2em;
@@ -91,7 +175,7 @@ header .inner {
     gap: 1.5em;
 }
 .main-heading img {
-    width: 14em;
+    width: 10em;
     transition: 0.3s;
 }
 .main-heading img:hover {
@@ -547,4 +631,5 @@ input[type="text"] {
     .hamburger {
         display: block;
     }
-}    
+}  
+

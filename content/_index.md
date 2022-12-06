@@ -8,7 +8,7 @@ draft: false
 
 Hello to anyone visiting this website … you may be here because you have feelings about the climate crisis that you find difficult to express. The intensity and overwhelming nature of it gets to us all and we’re right here with you. For some of us one thing that can help is knowing we’re fighting for a better future and whatever our differences we’ve found a group of people who care - and who care about each other.
 
-Extinction Rebellion (XR) needs people who both take action, and those who support those taking action - and many of us do bits of both! We take time out to share food and make each other smile and check in when it all feels a bit too much. If you want to get in touch to talk about climate grief or just share how you’re feeling - even if that’s all you’re ready to do with XR at the moment - drop us a line.  XRSheffield@gmail.com. 
+Extinction Rebellion (XR) needs people who both take action, and those who support those taking action - and many of us do bits of both! We take time out to share food and make each other smile and check in when it all feels a bit too much. If you want to get in touch to talk about climate grief or just share how you’re feeling - even if that’s all you’re ready to do with XR at the moment - drop us a line {{< main-email >}}. 
 
 {{< link_box >}}
 

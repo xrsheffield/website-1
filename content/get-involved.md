@@ -13,9 +13,6 @@ We have many different working groups so whatever your skills or particular inte
 Current working groups include:
 
 
-- Justice
-- Regeneration
-- Rebel Gardening
 - Samba Band
 - Arts and Crafts 
 - Banner Dropping
@@ -24,9 +21,10 @@ Current working groups include:
 - Monday Meeting Planning Group
 - Media and Messaging
 - Stalls / Climate Hub
+- Website
 
 
-If any of these interest you, drop us an email on xrsheffield@gmail.com and we’ll link you up!
+If any of these interest you, drop us an email on {{< main-email >}} and we’ll link you up!
 
 We’re also always keen for new working groups so if you have an idea, let us know! (And if you have any legal experience we’re particularly keen to hear from you.)
 
@@ -40,14 +38,13 @@ For links to national and local resources, see below.
 
 ## VOLUNTEERING
 
-We are facing an ecological crisis and we need your help. Our beautiful movement is built on the work of volunteers who give their time and energy to help achieve radical change. Whether you have a lot of time or only a small amount, if you would like to contribute, please contact us. The list below shows the roles we need to fill a bit more urgently but there are always lots of things you can do to support our work - a list of our working groups is on this page. Get in touch at <a href="mailto:xrsheffield@gmail.com">xrsheffield@gmail.com</a>
+We are facing an ecological crisis and we need your help. Our beautiful movement is built on the work of volunteers who give their time and energy to help achieve radical change. Whether you have a lot of time or only a small amount, if you would like to contribute, please contact us. The list below shows the roles we need to fill a bit more urgently but there are always lots of things you can do to support our work - a list of our working groups is on this page. Get in touch at {{< main-email >}}
 
 
 ## Vacancies
 
-**Talks and Training:** Could you help to coordinate our regular talks and events? If you're interested please contact  
-xrsheffield@gmail.com or  
-xrsheffieldtrainingandtalks@gmail.com
+**Talks and Training:** Could you help to coordinate our regular talks and events? If you're interested please contact {{< main-email >}}
+
 
 **Legal WG:** We now have a co-ordinator for this new group, but we need volunteers to help to run the WG to offer advice and support to arrestees or those with questions regarding legal matters, no prior experience needed.
 
