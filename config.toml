@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://xrsheffield.org/'
 languageCode = 'en-us'
 title = 'XR Sheffield'
 sectionPagesMenu = "footer"
@@ -94,3 +94,5 @@ paginate = 10
 
 [params]
   email = "xrsheffield@gmail.com"
+  og_image = "https://xrsheffield.org/img/xrs-og.png"
+  description = "Extinction Rebellion Sheffield promotes non-violent direct action & civil disobedience for action on the climate & ecological crisis."

@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ if or ( eq .Section "press") (eq .Section "news" ) }}
+{{ if or ( eq .Section "press") (eq .Section "news" ) (eq .Section "events") }}
     {{ partial "author-date" . }}
 {{ end }}
 
@@ -21,6 +21,8 @@
 <section class="content">
     {{ .Content }}
 </section>
+
+{{ partial "social-share-btns" . }}
 
     {{ if eq .Section "press" }}
         <h2>Press Releases</h2>

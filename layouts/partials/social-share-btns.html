@@ -1,0 +1,26 @@
+
+<div class="social-share-btns">
+    <div class="share">SHARE:</div>
+    <a class="facebook-btn share-btn" href="https://www.facebook.com/sharer.php?u={{ .RelPermalink }}" title="Share this story on Facebook">
+        <svg viewBox="0 0 56.693 56.693" id='fb'><use href='/img/socials.svg#fb'></use></svg>
+    </a>
+    <a class="twitter-btn share-btn" href="https://twitter.com/share?url={{ .Permalink }}&text={{ .Title }}&via=[via]&hashtags=[hashtags]" title="Share this story on Twitter">
+        <svg viewBox='0 0 24 24' id='twitter'><use href='/img/socials.svg#twitter'></use></svg>
+        </a>
+        
+    <a class="mastodon-btn share-btn" href="https://toot.kytta.dev/">
+        <svg viewBox="0 0 512 512" id="mastodon" onclick="MastodonShare(this);" data-src="{{ .Title }}&amp;url={{ .Permalink }}"><use href='/img/socials.svg#mastodon'></use></svg>
+    </a>
+    
+    {{/*  <a class="mastodon-btn share-btn" href="" onclick="shareMastodon();">
+               <svg viewBox="0 0 512 512" id="mastodon"><use href='/img/socials.svg#mastodon'></use></svg>
+    </a>  */}}
+
+    <a class="pinterest-btn share-btn" href="https://pinterest.com/pin/create/bookmarklet/?media=[post-img]&url={{ .Permalink }}&is_video=[is_video]&description={{ .Title }}" title="Share this story on Pinterest">
+        <svg viewBox='0 0 512 512' id='pinterest'><use href='/img/socials.svg#pinterest'></use></svg>
+    </a>
+    <a class="whatsapp-btn share-btn" href="https://api.whatsapp.com/send?text={{ .Title }} {{ .Permalink }}" title="Share this story on WhatsApp">
+        <svg  viewBox='0 0 56.693 56.693' id='whatsapp'><use href='/img/socials.svg#whatsapp'></use></svg>
+    </a>
+        
+</div>

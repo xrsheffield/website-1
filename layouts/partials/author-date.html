@@ -1,9 +1,11 @@
-<div class="author-date">
+    <div class="author-date">
+        <div class="section">Posted in: <a href="/{{.Section }}">{{ .Section | title }}</a></div>
+
         {{ with .Params.author }}
-        <div class="author">{{ . }}</div>
+        <div class="author">By: {{ . }}</div>
         {{ end }}
         {{ with .Date }}
-            <time>{{ .Format "Jan 02, 2006" }}</time>
+            <time>on {{ .Format "Jan 02, 2006" }}</time>
         {{ end }}
         <div class="reading-time">{{ .ReadingTime }} min read</div>
     </div>

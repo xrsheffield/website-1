@@ -8,7 +8,7 @@ We are a group of people in Sheffield taking part in the international Extinctio
 
 This is a group aimed at promoting non-violent direct action & civil disobedience for action on the climate & ecological crisis.
 
-We have weekly meetings at Union St on Mondays. Food served for a recommended donation of £3 from 6pm. Meetings then begin at 6.45pm and continue until around 8pm.
+We have [weekly meetings](/events/) at Union St on Mondays. The doors are open from 6pm. Meetings then begin at 6.45pm and continue until around 8pm.
 
 {{< our-3-demands >}}
 

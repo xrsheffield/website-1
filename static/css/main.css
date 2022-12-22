@@ -38,6 +38,12 @@ width: 1100 to 550px / font size 24px to 14px
     --yellow: #FFC113;
     --black: #181818;
     --width: 1100px;
+    --facebook-blue: #1877f2;
+    --twitter-blue: #1da1f2;
+    --pinterest-red: #e60023;
+    --pocket-orange: #ef4056;
+    --whatsapp-green: #25d366;
+    --mastodon-purple: #615EF8;
 }
 
 /* ----- MOBILE HAMBURGER NAV ------ */
@@ -145,7 +151,7 @@ body {
 }
 main {
     background-color: #fff;
-    padding: 1em;
+    padding-top: 5em;
 }
 main,
 .inner {
@@ -304,6 +310,7 @@ h3 {
 }
 h1 {
     font-size: 3.6em;
+    margin-top: 0.5rem;
 }
 h2 {
     font-size: 2.2em;
@@ -320,6 +327,9 @@ h3 + p {
 }
 p {
     margin-top: 0;
+}
+main p, main li {
+    color: #444;
 }
 
 /* body.press h1,
@@ -412,6 +422,67 @@ header a {
 
 .cover-image {
     border-radius: 5px;
+    display: block;
+    max-height: 80vh;
+    margin: 2em 0;
+}
+
+
+/* ----- SOCIAL SHARE BUTTONS ------- */
+
+.social-share-btns {
+    margin: 2em 0 4em 0;
+    display: flex;
+    justify-content: center;
+    gap: .25em;
+    }
+    .share {
+    line-height: 0;
+    display: flex;
+    align-items: center;
+    margin-right: 0.5em;
+    }
+    a.share-btn {
+        line-height: 0;
+        width: 1.25em;
+        padding: 0.25em 1em;
+        box-sizing: content-box;
+        border-radius: 5px;
+        transition: all 400ms;
+        cursor: pointer;
+    }
+    a.share-btn:hover {
+        transform: scale(1.15);
+    }
+
+    .facebook-btn {
+        background-color: var(--facebook-blue);
+    }
+
+    .twitter-btn {
+        background-color: var(--twitter-blue);
+    }
+
+    .pinterest-btn {
+        background-color: var(--pinterest-red);
+    }
+
+    .pocket-btn {
+        background-color: var(--pocket-orange);
+    }
+
+    .whatsapp-btn {
+        background-color: var(--whatsapp-green);
+    }
+
+    .mastodon-btn {
+        background-color: var(--mastodon-purple);
+    }
+
+    .share-btn #twitter,
+    .share-btn #fb,
+    #mastodon {
+    fill: white;
 }
 
 
@@ -586,7 +657,7 @@ header a {
     fill: #1D9BF0;
 }
 .contact-socials #ig {
-    fill: #DD2A7B;
+    fill: #c13584;
 }
 .contact-socials #yt {
     fill: darkred;

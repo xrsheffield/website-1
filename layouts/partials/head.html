@@ -7,12 +7,19 @@
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
 
-    {{/*  <link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/renner" type="text/css"/>   */}}
+    <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}"/>
+    <link rel="dns-prefetch" href="{{ .Site.BaseURL }}">
+    <link rel="preconnect" href="{{ .Site.BaseURL }}">
+    <link rel="canonical" href="{{ .Site.BaseURL }}"/>
 
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22256%22 height=%22256%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2250%22 fill=%22%237ed321%22></rect><path fill=%22%23171717%22 d=%22M6.38 73.31L21.39 49.34L6.96 26.69L17.78 26.69Q18.83 26.69 19.33 26.96Q19.82 27.23 20.21 27.87L20.21 27.87L29.49 43.58Q29.65 43.17 29.86 42.78Q30.06 42.40 30.32 41.98L30.32 41.98L38.45 28.03Q39.25 26.69 40.62 26.69L40.62 26.69L50.99 26.69L36.37 48.86L51.31 73.31L40.50 73.31Q39.44 73.31 38.78 72.80Q38.13 72.29 37.74 71.58L37.74 71.58L28.40 55.26Q28.14 55.97 27.82 56.48L27.82 56.48L19.12 71.58Q18.74 72.26 18.10 72.78Q17.46 73.31 16.50 73.31L16.50 73.31L6.38 73.31ZM69.04 56.06L66.29 56.06L66.29 73.31L55.47 73.31L55.47 26.69L70.64 26.69Q75.70 26.69 79.26 27.73Q82.83 28.77 85.09 30.62Q87.34 32.48 88.37 35.01Q89.39 37.54 89.39 40.51L89.39 40.51Q89.39 42.78 88.78 44.80Q88.18 46.82 86.98 48.53Q85.78 50.24 84.03 51.58Q82.29 52.93 80.02 53.79L80.02 53.79Q81.10 54.34 82.05 55.14Q82.99 55.94 83.70 57.09L83.70 57.09L93.62 73.31L83.82 73.31Q81.10 73.31 79.92 71.26L79.92 71.26L72.18 57.73Q71.66 56.83 70.98 56.45Q70.29 56.06 69.04 56.06L69.04 56.06ZM66.29 34.78L66.29 48.61L70.64 48.61Q72.85 48.61 74.40 48.05Q75.95 47.49 76.94 46.50Q77.94 45.50 78.38 44.18Q78.83 42.85 78.83 41.31L78.83 41.31Q78.83 38.24 76.83 36.51Q74.83 34.78 70.64 34.78L70.64 34.78L66.29 34.78Z%22></path></svg>" />
     <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ site.Title }}</title>
     <link rel="stylesheet" href="{{ "/css/main.css" | relURL }}">
-    <script src="/js/main.js" async></script>
+
+    {{ partial "og" }}
+
+    <script src="/js/main.js" defer></script>
+    <script src="https://unpkg.com/mastodon-share-button@latest/dist/mastodon-share-button.js"></script>
     {{ with .Params.css }}
     <style>
         {{ range . }}

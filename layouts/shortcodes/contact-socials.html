@@ -1,7 +1,7 @@
 <nav class="contact-socials">
     <ul>
         {{ range first 4 site.Menus.social }}
-            <li><a href="{{ .URL }}">{{ .Pre }}<br>{{ .Name }}</a></li>
+            <li><a href="{{ .URL }}" title="Our {{.Name | title }} page">{{ .Pre }}<br>{{ .Name }}</a></li>
         {{ end }}
     </ul>
 </nav>
