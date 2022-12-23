@@ -41,7 +41,7 @@ Greta Thunberg visited COP 24 (The UN Climate Conference) and delivered this spe
 
 Contact: Nathan Strathdee 07741490906 njstrathdee1@sheffield.ac.uk
 
-Dr Bing Jones 07711447306 bingportraits@gmail.com xrsheffield@gmail.com
+Dr Bing Jones 07711447306 bingportraits@gmail.com {{< main-email >}}
 
 Facebook https://www.facebook.com/events/1188085694677545/
 

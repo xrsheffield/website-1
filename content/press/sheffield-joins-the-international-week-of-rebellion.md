@@ -56,7 +56,7 @@ Linda Duckenfield:
 
 - George Hume: xrshefpress@gmail.com
 
-- Dr Bing Jones, 07711447306, bingportraits@gmail.com, xrsheffield@gmail.com
+- Dr Bing Jones, 07711447306, bingportraits@gmail.com, {{< main-email >}}
 
 - Facebook Event: https://www.facebook.com/events/2051317091653946/
 

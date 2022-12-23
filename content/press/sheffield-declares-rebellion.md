@@ -25,7 +25,7 @@ To read our full declaration please visit: https://rebellion.earth/declaration/
 
 Nathan Strathdee: 07741490906, xrshefpress@gmail.com
 
-Dr Bing Jones: 07711447306, bingportraits@gmail.com, xrsheffield@gmail.com
+Dr Bing Jones: 07711447306, bingportraits@gmail.com, {{< main-email >}}
 
 Facebook: https://www.facebook.com/events/358493925030809/
 

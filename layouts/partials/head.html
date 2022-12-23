@@ -16,7 +16,7 @@
     <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ site.Title }}</title>
     <link rel="stylesheet" href="{{ "/css/main.css" | relURL }}">
 
-    {{ partial "og" }}
+    {{ partial "og" . }}
 
     <script src="/js/main.js" defer></script>
     <script src="https://unpkg.com/mastodon-share-button@latest/dist/mastodon-share-button.js"></script>

@@ -59,7 +59,7 @@ George Hume: xrshefpress@gmail.com
 
 Dr Bing Jones: 07711447306, bingportraits@gmail.com
 
-Nila: xrsheffield@gmail.com
+Nila: {{< main-email >}}
 
 Facebook: Extinction Rebellion Sheffield
 

@@ -2,6 +2,7 @@
 title: "THE CLIMATE CRISIS IS HAPPENING NOW"
 date: 2022-11-19T10:39:46Z
 draft: false
+description: Sheffield Extinction Rebellion  promotes non-violent direct action & civil disobedience for action on the climate & ecological crisis.
 ---
 
 

@@ -19,7 +19,7 @@ HSBC has invested £45billion in fossil fuels in the last 3 years in countries s
 
 ### Contact Details:
 
-- Extinction Rebellion Sheffield: xrsheffield@gmail.com 
+- Extinction Rebellion Sheffield: {{< main-email >}} 
 - Mr. Geoff Cox: 07543 199810
 - Dr. Bing Jones: 07711 447306
 - XR Sheffield Press Team: xrshefpress@gmail.com

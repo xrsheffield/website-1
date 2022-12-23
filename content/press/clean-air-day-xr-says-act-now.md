@@ -35,7 +35,7 @@ See how the air quality in Sheffield is here: https://bit.ly/2KSKTHE
 
 ## Contact Details:
 
-* Extinction Rebellion Sheffield: xrsheffield@gmail.com
+* Extinction Rebellion Sheffield: {{< main-email >}}
 
 * XR Sheffield Press Team: xrshefpress@gmail.com
 

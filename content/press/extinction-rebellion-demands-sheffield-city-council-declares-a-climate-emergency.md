@@ -46,7 +46,7 @@ Extinction Rebellion is an international non-violent direct action group that is
 
 Contact: Nathan Strathdee 07741490906 njstrathdee1@sheffield.ac.uk
 
-Dr Bing Jones 07711447306 bingportraits@gmail.com xrsheffield@gmail.com
+Dr Bing Jones 07711447306 bingportraits@gmail.com {{< main-email >}}
 
 Facebook https://www.facebook.com/events/1188085694677545/
 

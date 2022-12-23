@@ -40,7 +40,7 @@ Facebook Event: https://www.facebook.com/events/1242459779263529/
 
 - George Hume, xrshefpress@gmail.com
 
-- Dr Bing Jones, 07711447306, bingportraits@gmail.com, xrsheffield@gmail.com
+- Dr Bing Jones, 07711447306, bingportraits@gmail.com, {{< main-email >}}
 
 - Facebook: Extinction Rebellion Sheffield
 

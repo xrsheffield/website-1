@@ -33,8 +33,9 @@ width: 1100 to 550px / font size 24px to 14px
     --light-blue: #76D0F2;
     /* --blue: #05B8FC; old blue */
     --blue: #21ACE2;
-    --dark-blue: #084697;
-    --dark-blue: #3960AB;
+    --dark-blue: #198bb8;
+    --darker-blue: #084697;
+    --darker-blue: #3960AB;
     --yellow: #FFC113;
     --black: #181818;
     --width: 1100px;
@@ -298,8 +299,7 @@ footer .inner {
 }
 
 h1,
-h2,
-h3 {
+h2 {
     color: var(--blue);
     font-family: fucxed, sans-serif;
     text-transform: uppercase;
@@ -315,21 +315,27 @@ h1 {
 h2 {
     font-size: 2.2em;
     border-bottom: 2px solid currentColor;
+    margin-top: 2em;
 }
 h2 a {
     text-decoration: none;
 }
 h3 {
-    font-size: 1.75em;
+    font-size: 1.5em;
+    color: var(--blue);
+    margin-bottom: 0.25rem;
 }
 h3 + p {
-    margin-top: 0.25em;
+    margin-top: 0.25rem;
 }
 p {
     margin-top: 0;
 }
 main p, main li {
     color: #444;
+}
+main li::marker {
+    color: var(--dark-blue);
 }
 
 /* body.press h1,
@@ -445,7 +451,7 @@ header a {
     a.share-btn {
         line-height: 0;
         width: 1.25em;
-        padding: 0.25em 1em;
+        padding: 0.25em clamp(0.25rem, calc(-0.89rem + 5.71vw), 1.25rem);
         box-sizing: content-box;
         border-radius: 5px;
         transition: all 400ms;

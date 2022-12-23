@@ -56,7 +56,7 @@ His October 2017 article on Sheffield trees and PFI's': https://www.theguardian.
 
 ### Contact Details: 
 
-- Email: xrsheffield@gmail.com xrshefpress@gmail.com 
+- Email: {{< main-email >}} xrshefpress@gmail.com 
 - Facebook: https://www.facebook.com/events/1188085694677545/ 
 - Twitter: @XRShef 
 - Instagram: @XRShef Notes to editors Climate Factsheet for Rebels https://rebellion.earth/the-climate-factsheet-for-rebels/ 
