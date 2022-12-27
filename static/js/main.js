@@ -12,7 +12,7 @@ function tggle() {
 
 
 
-
+/*
 function shareMastodon() {
   // Prefill the form with the user's previously-specified Mastodon instance, if applicable
   var default_url = localStorage['mastodon_instance'];
@@ -65,3 +65,5 @@ function shareMastodon() {
     window.open(mastodon_url, '_blank');
   }
 }
+
+*/

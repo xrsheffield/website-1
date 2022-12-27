@@ -6,19 +6,57 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>404 Page not found</title>
     <style>
+        
+@font-face {
+    font-family: "fucxed";
+    src: url(/fonts/fucxed.woff2);
+}
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url(/fonts/SourceSansPro-Regular.woff2);
+}
         body {
-        margin: 0;
-        background-color: pink;
-    }
-        .wrapper {
-        display: grid;
-        place-content: center;
+            margin: 0;
+            background-color: #222;
+            color: lightblue;
+            font-family: 'Source Sans Pro';
+            font-size: clamp(0.88rem, calc(0.69rem + 0.72vw), 1.56rem);
+
         }
+        .wrapper {
+            min-height: 100vh;
+            display: grid;
+            place-content: center;
+        }
+        section {
+            width: min-content;
+        }
+        .four-oh-four {
+            font-size: clamp(9.38rem, calc(4.65rem + 23.65vw), 31.25rem);
+            line-height: 1;
+            font-family: fucxed, sans-serif;
+            color: transparent;
+            background-image: url(/img/climate-book-gradient.svg);
+            background-size: 100%;
+            background-clip: text;
+        }
+        .four-oh-four + p {
+            margin-top: 0;
+        }
+        p {
+            text-align: center;
+        }
+        a {
+        color: #fff;
+    }
     </style>
 </head>
 <body>
     <div class="wrapper">
-        <div class="four-oh-four">404</div>
+        <section>
+            <div class="four-oh-four">404</div>
+            <p>That page cannot be found. Try <a href="/search/">searching</a> the site for a keyword.</p>
+        </section>
     </div>
 </body>
 </html>

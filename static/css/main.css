@@ -7,20 +7,24 @@ width: 1100 to 550px / font size 24px to 14px
 @font-face {
     font-family: "fucxed";
     src: url(/fonts/fucxed.woff2);
+    font-display: block;
 }
 @font-face {
     font-family: "Source Sans Pro";
     src: url(/fonts/SourceSansPro-Regular.woff2);
+    font-display: block;
 }
 @font-face {
     font-family: "Source Sans Pro";
     src: url(/fonts/SourceSansPro-Italic.woff2);
     font-style: italic;
+    font-display: block;
 }
 @font-face {
     font-family: "Source Sans Pro";
     src: url(/fonts/SourceSansPro-Bold.woff2);
     font-weight: bold;
+    font-display: block;
 }
 
 *, *::before, *::after {
