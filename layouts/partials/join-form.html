@@ -1,0 +1,115 @@
+<section class="join join-form">
+  <h2>
+    WANT TO JOIN THE REBELLION?<br />
+    <span>SIGN UP TO OUR MAILING LIST</span>
+  </h2>
+
+  <p>Get news from across Extinction Rebellion (XR), from your local area through to XR UK and XR Global. Get the inspiring stories, insider invites and part-of-something-big updates that matter to you, wherever you are. And to connect you to your fellow ‘rebels’ of course!</p>
+
+  <p class="btn-container"><button id="show-form" class="btn" onclick="revealForm()">Join the Rebellion!!</button></p>
+  
+    <div id="mainContent" class="gen_wrapper">
+  
+  <p>Email and consent are the only mandatory fields but:<br><span style="text-transform:uppercase;">Make sure you enter a Sheffield postcode to get XR Sheffield mailings.</span></p>
+    {{/*  original CSS link: <link href="https://actionnetwork.org/css/style-embed-whitelabel-v3.css" rel="stylesheet" type="text/css" />  */}}
+    <link href="/css/join-form.css" rel="stylesheet" type="text/css" />
+    <script src="https://actionnetwork.org/widgets/v5/form/local-group-sign-up-form-referrer-codes?format=js&referrer=&source=joinxr&style=full&css=whitelabel"></script>
+    <div id="can-form-area-local-group-sign-up-form-referrer-codes" style="width: 100%" ></div>
+    <noscript>
+      <p> A version of this action that uses less javascript and may be usable for those who don't use javascript is available at <a href="https://actionnetwork.org/forms/local-group-sign-up-form-referrer-codes?nowrapper=true&referrer=&source=joinxr" >https://actionnetwork.org/forms/local-group-sign-up-form-referrer-codes?nowrapper=true&referrer=&source=joinxr&oneclick=</a > </p>
+    </noscript>
+  </div>
+  <script>
+    // This script will insert the name of the local group in
+    // a span with the ID 'localgroup'.
+    // The local group name is taken from the 'LGmap_location'
+    // URL parameter.
+    // The main content of the form is loaded dynamically, so this
+    // code needs to run inside a mutation observer.
+    const targetNode = document.getElementById('mainContent');
+
+    // Options for the observer (which mutations to observe)
+    const config = { attributes: true, childList: true, subtree: true };
+
+    // Callback function to execute when mutations are observed
+    const callback = function (mutationsList, observer) {
+      // Find the element with the ID 'localgroup'
+      var localGroupElement = document.getElementById('localgroup');
+      if (localGroupElement) {
+        // Get the local group name from the URL parameters
+        const urlParams = new URLSearchParams(window.location.search);
+        const localGroup = urlParams.get('LGmap_location');
+        if (localGroup) {
+          console.log('Local group is ' + localGroup);
+
+          // Disconnect the observer so it doesn't react to *this* mutation
+          observer.disconnect();
+          // Set the content of the local group element
+          localGroupElement.innerHTML = localGroup;
+        } else {
+          console.log(
+            'No LGmap_location parameter in the URL. Not setting local group.'
+          );
+        }
+      } else {
+        console.log('No element with ID localgroup');
+      }
+    };
+
+    // Create an observer instance linked to the callback function
+    const observer = new MutationObserver(callback);
+
+    // Start observing the target node for configured mutations
+    observer.observe(targetNode, config);
+  </script>
+  <script>
+    (function () {
+      var js =
+        "window['__CF$cv$params']={r:'78853d8fbcfc7774',m:'pUQQn7QFWaS7BCLBw.ut3ao1dhmzWGwD0pzgelK0oJQ-1673519675-0-AZdSfqp4xefN0u1nK/RlB67ZO0rIHq3WdR1xxzpnA2rZ8Be7qffVAjJRlGn1PADD5v9OILGtf8JpSKBX/OuqldGZUvp++bzNv/oWRW9avi8zisWhh/3f4jX6I9g0sMZDDPSZrOaV/MIfYV+q/BAsxxuGfqaKTq2HcOiQRur5SSX032x60K/cRr3NWzU3OWIYqoj+wENVk5xdZuCjnMBUB5Dku0XKHuaNmaj7+2tcFWP3c+q4zPgYTDI7uAzcfqOkhw==',s:[0xb2d204effc,0x447ce953aa],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";
+      var _0xh = document.createElement('iframe');
+      _0xh.height = 1;
+      _0xh.width = 1;
+      _0xh.style.position = 'absolute';
+      _0xh.style.top = 0;
+      _0xh.style.left = 0;
+      _0xh.style.border = 'none';
+      _0xh.style.visibility = 'hidden';
+      document.body.appendChild(_0xh);
+      function handler() {
+        var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;
+        if (_0xi) {
+          var _0xj = _0xi.createElement('script');
+          _0xj.nonce = '';
+          _0xj.innerHTML = js;
+          _0xi.getElementsByTagName('head')[0].appendChild(_0xj);
+        }
+      }
+      if (document.readyState !== 'loading') {
+        handler();
+      } else if (window.addEventListener) {
+        document.addEventListener('DOMContentLoaded', handler);
+      } else {
+        var prev = document.onreadystatechange || function () {};
+        document.onreadystatechange = function (e) {
+          prev(e);
+          if (document.readyState !== 'loading') {
+            document.onreadystatechange = prev;
+            handler();
+          }
+        };
+      }
+    })();
+  </script>
+  <script>
+    const form =document.getElementById('mainContent');
+    const showBtn = document.getElementById('show-form');
+    const emailField = document.getElementById('form-email');
+    
+    emailField.setAttribute('autofocus');
+
+    function revealForm() {
+      form.style.display == "block" ? form.style.display = "none" : form.style.display = "block";
+      showBtn.textContent == "Join the Rebellion!!" ? showBtn.textContent = "Hide form" : showBtn.textContent = "Join the Rebellion!!";
+    }
+  </script>
+</section>

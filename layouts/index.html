@@ -1,13 +1,16 @@
 {{ define "main" }}
 
-<div class="time">
-   <i>Site updated on:</i> <time>{{ now.Format "Monday Jan 2, 2006" }}</time>
-</div>
+    <div class="time">
+    <i>Site updated on:</i> <time>{{ now.Format "Monday Jan 2, 2006" }}</time>
+    </div>
 
-<h1>{{ .Title }}</h1>
+    <h1>{{ .Title }}</h1>
 
-<section class="content">
-    {{ .Content }}
-</section>
-{{ partial "join" . }}
+    <section class="content">
+        {{ .Content }}
+    </section>
+
+    {{ partial "join" . }}
+    {{ partial "social-share-btns" . }}
+
 {{ end }}

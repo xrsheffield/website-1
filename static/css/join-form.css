@@ -1,0 +1,232 @@
+/* This is to modify the Action network sign up form. The original CSS can be found at https://actionnetwork.org/css/style-embed-whitelabel-v3.css */
+
+main .join-form {
+    background-image: 
+    url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 491.64 492'> <path class='logo' fill='%23fff3' d='M289.8,4C154.47-20.56,25.36,70.51,3.1,206.24-18.18,336,72.49,464.51,201.84,488c135.33,24.57,264.44-66.51,286.7-202.24C509.82,156,419.15,27.48,289.8,4Zm72.67,101.56-179.41-31a5.66,5.66,0,0,1-.87-10.93A192.84,192.84,0,0,1,367,95.56,5.66,5.66,0,0,1,362.47,105.57Zm-143.75,23,92.05,15.9a5.65,5.65,0,0,1,2.79,9.8l-56,49.79a5.65,5.65,0,0,1-8.71-1.51l-36-65.69A5.65,5.65,0,0,1,218.71,128.55Zm54.22,234.9-92.05-15.9a5.65,5.65,0,0,1-2.79-9.8l56-49.79a5.65,5.65,0,0,1,8.71,1.51l36.05,65.69A5.65,5.65,0,0,1,272.93,363.45ZM55.46,213.11A192.43,192.43,0,0,1,127.68,93.28,5.67,5.67,0,0,1,136.11,95L214,236.92a5.65,5.65,0,0,1-1.2,6.95L91.82,351.4a5.67,5.67,0,0,1-8.53-1.17A192.43,192.43,0,0,1,55.46,213.11Zm73.72,173.32,179.42,31a5.66,5.66,0,0,1,.87,10.93,192.84,192.84,0,0,1-184.77-31.92A5.66,5.66,0,0,1,129.18,386.43ZM355.54,397,277.68,255.08a5.65,5.65,0,0,1,1.2-6.95L399.83,140.6a5.67,5.67,0,0,1,8.53,1.17,192.8,192.8,0,0,1-44.39,257A5.67,5.67,0,0,1,355.54,397Z'/> </svg>"),
+    radial-gradient(circle at 74.18% -16.45%, #b9f27d 0, #a4ec79 16.67%, #8be373 33.33%, #6cd86c 50%, #47cd66 66.67%, #00c464 83.33%, #00bd65 100%);
+    background-size: 60%, cover;
+    background-repeat: no-repeat;
+    background-position: 110% 10%, 0 0;
+}
+
+.subtext {
+    font-size: 1.125em;
+    line-height: 1.7;
+}
+
+.btn-container {
+    text-align: center;
+    margin: 2em 0;
+    font-size: 1.2em;
+}
+
+.entry-title,
+#logo_wrap, 
+.action_description,
+#mainContent,
+h4 {
+    display: none;
+}
+
+h4 {
+    font-family: 'fucxed';
+        font-size: 1.5em;
+        text-transform: uppercase;
+        color: #fff;
+}
+
+.join-form h2 {
+	line-height: 1.1;
+	margin: 0 0 1em 0;
+}
+
+form.new_answer {
+	background-color: #ffffff4f;
+	padding: 1em;
+	border-radius: 5px;
+	border: solid 1px #fff8;
+	max-width: 557px;
+	margin: 2em auto;
+}
+form.new_answer ul {
+    list-style-type: none;
+    padding: 0;
+}
+form.new_answer li {
+    margin-bottom: 1em;
+}
+
+/* -------- LONDON 21st April ----------- */
+
+form.new_answer li:nth-child(9) {
+	margin-top: 4em;
+	border-bottom: solid 1px #fff6;
+	padding-bottom: 2em;
+}
+form.new_answer li:nth-child(9)::before {
+    content: 'London: 21st April 2023';
+	display: block;
+	font-family: 'fucxed', sans-serif;
+	font-size: 1.6em;
+	text-transform: uppercase;
+	color: #fff;
+	border-top: solid 1px #fff8;
+	padding-top: 0.6em;
+}
+form.new_answer li:nth-child(9) input[type="checkbox"] {
+	width: 1em;
+	aspect-ratio: 1 / 1;
+	font-size: 0.75em;
+}
+
+form.new_answer label {
+    text-align: right;
+}
+ /* Hide the horizontal line <hr>  */
+form.new_answer li:nth-child(10) {
+    display: none;
+}
+.floatlabel-wrapper {
+    display: grid;
+    grid-template-columns: 14ch 1fr;
+    gap: 0.5em;
+    align-items: center;
+}
+.floatlabel-wrapper input {
+    max-width: 36ch;
+}
+
+.floatlabel-wrapper input[type="text"],
+#form-email {
+    padding: 0.5em;
+    font-size: 1em;
+    background-color: #fcfcfc9e;
+    border: none;
+    border-radius: 5px;
+}
+.floatlabel-wrapper input[type="text"]:focus,
+#form-email:focus {
+    outline: solid 3px red;
+    background-color: #fff;
+}
+/* targets the London 21st April line */
+form.new_answer .check_radio_label {
+    text-align: left;
+}
+
+/* targets the 2nd line of London 21st April bit */
+.controls.check_radio_field .checkbox {
+    display: block;
+    margin-top: 1em;
+    font-size: 1.5em;
+    text-align: center;
+}
+.controls.check_radio_field .radio {
+    display: block;
+    text-align: center;
+}
+
+form.new_answer input[type="submit"] {
+    border: none;
+    display: inline-block;
+    width: 13em;
+	margin-block: 2em;
+    position: relative;
+    overflow: hidden;
+	font-size: 1em;
+	line-height: 1;
+	border-radius: 5px;
+	color: #fff;
+	background-color: #005eff;
+	text-transform: uppercase;
+	padding: .5em 1em;
+    transition: all 0.5s;
+    transition: all 0.2s linear 0s;
+    outline: solid 0px white;
+}
+form.new_answer input[type="submit"]:hover {
+    outline: solid 30px #fff0;
+}
+
+
+
+
+
+li:has(input[type="submit"]) {
+    text-align: center;
+}
+form.new_answer input[type="submit"]:hover {
+    cursor: pointer;
+}
+
+
+/* For the spinner after the button is pressed. */
+
+#can_embed_form .ajax-loading {
+  display: none;
+  position: relative;
+  top: 4px;
+  float: right;
+  margin-top: -44px;
+  margin-right: 10px;
+  height: 16px;
+  width: 22px;
+  animation: spin 1s infinite linear;
+}
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(359deg);
+  }
+}
+
+
+/* Styles for error message if the form fails */
+
+#error_message {
+	font-size: 1.5em;
+	text-align: center;
+	background: #ab0202;
+	color: #fff;
+	border-radius: 5px;
+}
+
+/* Code for drop down to choose country. Default should be GB  */
+
+#can_embed_form .country_drop_wrap {
+  display: none;
+  width: 100% !important;
+}
+#can_embed_form .country_drop_wrap select.can_select {
+  height: 33px !important;
+  /* width: 100% !important; */
+}
+#can_embed_form .country_drop_wrap span {
+  width: 100% !important;
+}
+#can_embed_form .international_link-wrap {
+  display: block;
+  margin-top: -15px;
+}
+#can_embed_form .country_wrap {
+  padding-top: 15px;
+  clear: both;
+}
+#can_embed_form .international_link {
+  font-size: 11px;
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+}
+#can_embed_form #campaign_zip_search,
+#can_embed_form #campaign_zip_search_submit {
+  width: 48%;
+}
+
+/* This is the heading after sign up. */
+#can_thank_you h1 {
+    color: #fff;
+    text-shadow: 2px 1px 2px #0004;
+}
