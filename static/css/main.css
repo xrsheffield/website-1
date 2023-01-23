@@ -534,7 +534,8 @@ header a {
 
 /* --- EVENTS sytling ------ */
 
-.event-li a {
+.event-li {
+    margin-bottom: 1em;
     display: block;
     height: 100%;
     padding: 1em;
@@ -546,9 +547,8 @@ header a {
     transition: all 0.4s;
 }
 
-.event-li a:hover {
+.event-li:hover {
     border-color: orangered;
-    transform: scale(1.05);
 }
 
 .event-li {
@@ -563,6 +563,9 @@ header a {
     text-transform: none;
     word-spacing: 0;
     letter-spacing: 0;
+}
+.read-more {
+    margin-top: 2em;
 }
 
 

@@ -6,18 +6,16 @@
     <a href="{{ .RelPermalink }}">
         <div class="catagory">{{ with .Params.Catagories }}{{ . }}{{ end }}</div>
         <h3>{{ .LinkTitle }}</h3>
+    </a>
 
         <div class="time">
             <time>{{ .ExpiryDate.Format "3.04pm, 2 Jan 06" }}</time>
         </div>
 
         <section class="summary">
-            <p>{{ .Summary | truncate 200 }}</p>
+            <div class="summary-text">{{ .Summary | truncate 200 }}</div>
             
-            {{ if .Truncated }}
-                
-            <p><a href="{{ .RelPermalink }}">Read more ..</a></p>
-            {{ end }}
+            <div class="read-more"><a class="btn" href="{{ .RelPermalink }}">Read more ..</a></div>
+            
         </section>
-    </a>
     </li>

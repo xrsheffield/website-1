@@ -1,10 +1,10 @@
 <section class="event-list">
 {{ $events := len (where site.RegularPages "Section" "events") }}
 <h2>Events</h2>
-{{ if gt $events 0 }}
+{{ if ge $events 0 }}
     
     <ul class="list-page-list">
-        {{ range where site.RegularPages.ByExpiryDate "Section" "events" }}
+        {{ range first 3 (where site.RegularPages.ByExpiryDate "Section" "events") }}
         {{ .Render "event-li" }}
         {{ end }}
     </ul>

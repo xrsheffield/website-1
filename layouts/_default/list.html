@@ -5,18 +5,17 @@
 <ul class="list-page-list">
 {{ if eq .Section "events" }}
 
-{{ range .RegularPages.ByExpiryDate }}
-    {{ .Render "event-li" }}
-{{ end }}
-    
-{{ else }}
+    {{ range .RegularPages.ByExpiryDate }}
+        {{ .Render "event-li" }}
+    {{ end }}
+        
+    {{ else }}
 
     {{ range .Paginator.Pages }}
-    
-    {{ .Render "li" }}
-    
+        {{ .Render "li" }}
     {{ end }}
-    {{ end }}
+    
+{{ end }}
 </ul>
 
 {{ partial "paginator" . }}
