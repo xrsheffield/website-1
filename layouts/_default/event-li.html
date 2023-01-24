@@ -3,19 +3,17 @@
         style="background-color: #fafafa;"
     {{ end }}
     >
-    <a href="{{ .RelPermalink }}">
-        <div class="catagory">{{ with .Params.Catagories }}{{ . }}{{ end }}</div>
+    <a class="event-link" href="{{ .RelPermalink }}">
         <h3>{{ .LinkTitle }}</h3>
-    </a>
-
+        
         <div class="time">
             <time>{{ .ExpiryDate.Format "3.04pm, 2 Jan 06" }}</time>
+            {{ with .Params.Catagories }}<div class="catagory">{{ . }}</div>{{ end }}
         </div>
-
+        
         <section class="summary">
             <div class="summary-text">{{ .Summary | truncate 200 }}</div>
-            
-            <div class="read-more"><a class="btn" href="{{ .RelPermalink }}">Read more ..</a></div>
-            
         </section>
+        <div class="read-more"><ai class="btn">Read more ..</ai></div>
+    </a>
     </li>

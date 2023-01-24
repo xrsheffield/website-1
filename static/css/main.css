@@ -359,17 +359,23 @@ button:hover {
 
 .btn {
     display: inline-block;
-    text-decoration: none;
-    font-size: 0.8em;
-    font-family: 'fucxed', sans-serif;
-    text-transform: uppercase;
-    /* line-height: 20px; */
-    border: none;
-    border-radius: 5px;
-    background-color: var(--black);
+	text-decoration: none;
+	font-size: 0.9em;
+	font-family: 'fucxed', sans-serif;
+	text-transform: uppercase;
+	border: solid 2px var(--black);
+	border-radius: 5px;
+	background-color: transparent;
+	color: var(--black);
+	padding: 0.6rem 1.25rem 0.4rem 1.25rem;
+	border: solid 2px;
+    transition: all 0.4s;
+}
+.btn:hover,
+.btn:active {
     color: #fff;
-    /* padding: 0.5em 1em 0.3em 1em; */
-    padding: 0.7em 1.5em 0.5em 1.5em;
+    background-color: var(--black);
+    border-color: var(--black);
 }
 
 .donate {
@@ -540,20 +546,19 @@ header a {
     height: 100%;
     padding: 1em;
     border-radius: 5px;
-    border: solid 1px #aaa;
+    border: solid 1px #e0e0e0;
+    /* box-shadow: 0 0 1em #ccc7; */
     text-decoration: none;
     color: var(--black);
     background-color: #eee;
     transition: all 0.4s;
+    font-size: max(0.85em, 13px);
 }
 
 .event-li:hover {
     border-color: orangered;
 }
 
-.event-li {
-    font-size: max(0.85em, 13px);
-}
 
 .event-li h3 {
     margin-top: 0;
@@ -564,8 +569,25 @@ header a {
     word-spacing: 0;
     letter-spacing: 0;
 }
+.event-li a,
+.event-link {
+    display: flex;
+    flex-direction: column;
+    /* display: grid;
+    grid-template-rows: repeat(auto auto 1fr auto); */
+    justify-content: space-between;
+    height: 100%;
+    color: var(--black);
+    /* grid-template-rows: auto 3em 1fr auto; */
+    text-decoration: none;
+}
+.summary {
+    flex-grow: 10;
+    margin-top: 1em;
+}
 .read-more {
     margin-top: 2em;
+    text-align: center;
 }
 
 
@@ -606,9 +628,10 @@ main .join a {
     color: #fff;
 }
 
-.home .list-page-list {
+.home .list-page-list,
+.events .list-page-list {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 0.5em;
 }
 
