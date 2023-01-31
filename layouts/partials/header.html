@@ -1,5 +1,18 @@
 <header>
+        <nav class="main-menu">
 
+            <ul>
+                {{ $this_page := .Title | lower }}
+                {{ range site.Menus.main }}
+                    <li id="menu-{{ replace .Name " " "-" }}">
+                        <a href="{{ .URL }}" {{ if eq $this_page .Identifier }}class="active"{{ end }}>
+                            <span class="icon">{{ .Pre }}</span> 
+                            <span class="menu-text">{{ .Name | upper }}</span>
+                        </a>
+                    </li>
+                {{ end }}
+            </ul>
+        </nav>
     <div class="inner">
         <div class="main-heading">
             {{/*  <a href="/"><img src="/img/xr-logo-text.svg" alt="XR logo" title="Home page"></a>  */}}
@@ -11,14 +24,7 @@
                 */}}
                 <a href="/" title="Home page"><img src="/img/sheffield-logo-1.svg" alt="EXTINCTION REBELLION SHEFFIELD logo"></a>
         </div>  
-        <nav class="main-menu">
 
-            <ul>
-                {{ range site.Menus.main }}
-                    <li id="menu-{{ replace .Name " " "-" }}"><a href="{{ .URL }}"><span class="icon"></span> {{ .Name | upper }}</a></li>
-                {{ end }}
-            </ul>
-        </nav>
         <nav class="socials">
             <ul>
                 <li>{{ partial "donate" . }}</li>

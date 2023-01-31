@@ -151,6 +151,7 @@ body {
 
 .wrapper {
     min-height: 100vh;
+    min-height: 100dvh;
     display: grid;
     grid-template-rows: auto 1fr auto;
 }
@@ -166,18 +167,19 @@ main,
 }
 
 header {
-    padding-top: 1.5em;
+    padding-top: 0;
     padding-bottom: 0.75em;
-    font-family: "fucxed", sans-serif;
+    /* font-family: "fucxed", sans-serif; */
     background-color: var(--blue);
     background-image: url(/img/climate-book-gradient.svg);
     background-size: 100%;
-    letter-spacing: -.02em;
-    word-spacing: -0.2em;
+    /* letter-spacing: -.02em;
+    word-spacing: -0.2em; */
 }
 header .inner {
     display: grid;
     row-gap: .6em;
+    padding-top: 2em;
 }
 .main-heading {
     display: flex;
@@ -214,21 +216,43 @@ main nav > ul {
     margin: 0;
     display: flex;
 }
-
+.main-menu {
+    background-color: #fff;
+    background-color: var(--black);
+    padding: 2em 2em calc(.5rem + 6px) 2em;
+    margin-bottom: 2em;
+}
 header .main-menu ul {
     justify-content: space-between;
-    word-spacing: -0.2em;
+}
+.main-menu ul {
+    max-width: 1400px;
+    margin: 0 auto;
 }
 .main-menu a {
 	color: #f6e705;
-	text-shadow: 2px 2px black;
+    color: #fff;
+    padding: 0 1em .5rem 1em;
+    border-bottom: solid red 0px;
+}
+.main-menu a:hover {
+    border-bottom: 8px solid #fff;
+}
+.main-menu a.active {
+    border-bottom: solid red 8px;
 }
 .main-menu .icon svg {
     max-width: 1em;
-    fill: yellow:
+    fill: red;
+    display: none;
 }
 li#menu-home {
     display: block;
+    margin-right: auto;
+}
+li#menu-search {
+    display: block;
+    margin-left: auto;
 }
 
 .hamburger {
@@ -742,7 +766,10 @@ input[type="text"] {
         text-align: center;
     }
     li#menu-home {
-        display: block;
+        margin-right: initial;
+    }
+    li#search {
+        margin-left: initial;
     }
     .hamburger {
         display: block;

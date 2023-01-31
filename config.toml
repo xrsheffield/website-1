@@ -9,85 +9,86 @@ paginate = 10
 
 [menu]
 
-  [[menu.main]]
-    identifier = "home"
-    name = "home"
-    url = "/"
-    weight = "10"
-    pre = "<svg viewBox='0 0 24 24' id='hm'><use href='/img/socials.svg#house'></use></svg>"
-  [[menu.main]]
-    identifier = "who we are"
-    name = "who we are"
-    url = "/who-we-are/"
-    weight = "100"
-    pre = "<svg viewBox='0 0 24 24' id='wh'><use href='/img/socials.svg#who'></use></svg>"
-  [[menu.main]]
-    identifier = "get involved"
-    name = "get involved"
-    url = "/get-involved/"
-    weight = "200"
-    pre = "<svg viewBox='0 0 24 24' id='jn'><use href='/img/socials.svg#join'></use></svg>"
-  # [[menu.main]]
-  #   identifier = "press"
-  #   name = "press"
-  #   url = "/press/"
-  #   weight = "300"
-  #   pre = "<svg viewBox='0 0 24 24' id='prss'><use href='/img/socials.svg#press'></use></svg>"
-  [[menu.main]]
-    identifier = "news"
-    name = "news"
-    url = "/news/"
-    weight = "400"
-    pre = "<svg viewBox='0 0 24 24' id='nws'><use href='/img/socials.svg#news'></use></svg>"
-  [[menu.main]]
-    identifier = "contact us"
-    name = "contact us"
-    url = "/contact/"
-    weight = "500"
-    pre = "<svg viewBox='0 0 24 24' id='cntct'><use href='/img/socials.svg#contact'></use></svg>"
-  [[menu.main]]
-    identifier = "search"
-    name = "search"
-    url = "/search/"
-    weight = "600"
-    pre = "<svg viewBox='0 0 24 24' id='srch'><use href='/img/socials.svg#search'></use></svg>"
+    [[menu.main]]
+      identifier = "the climate crisis is happening now"
+      name = "home"
+      url = "/"
+      weight = "10"
+      pre = "<svg viewBox='0 0 24 24' id='hm'><use href='/img/socials.svg#house'></use></svg>"
+    [[menu.main]]
+      identifier = "who we are"
+      name = "who we are"
+      url = "/who-we-are/"
+      weight = "100"
+      pre = "<svg viewBox='0 0 24 24' id='wh'><use href='/img/socials.svg#who'></use></svg>"
+    [[menu.main]]
+      identifier = "get involved"
+      name = "get involved"
+      url = "/get-involved/"
+      weight = "200"
+      pre = "<svg viewBox='0 0 24 24' id='jn'><use href='/img/socials.svg#join'></use></svg>"
+    # [[menu.main]]
+    #   identifier = "press"
+    #   name = "press"
+    #   url = "/press/"
+    #   weight = "300"
+    #   pre = "<svg viewBox='0 0 24 24' id='prss'><use href='/img/socials.svg#press'></use></svg>"
+    [[menu.main]]
+      identifier = "news"
+      name = "news"
+      url = "/news/"
+      weight = "400"
+      pre = "<svg viewBox='0 0 24 24' id='nws'><use href='/img/socials.svg#news'></use></svg>"
+    [[menu.main]]
+      identifier = "contact us"
+      name = "contact us"
+      url = "/contact/"
+      weight = "500"
+      pre = "<svg viewBox='0 0 24 24' id='cntct'><use href='/img/socials.svg#contact'></use></svg>"
+    [[menu.main]]
+      identifier = "search"
+      name = "search"
+      url = "/search/"
+      weight = "600"
+      pre = "<svg viewBox='0 0 24 24' id='srch'><use href='/img/socials.svg#search'></use></svg>"
 
-  [[menu.social]]  
-    identifier = "facebook"
-    name = "facebook"
-    url = "https://www.facebook.com/xrshef/"
-    weight = "10"
-    pre = "<svg viewBox='0 0 24 24' id='fb'><use href='/img/socials.svg#facebook'></use></svg>"
-  [[menu.social]]  
-    identifier = "twitter"
-    name = "twitter"
-    url = "https://twitter.com/XRShef"
-    weight = "20"
-    pre = "<svg viewBox='0 0 24 24' id='tw'><use href='/img/socials.svg#twitter'></use></svg>"
-  [[menu.social]]  
-    identifier = "instagram"
-    name = "instagram"
-    url = "https://www.instagram.com/xrshef/"
-    weight = "30"
-    pre = "<svg viewBox='0 0 24 24' id='ig'><use href='/img/socials.svg#instagram'></use></svg>"
-  [[menu.social]]  
-    identifier = "youtube"
-    name = "youtube"
-    url = "https://www.youtube.com/channel/UCJUMk86JWrxJqFT-h0xCofw"
-    weight = "40"
-    pre = "<svg viewBox='0 0 24 24' id='yt'><use href='/img/socials.svg#youtube'></use></svg>"
-  [[menu.social]]  
-    identifier = "RSS"
-    name = "RSS"
-    url = "/index.xml"
-    weight = "50"
-    pre = "<svg viewBox='0 0 24 24'><use href='/img/socials.svg#rss'></use></svg>"
-  [[menu.social]]  
-    identifier = "xruk"
-    name = "XR UK"
-    url = "https://rebellion.earth/"
-    weight = "60"
-    pre = "<svg viewBox='0 0 282.8 282.8 id='xr'><use href='/img/socials.svg#xr-logo'></use></svg>"
+  
+    [[menu.social]]  
+      identifier = "facebook"
+      name = "facebook"
+      url = "https://www.facebook.com/xrshef/"
+      weight = "10"
+      pre = "<svg viewBox='0 0 24 24' id='fb'><use href='/img/socials.svg#facebook'></use></svg>"
+    [[menu.social]]  
+      identifier = "twitter"
+      name = "twitter"
+      url = "https://twitter.com/XRShef"
+      weight = "20"
+      pre = "<svg viewBox='0 0 24 24' id='tw'><use href='/img/socials.svg#twitter'></use></svg>"
+    [[menu.social]]  
+      identifier = "instagram"
+      name = "instagram"
+      url = "https://www.instagram.com/xrshef/"
+      weight = "30"
+      pre = "<svg viewBox='0 0 24 24' id='ig'><use href='/img/socials.svg#instagram'></use></svg>"
+    [[menu.social]]  
+      identifier = "youtube"
+      name = "youtube"
+      url = "https://www.youtube.com/channel/UCJUMk86JWrxJqFT-h0xCofw"
+      weight = "40"
+      pre = "<svg viewBox='0 0 24 24' id='yt'><use href='/img/socials.svg#youtube'></use></svg>"
+    [[menu.social]]  
+      identifier = "RSS"
+      name = "RSS"
+      url = "/index.xml"
+      weight = "50"
+      pre = "<svg viewBox='0 0 24 24'><use href='/img/socials.svg#rss'></use></svg>"
+    [[menu.social]]  
+      identifier = "xruk"
+      name = "XR UK"
+      url = "https://rebellion.earth/"
+      weight = "60"
+      pre = "<svg viewBox='0 0 282.8 282.8 id='xr'><use href='/img/socials.svg#xr-logo'></use></svg>"
 
 [outputs]
    home = [ "HTML", "JSON", "RSS" ]

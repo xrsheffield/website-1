@@ -5,3 +5,5 @@ static/fonts/Montserrat*
 static/fonts/Jost*.ttf
 READLOCAL.md
 data/uk_climate_groups.yaml
+layouts/shortcodes/greta-vid.html
+
