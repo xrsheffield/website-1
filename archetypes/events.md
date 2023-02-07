@@ -1,7 +1,9 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-expirydate: # date of event in the form: 2022-12-01T11:44:11+01:00
+expirydate: # date of event in the form: 2023-12-01T11:44:11+01:00
+event_time:
+summary:
 draft: false
 location:
   name:

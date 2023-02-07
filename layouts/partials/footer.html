@@ -15,7 +15,7 @@
         <nav>
             <ul>
                 {{ range site.Menus.main }}
-                    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                    <li><a href="{{ .URL }}"><span class="icon">{{ .Pre }}</span>{{ .Name }}</a></li>
                 {{ end }}
             </ul>
         </nav>

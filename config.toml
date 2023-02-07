@@ -27,6 +27,12 @@ paginate = 10
       url = "/get-involved/"
       weight = "200"
       pre = "<svg viewBox='0 0 24 24' id='jn'><use href='/img/socials.svg#join'></use></svg>"
+    [[menu.main]]
+      identifier = "events"
+      name = "events"
+      url = "/events/"
+      weight = "250"
+      pre = "<svg viewBox='0 0 24 24' id='jn'><use href='/img/socials.svg#join'></use></svg>"
     # [[menu.main]]
     #   identifier = "press"
     #   name = "press"
