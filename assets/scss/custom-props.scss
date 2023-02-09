@@ -1,0 +1,65 @@
+:root {
+    --pink: #F1B2D1;
+    --dark-pink: #986297;
+    /* for PRESS section */
+    --green: #3AAA37;
+    --light-blue: #76D0F2;
+    /* --blue: #05B8FC; old blue */
+    --blue: #21ACE2;
+    --dark-blue: #198bb8;
+    --darker-blue: #084697;
+    --darker-blue: #3960AB;
+    --yellow: #FFC113;
+    --black: #181818;
+    --width: 1100px;
+    --facebook-blue: #1877f2;
+    --twitter-blue: #1da1f2;
+    --pinterest-red: #e60023;
+    --pocket-orange: #ef4056;
+    --whatsapp-green: #25d366;
+    --mastodon-purple: #615EF8;
+}
+
+
+// XR Colors
+// See: https://rebeltoolkit.extinctionrebellion.uk/books/100-days/page/design-assets
+
+$xr-green: #22A93D;
+$xr-yellow: #F6ED73;
+$xr-pink: #DC93C0;
+$xr-light-blue: #7BD0EF;
+$xr-mauve: #986297;
+$xr-gold: #FCC035;
+$xr-orange: #D94F17;
+$xr-red: #C50A81;
+$xr-dark-blue: #3D61A8;
+
+$xr-green-5: lighten($xr-green, 10%);
+$xr-yellow-5: lighten($xr-yellow, 10%);
+$xr-pink-5: lighten($xr-pink, 10%);
+$xr-light-blue-5: lighten($xr-light-blue, 10%);
+$xr-mauve-5: lighten($xr-mauve, 10%);
+$xr-gold-5: lighten($xr-gold, 10%);
+$xr-orange-5: lighten($xr-orange, 10%);
+$xr-red-5: lighten($xr-red, 10%);
+$xr-dark-blue-5: lighten($xr-dark-blue, 10%);
+
+$xr-green-7: darken($xr-green, 10%);
+$xr-yellow-7: darken($xr-yellow, 10%);
+$xr-pink-7: darken($xr-pink, 10%);
+$xr-light-blue-7: darken($xr-light-blue, 10%);
+$xr-mauve-7: darken($xr-mauve, 10%);
+$xr-gold-7: darken($xr-gold, 10%);
+$xr-orange-7: darken($xr-orange, 10%);
+$xr-red-7: darken($xr-red, 10%);
+$xr-dark-blue-7: darken($xr-dark-blue, 10%);
+
+$xr-green-8: darken($xr-green, 20%);
+$xr-yellow-8: darken($xr-yellow, 20%);
+$xr-pink-8: darken($xr-pink, 20%);
+$xr-light-blue-8: darken($xr-light-blue, 20%);
+$xr-mauve-8: darken($xr-mauve, 20%);
+$xr-gold-8: darken($xr-gold, 20%);
+$xr-orange-8: darken($xr-orange, 20%);
+$xr-red-8: darken($xr-red, 20%);
+$xr-dark-blue-8: darken($xr-dark-blue, 20%);

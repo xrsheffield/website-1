@@ -1,6 +1,9 @@
 {{ define "main" }}
 
 <h1>{{ .Title }}</h1>
+
+<p>On <time>{{ .ExpiryDate.Format "2 January" }} {{ with .Params.event_time }}. Time: {{ . }}{{ end }}</time></p>
+
 {{ with .Params.cover_image }}
     
 {{ $img_url := print "img/" . }}
@@ -19,7 +22,7 @@
     
 <div class="where-and-when">
     <div class="event-location">
-        <h3>Where</h3>
+        <h3>Where?</h3>
         <p>
             {{with .name }}{{ . }}<br>{{ end }}
             {{with .street }}{{ . }}<br>{{ end }}
@@ -31,9 +34,9 @@
     
     {{ if .ExpiryDate }}
         <div class="event-time">
-            <h3>When</h3>
+            <h3>When?</h3>
             <p>
-                {{ .ExpiryDate.Format "06 January" }} {{ with .Params.event_time }} at {{ . }}{{ end }}
+                {{ .ExpiryDate.Format "Monday 02 January" }} {{ with .Params.event_time }}<br>{{ . }}{{ end }}
             </p>
         </div>
     {{ end }}
@@ -43,13 +46,14 @@
 
 
 <div class="prev-next">
-    {{ with .PrevInSection }}
+    {{/*  {{ with .PrevInSection }}
     <a class="btn" href="{{ .RelPermalink }}">&#10096; Previous</a>
     
-    {{ end }}
-    {{ with .NextInSection }}
+    {{ end }}  */}}
+    <a href="/events/" class="btn">See more events</a>
+    {{/*  {{ with .NextInSection }}
     <a class="btn" href="{{ .RelPermalink }}">Next &#10097;</a>
-    {{ end }}
+    {{ end }}  */}}
 </div>
 
 {{ end }}

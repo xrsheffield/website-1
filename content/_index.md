@@ -16,6 +16,8 @@ Extinction Rebellion (XR) needs people who both take action, and those who suppo
 
 Come along to our weekly get-together every Monday evening at Union Street Co-Working Space (18-20 Union Street, Sheffield, S1 2JP).  6pm for hot drinks and social chats, 6:45-8pm for the meeting.  You are welcome to bring your own food for the social part.
 
+You can also join in the Monday meetings using [Zoom](https://zoom.us/) if that's more convenient. Contact us at {{< main-email >}} for details of how to join.
+
 **What to expect at the Main Monday Meeting (MMM)** 
 
 New member Catherine says:

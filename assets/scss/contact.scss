@@ -1,0 +1,60 @@
+/* ---- Contact page ---- */
+
+.contact-list {
+    border: solid clamp(0.88rem, calc(0.25rem + 1.82vw), 1.50rem) var(--green);
+    padding: clamp(0.88rem, calc(-0.50rem + 4.00vw), 2.25rem);
+}
+
+.contact-list ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.contact-list li {
+    margin-bottom: 1em;
+}
+
+.contact-socials ul {
+    margin-block: 4em;
+    display: grid;
+    grid-template-columns: repeat(4, 4.5em);
+    justify-content: center;
+    text-transform: capitalize;
+    gap: 1em;
+}
+
+.contact-socials li a {
+    display: block;
+    text-align: center;
+    font-size: 0.9em;
+    transition: 0.35s;
+    text-decoration: none;
+    color: var(--dark-blue);
+    /* width: 14em; */
+}
+
+.contact-socials li a:hover {
+    transform: scale(1.1);
+}
+
+.contact-socials svg {
+    width: 90%;
+    max-width: 100%;
+}
+
+.contact-socials #fb {
+    fill: #1A6ED8;
+}
+
+.contact-socials #tw {
+    fill: #1D9BF0;
+}
+
+.contact-socials #ig {
+    fill: #c13584;
+}
+
+.contact-socials #yt {
+    fill: darkred;
+}

@@ -7,13 +7,13 @@
         <h3>{{ .LinkTitle }}</h3>
         
         <div class="time">
-            <time>{{ .ExpiryDate.Format "3.04pm, 2 Jan 06" }}</time>
+            <time>{{ .ExpiryDate.Format "3.04pm, Mon 2 Jan 2006" }}</time>
             {{ with .Params.Catagories }}<div class="catagory">{{ . }}</div>{{ end }}
         </div>
         
         <section class="summary">
             <div class="summary-text">{{ .Summary | truncate 200 }}</div>
         </section>
-        <div class="read-more"><ai class="btn">Read more ..</ai></div>
+        <div class="read-more"><span class="btn">Read more ..</span></div>
     </a>
     </li>

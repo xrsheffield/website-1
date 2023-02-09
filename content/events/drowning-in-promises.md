@@ -1,8 +1,8 @@
 ---
-title: "Drowning in Promises"
+title: "Drowning in False Promises"
 date: 2023-02-07T05:44:51+01:00
-expirydate: 2023-02-20T13:00:11+01:00
-event_time: 1pm - 2pm
+expirydate: 2023-02-20T12:30:11+01:00
+event_time: 12.30pm - 2.30pm
 draft: false
 summary: Action against the Sheffield Council for their lack of promised action on climate change.
 location:
@@ -10,7 +10,7 @@ location:
   street: Pinstone Street
   town: 
   postcode:
-cover_image:
+cover_image: drowning-in-promises-banner.jpg
 categories: [events]
 css:
 - ".petition {border: solid 1px #ddd; padding: 2em; margin: 3em 2em; box-shadow: 0 0 25px #5552; border-radius: 10px;}"
@@ -36,7 +36,7 @@ The [South Yorkshire Climate Alliance] are handing in [their petition] to the fi
 Please join concerned citizens outside the Sheffield Town Hall at 1pm on Monday 20th February for a quick 'Drowning in Promises' action. Bring your arm bands, life jackets and life belts. Make your own placards calling out the 4 years since Sheffield City Council declared a climate emergency and calling for action to be taken seriously.
 
 
-This will be a quick action for a photo opportunity from 1 - 2pm.
+This event will be joined by a Samba band and from 12.30 - 2.30pm.
 
 {{< div "petition" "turn" >}}
 

@@ -25,14 +25,7 @@
                 <a href="/" title="Home page"><img src="/img/sheffield-logo-1.svg" alt="EXTINCTION REBELLION SHEFFIELD logo"></a>
         </div>  
 
-        <nav class="socials">
-            <ul>
-                <li>{{ partial "donate" . }}</li>
-                {{ range first 5 site.Menus.social }}
-                    <li><a href="{{ .URL }}" class="icon" title="{{ .Name }}">{{ .Pre }}</a></li>
-                {{ end }}
-            </ul>
-        </nav>
+
     </div>
             <button class="hamburger hamburger--arrowturn" type="button">
                 <span class="hamburger-box">
@@ -40,3 +33,14 @@
                 </span>
             </button>
 </header>
+
+<div class="inner">
+    <nav class="socials">
+        <ul>
+            <li>{{ partial "donate" . }}</li>
+            {{ range first 5 site.Menus.social }}
+                <li><a href="{{ .URL }}" class="icon" title="{{ .Name }}">{{ .Pre }}</a></li>
+            {{ end }}
+        </ul>
+    </nav>
+</div>

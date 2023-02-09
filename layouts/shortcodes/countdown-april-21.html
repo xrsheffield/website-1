@@ -1,4 +1,4 @@
-<p id="demo"></p>
+<div id="countdown"></div>
 
 <script>
 // Set the date we're counting down to
@@ -19,17 +19,18 @@ var x = setInterval(function() {
   var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
     
-  // Output the result in an element with id="demo"
-  document.getElementById("demo").innerHTML = 
-    days + '<span class="time-unit days">days</span>' + 
-    hours + '<span class="time-unit hours">hrs</span>' +
-    minutes + '<span class="time-unit minutes">mins</span>' + 
-    seconds + '<span class="time-unit seconds">secs</span>';
+  // Output the result in an element with id="countdown"
+  document.getElementById("countdown").innerHTML = `
+    <div class="days"><b>${days}</b><span class="time-unit">days</span></div>
+    <div class="hours"><b>${hours}</b>   <span class="time-unit">hrs</span></div>
+    <div class="minutes"><b>${minutes} </b><span class="time-unit">mins</span></div>
+    <div class="seconds"><b>${seconds}</b> <span class="time-unit">secs</span></div>
+    `;
     
   // If the count down is over, write some text 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = "EXPIRED";
+    document.getElementById("countdown").innerHTML = "It's started already";
   }
 }, 1000);
 </script>
