@@ -1,10 +1,11 @@
 ---
-title: "Drowning in False Promises"
+title: "Drowning in<br>False Promises"
 date: 2023-02-07T05:44:51+01:00
 expirydate: 2023-02-20T12:30:11+01:00
 event_time: 12.30pm - 2.30pm
 draft: false
 summary: Action against the Sheffield Council for their lack of promised action on climate change.
+categories: [action]
 location:
   name: Sheffield Town Hall
   street: Pinstone Street

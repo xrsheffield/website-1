@@ -1,0 +1,21 @@
+<section class="event-list">
+{{ $events := len (where site.RegularPages "Section" "events") }}
+<h2>Events</h2>
+{{ if ge $events 0 }}
+    
+    <ul class="list-page-list">
+        {{ range first 3 (where site.RegularPages.ByExpiryDate "Section" "events") }}
+        {{ .Render "event-li" }}
+        {{ end }}
+    </ul>
+    
+    <p>For a full list see <a class="btn" href="/events/">events</a></p>
+    
+    <p>Also our latest events are on our <a href="https://www.facebook.com/pg/xrshef/events/">Facebook page</a>.</p>
+
+    {{ else }}
+
+    <p>There are no events listed at present.</p>
+    <p>Join our mailing list below, follow us on <a href="/contact/">social media</a>, subscribe to our <a href="https://xrsheffield.org/index.xml">news feed</a> or come to one of our <a href="#monday-meetings-at-union-street">regular Monday meetings</a>.</p>
+</section>
+{{ end }}

@@ -2,3 +2,19 @@
 HUGO_VERSION = "0.110.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
+
+
+[build]
+publish = "public"
+command = """\
+  npm install sass-embedded-linux-x64@${DART_SASS_VERSION} && \
+  mkdir -p /opt/build/repo/node_modules/.bin && \
+  cp /opt/build/repo/node_modules/sass-embedded-linux-x64/dart-sass-embedded/dart-sass-embedded /opt/build/repo/node_modules/.bin && \
+  dart-sass-embedded --version && \
+  hugo --gc --minify \
+  """
+
+[build.environment]
+HUGO_VERSION = "0.110.0"
+DART_SASS_VERSION = "1.56.2"
+TZ = "UK/London"

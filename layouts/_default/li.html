@@ -1,10 +1,10 @@
     <li class="li"
     {{ if .Params.cover_image }}
-        style="background-color: #f7f7f7;"
+        style="cursor: pointer"
     {{ end }}
     >
         {{ partial "author-date" . }}
-        <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+        <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle | safeHTML }}</a></h2>
 
         <section class="summary">
             <p>{{ .Summary | truncate 200 }}</p>

@@ -11,18 +11,43 @@
     --darker-blue: #3960AB;
     --yellow: #FFC113;
     --black: #181818;
-    --width: 1100px;
+    --white: #fff;
+
     --facebook-blue: #1877f2;
     --twitter-blue: #1da1f2;
     --pinterest-red: #e60023;
     --pocket-orange: #ef4056;
     --whatsapp-green: #25d366;
     --mastodon-purple: #615EF8;
+
+    --type-color: #464646;
+    --bgc: var(--white);
+    --shadow-color: #ccc8;
+    --button-color: var(--black);
+    --width: 1400px;
+    --xr-color: var(--blue);
+
+
+    /* @link https://utopia.fyi/type/calculator?c=600,17,1.2,1240,23,1.414,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+
+    --step--2: clamp(0.72rem, calc(0.76rem + -0.05vw), 0.74rem);
+    --step--1: clamp(0.89rem, calc(0.76rem + 0.33vw), 1.02rem);
+    --step-0: clamp(1.06rem, calc(0.71rem + 0.94vw), 1.44rem);
+    --step-1: clamp(1.28rem, calc(0.56rem + 1.89vw), 2.03rem);
+    --step-2: clamp(1.53rem, calc(0.27rem + 3.36vw), 2.87rem);
+    --step-3: clamp(1.84rem, calc(-0.25rem + 5.57vw), 4.06rem);
+    --step-4: clamp(2.20rem, calc(-1.12rem + 8.86vw), 5.75rem);
+    --step-5: clamp(2.64rem, calc(-2.50rem + 13.70vw), 8.13rem);
+
 }
+
+
 
 
 // XR Colors
 // See: https://rebeltoolkit.extinctionrebellion.uk/books/100-days/page/design-assets
+//
+// There is no xr-color-6. That is the base or standard colour.
 
 $xr-green: #22A93D;
 $xr-yellow: #F6ED73;
@@ -34,32 +59,180 @@ $xr-orange: #D94F17;
 $xr-red: #C50A81;
 $xr-dark-blue: #3D61A8;
 
-$xr-green-5: lighten($xr-green, 10%);
-$xr-yellow-5: lighten($xr-yellow, 10%);
-$xr-pink-5: lighten($xr-pink, 10%);
-$xr-light-blue-5: lighten($xr-light-blue, 10%);
-$xr-mauve-5: lighten($xr-mauve, 10%);
-$xr-gold-5: lighten($xr-gold, 10%);
-$xr-orange-5: lighten($xr-orange, 10%);
-$xr-red-5: lighten($xr-red, 10%);
-$xr-dark-blue-5: lighten($xr-dark-blue, 10%);
+$xr-green-3: lighten($xr-green, 45%);
+$xr-yellow-3: lighten($xr-yellow, 45%);
+$xr-pink-3: lighten($xr-pink, 45%);
+$xr-light-blue-3: lighten($xr-light-blue, 25%);
+$xr-mauve-3: lighten($xr-mauve, 45%);
+$xr-gold-3: lighten($xr-gold, 45%);
+$xr-orange-3: lighten($xr-orange, 45%);
+$xr-red-3: lighten($xr-red, 45%);
+$xr-dark-blue-3: lighten($xr-dark-blue, 45%);
 
-$xr-green-7: darken($xr-green, 10%);
-$xr-yellow-7: darken($xr-yellow, 10%);
-$xr-pink-7: darken($xr-pink, 10%);
-$xr-light-blue-7: darken($xr-light-blue, 10%);
-$xr-mauve-7: darken($xr-mauve, 10%);
-$xr-gold-7: darken($xr-gold, 10%);
-$xr-orange-7: darken($xr-orange, 10%);
-$xr-red-7: darken($xr-red, 10%);
-$xr-dark-blue-7: darken($xr-dark-blue, 10%);
+$xr-green-4: lighten($xr-green, 30%);
+$xr-yellow-4: lighten($xr-yellow, 30%);
+$xr-pink-4: lighten($xr-pink, 30%);
+$xr-light-blue-4: lighten($xr-light-blue, 20%);
+$xr-mauve-4: lighten($xr-mauve, 30%);
+$xr-gold-4: lighten($xr-gold, 30%);
+$xr-orange-4: lighten($xr-orange, 30%);
+$xr-red-4: lighten($xr-red, 30%);
+$xr-dark-blue-4: lighten($xr-dark-blue, 30%);
 
-$xr-green-8: darken($xr-green, 20%);
-$xr-yellow-8: darken($xr-yellow, 20%);
-$xr-pink-8: darken($xr-pink, 20%);
-$xr-light-blue-8: darken($xr-light-blue, 20%);
-$xr-mauve-8: darken($xr-mauve, 20%);
-$xr-gold-8: darken($xr-gold, 20%);
-$xr-orange-8: darken($xr-orange, 20%);
-$xr-red-8: darken($xr-red, 20%);
-$xr-dark-blue-8: darken($xr-dark-blue, 20%);
+$xr-green-5: lighten($xr-green, 15%);
+$xr-yellow-5: lighten($xr-yellow, 15%);
+$xr-pink-5: lighten($xr-pink, 15%);
+$xr-light-blue-5: lighten($xr-light-blue, 15%);
+$xr-mauve-5: lighten($xr-mauve, 15%);
+$xr-gold-5: lighten($xr-gold, 15%);
+$xr-orange-5: lighten($xr-orange, 15%);
+$xr-red-5: lighten($xr-red, 15%);
+$xr-dark-blue-5: lighten($xr-dark-blue, 15%);
+
+$xr-green-7: darken($xr-green, 15%);
+$xr-yellow-7: darken($xr-yellow, 15%);
+$xr-pink-7: darken($xr-pink, 15%);
+$xr-light-blue-7: darken($xr-light-blue, 15%);
+$xr-mauve-7: darken($xr-mauve, 15%);
+$xr-gold-7: darken($xr-gold, 15%);
+$xr-orange-7: darken($xr-orange, 15%);
+$xr-red-7: darken($xr-red, 15%);
+$xr-dark-blue-7: darken($xr-dark-blue, 15%);
+
+$xr-green-8: darken($xr-green, 30%);
+$xr-yellow-8: darken($xr-yellow, 30%);
+$xr-pink-8: darken($xr-pink, 30%);
+$xr-light-blue-8: darken($xr-light-blue, 30%);
+$xr-mauve-8: darken($xr-mauve, 30%);
+$xr-gold-8: darken($xr-gold, 30%);
+$xr-orange-8: darken($xr-orange, 30%);
+$xr-red-8: darken($xr-red, 30%);
+$xr-dark-blue-8: darken($xr-dark-blue, 30%);
+
+$xr-green-9: darken($xr-green, 45%);
+$xr-yellow-9: darken($xr-yellow, 45%);
+$xr-pink-9: darken($xr-pink, 45%);
+$xr-light-blue-9: darken($xr-light-blue, 45%);
+$xr-mauve-9: darken($xr-mauve, 45%);
+$xr-gold-9: darken($xr-gold, 45%);
+$xr-orange-9: darken($xr-orange, 45%);
+$xr-red-9: darken($xr-red, 45%);
+$xr-dark-blue-9: darken($xr-dark-blue, 45%);
+
+$xr-green-10: darken($xr-green, 60%);
+$xr-yellow-10: darken($xr-yellow, 60%);
+$xr-pink-10: darken($xr-pink, 60%);
+$xr-light-blue-10: darken($xr-light-blue, 60%);
+$xr-mauve-10: darken($xr-mauve, 60%);
+$xr-gold-10: darken($xr-gold, 60%);
+$xr-orange-10: darken($xr-orange, 60%);
+$xr-red-10: darken($xr-red, 60%);
+$xr-dark-blue-10: darken($xr-dark-blue, 60%);
+
+$xr-green-11: darken($xr-green, 75%);
+$xr-yellow-11: darken($xr-yellow, 75%);
+$xr-pink-11: darken($xr-pink, 75%);
+$xr-light-blue-11: darken($xr-light-blue, 75%);
+$xr-mauve-11: darken($xr-mauve, 75%);
+$xr-gold-11: darken($xr-gold, 75%);
+$xr-orange-11: darken($xr-orange, 75%);
+$xr-red-11: darken($xr-red, 75%);
+$xr-dark-blue-11: darken($xr-dark-blue, 75%);
+
+
+.dark-blue {
+
+    // .color-1 {
+    //     color: $xr-dark-blue-1;
+    // }
+
+    // ;
+
+    // .color-2 {
+    //     color: $xr-dark-blue-2;
+    // }
+
+    // ;
+
+    // .color-3 {
+    //     color: $xr-dark-blue-3;
+    // }
+
+
+    .color-3 {
+        background-color: $xr-dark-blue-3;
+    }
+
+    .color-4 {
+        background-color: $xr-dark-blue-4;
+    }
+
+    .color-5 {
+        background-color: $xr-dark-blue-5;
+    }
+
+    .color-6 {
+        background-color: $xr-dark-blue;
+    }
+
+    .color-7 {
+        background-color: $xr-dark-blue-7;
+    }
+
+    .color-8 {
+        background-color: $xr-dark-blue-8;
+    }
+
+    .color-9 {
+        background-color: $xr-dark-blue-9;
+    }
+
+    .color-10 {
+        background-color: $xr-dark-blue-10;
+    }
+
+    .color-11 {
+        background-color: $xr-dark-blue-11;
+    }
+
+
+}
+
+.blue {
+    .color-3 {
+        background-color: $xr-light-blue-3;
+    }
+
+    .color-4 {
+        background-color: $xr-light-blue-4;
+    }
+
+    .color-5 {
+        background-color: $xr-light-blue-5;
+    }
+
+    .color-6 {
+        background-color: $xr-light-blue;
+    }
+
+    .color-7 {
+        background-color: $xr-light-blue-7;
+    }
+
+    .color-8 {
+        background-color: $xr-light-blue-8;
+    }
+
+    .color-9 {
+        background-color: $xr-light-blue-9;
+    }
+
+    .color-10 {
+        background-color: $xr-light-blue-10;
+    }
+
+    .color-11 {
+        background-color: $xr-light-blue-11;
+    }
+
+}

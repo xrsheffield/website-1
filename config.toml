@@ -104,3 +104,11 @@ paginate = 10
   og_image = "https://xrsheffield.org/img/xrs-og.png"
   description = "Extinction Rebellion Sheffield promotes non-violent direct action & civil disobedience for action on the climate & ecological crisis."
   the_big_one = "/events/the-big-one/"
+
+  [markup]
+      [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false
+
+        [markup.goldmark.parser.attribute]
+          block = true
+          title = true

@@ -1,0 +1,19 @@
+@media screen and (prefers-color-scheme: dark) {
+    :root {
+        --text-color: #ccc;
+        --bgc: #272727;
+        --shadow-color: #0008;
+        --xr-color: var(--dark-pink);
+        --button-color: var(--white);
+    }
+
+    body {
+        background-color: var(--bgc);
+    }
+
+    main p,
+    main li {
+        --text-color: #ccc;
+
+    }
+}

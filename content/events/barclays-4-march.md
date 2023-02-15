@@ -1,10 +1,11 @@
 ---
 title: "Barclays Action"
 date: 2023-02-07T07:00:21Z
-expirydate: 2023-03-04
-event_time: TBA
+expirydate: 2023-03-11
+event_time: TBC
 draft: false
 summary: A joint action against Barclays with the Palestinian Solidarity Campaign. Details TBA
+categories: [action]
 location:
   name: Barclays Bank
   street: 2 - 12 Pinstone Street
@@ -14,8 +15,9 @@ cover_image: barclays-2022.jpg
 categories: [events]
 ---
 
-On the 4th March XR Sheffield is planning a joint action with the Sheffield Palestinian Campaign against Barclays Bank.
+On the 11th March (TBC), XR Sheffield is planning a joint action with the [Sheffield Palestinian Campaign](http://www.sheffieldpsc.org.uk/) against Barclays Bank.
 
-Time and more details will be announced nearer to the event.
+The time and date are still to be finalized and more details will be announced nearer to the event.
 
 
+{{< barclays >}}

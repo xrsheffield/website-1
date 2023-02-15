@@ -4,8 +4,6 @@ date: 2022-11-19T17:50:01Z
 draft: false
 ---
 
-## COME AND JOIN US
-
 There are so many ways to get involved - everyone has something to contribute and together we are stronger.
 
 We have many different working groups so whatever your skills or particular interests there is a place for you. You really don’t need to get arrested to be part of XR! 
@@ -24,7 +22,7 @@ Current working groups include:
 - Website
 
 
-If any of these interest you, drop us an email on {{< main-email >}} and we’ll link you up!
+If any of these interest you, drop us an email, {{< main-email >}}, and we’ll link you up!
 
 We’re also always keen for new working groups so if you have an idea, let us know! (And if you have any legal experience we’re particularly keen to hear from you.)
 

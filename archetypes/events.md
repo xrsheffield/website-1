@@ -5,6 +5,7 @@ expirydate: # date of event in the form: 2023-12-01T11:44:11+01:00
 event_time:
 summary:
 draft: false
+categories: []
 location:
   name:
   street:

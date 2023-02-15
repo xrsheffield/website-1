@@ -1,6 +1,11 @@
 /* ----- MEDIA QUERIES -------- */
 
 @media screen and (max-width: 800px) {
+
+    header {
+        border-top: solid 2.5vh var(--black);
+    }
+
     .main-menu {
         display: grid;
         place-content: center;
@@ -33,5 +38,28 @@
 
     .hamburger {
         display: block;
+    }
+
+    .back-to-top-track {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 800px) {
+
+    main {
+        display: grid;
+        grid-template-columns: minmax(auto, 760px) min-content minmax(300px, 1fr);
+        gap: 2em;
+    }
+
+    main>aside {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    footer .inner {
+        flex-direction: column-reverse;
     }
 }

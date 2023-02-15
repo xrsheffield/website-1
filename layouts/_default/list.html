@@ -1,27 +1,26 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-{{ .Content }}
 
-<ul class="list-page-list">
-{{ if eq .Section "events" }}
-
-    {{ range .RegularPages.ByExpiryDate }}
-        {{ .Render "event-li" }}
-    {{ end }}
+    <article>
+        <h1>{{ .Title }}</h1>
+        {{ .Content }}
+        <ul class="list-page-list">
+        {{ if eq .Section "events" }}
+            {{ range .RegularPages.ByExpiryDate }}
+                {{ .Render "event-li" }}
+            {{ end }}
         
-    {{ else }}
-
-    {{ range .Paginator.Pages }}
-        {{ .Render "li" }}
-    {{ end }}
-    
-{{ end }}
-</ul>
-
-{{ partial "paginator" . }}
-    
-{{ if eq .Section "press" }}
-    <a href="https://drive.google.com/drive/folders/1RdYM4b90RBMDWL-PQGFIjH4jwwknFuVF">Find PDFs of all our previous press releases in our open Google Drive folder by clicking here.</a> 
-{{ end }}
+            {{ else }}
+            {{ range .Paginator.Pages }}
+                {{ .Render "li" }}
+            {{ end }}
+        
+        {{ end }}
+        </ul>
+        {{ partial "paginator" . }}
+        
+        {{ if eq .Section "press" }}
+            <a href="https://drive.google.com/drive/folders/1RdYM4b90RBMDWL-PQGFIjH4jwwknFuVF">Find PDFs of all our previous press releases in our open Google Drive folder by clicking here.</a>
+        {{ end }}
+    </article>
 
 {{ end }}

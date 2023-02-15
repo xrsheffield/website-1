@@ -4,6 +4,7 @@ date: 2023-02-09T05:18:26Z
 expirydate: 2023-02-11T08:00:11+01:00
 event_time: 8 - 10am
 summary: XR outreach event promoting the BIG ONE and XR Sheffield in Endcliffe Park.
+categories: [outreach]
 draft: false
 location:
   name: Encliffe Park, Hunter's Bar roundabout entrance

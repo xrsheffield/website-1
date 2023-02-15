@@ -1,0 +1,10 @@
+    <p class="image-paragraph">
+        <img
+        src="{{ .Destination | safeURL }}"
+        alt="{{ .Text }}"
+        loading="lazy"
+        {{ with .Title}}title="{{ . }}"{{ end }}
+        {{ range $key, $val := .Attributes }}
+            {{ $key | safeHTMLAttr }}={{ $val }}
+        {{ end }} />
+    </p>

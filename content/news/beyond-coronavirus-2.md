@@ -6,9 +6,6 @@ categories: [news]
 author: Ci Davis
 ---
 
- 
-
-
 XR Sheffield activist Ci Davis talks about the effects of modern agriculture on the environment and how to improve these practices.
  
 > "Before COVID-19 food and farming was in crisis. Soils have become so depleted of organic matter that to maintain yields, high levels of artificial fertilizers, pesticides and herbicides are required. These fossil fuel derived poisons threaten our health and destroy the natural biodiversity. Industrial farming systems, reliant on the powerful tractor and plough, make the soils less permeable, causing increased flooding and soil loss; Sheffield must reduce flood risk. Suicide amongst farmers is greater than one per week, as half are no longer able to make a living, and 17% facing major liquidity problems, sunk by the high input costs and year-on-year decreasing farm gate prices.

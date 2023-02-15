@@ -6,6 +6,8 @@
         {{- partial "header.html" . -}}
         <main>
         {{- block "main" . }}{{- end }}
+        {{ partial "back-to-top" . }}
+        {{ partial "sidebar" . }}
         </main>
         {{- partial "footer.html" . -}}
     </div>

@@ -4,11 +4,6 @@
     box-sizing: border-box;
 }
 
-$width : 1100px;
-
-
-
-
 html {
     scroll-behavior: smooth;
     font-size: 16px;
@@ -22,8 +17,16 @@ body {
     /* starting at 1920 width with 25px */
     /* @link https://utopia.fyi/type/calculator?c=400,14,1.2,1920,25,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
     font-size: clamp(0.88rem, calc(0.69rem + 0.72vw), 1.56rem);
+
+    // start 1240 22px to 16px @ 320px 
+    /* @link https://utopia.fyi/type/calculator?c=320,16,1.2,1240,22,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+
+    font-size: var(--step-0);
+
+
     line-height: 1.4;
     color: var(--black);
+    background-color: var(--bgc);
 }
 
 .wrapper {
@@ -33,24 +36,12 @@ body {
     grid-template-rows: auto 1fr auto;
 }
 
-main {
-    background-color: #fff;
-    padding-top: 5em;
-}
-
-main,
-.inner {
-    width: clamp(250px, 1100px, 100%);
-    // max-width: 100%;
-    margin-inline: auto;
-    padding-inline: clamp(0.69rem, calc(-0.87rem + 4.55vw), 2.25rem);
-}
 
 header {
     padding-top: 0;
     // padding-bottom: 0.75em;
     /* font-family: "fucxed", sans-serif; */
-    background-color: var(--blue);
+    background-color: var(--xr-color);
     background-image: url(/img/climate-book-gradient.svg);
     background-size: 100%;
     /* letter-spacing: -.02em;
@@ -59,6 +50,24 @@ header {
 
 header .inner {
     padding: 1.25em;
+}
+
+main {
+    padding-top: 4em;
+    display: grid;
+    grid-template-columns: 1fr min-content;
+}
+
+aside {
+    display: none;
+}
+
+main,
+.inner {
+    width: min(var(--width), 100%);
+    // max-width: 100%;
+    margin-inline: auto;
+    padding-inline: clamp(0.69rem, calc(-0.87rem + 4.55vw), 2.25rem);
 }
 
 .main-heading img {
@@ -98,7 +107,7 @@ main nav>ul {
 }
 
 .main-menu {
-    background-color: #fff;
+    background-color: #181818;
     background-color: var(--black);
     padding: 2em 2em calc(.5rem + 6px) 2em;
 }
@@ -113,10 +122,9 @@ header .main-menu ul {
 }
 
 .main-menu a {
-    color: #f6e705;
     color: #fff;
-    padding: 0 1em .5rem 1em;
-    border-bottom: solid red 0px;
+    padding: 0 0.7em .5rem;
+    border-bottom: solid #fff 0px;
 }
 
 .main-menu a:hover {
@@ -159,12 +167,33 @@ nav.socials ul {
 .icon svg {
     width: 100%;
     transition: all 0.5s;
+    fill: var(--button-color);
 }
 
 .icon:hover svg {
     fill: $xr-dark-blue;
     transform: scale(1.3);
 }
+
+// ---- MAIN section ---------
+
+.back-to-top-track {
+    margin-top: 90vh;
+    margin-bottom: 2em;
+    // outline: dotted blue 1px;
+    width: min-content;
+}
+
+a.back-to-top-btn {
+    position: sticky;
+    top: 90vh;
+    padding: 0.1em 0.4em;
+    aspect-ratio: 10 / 5;
+    border-radius: 150px;
+    font-size: 1.5em;
+}
+
+
 
 /* ------ FOOTER  ------ */
 
@@ -201,11 +230,15 @@ footer .inner {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    flex-shrink: 2;
+    flex-shrink: 7;
+}
+
+.footer-centre {
+    flex-shrink: 0;
+    flex-grow: 5;
 }
 
 .footer-centre ul {
-    flex-shrink: 0;
     flex-direction: column;
     text-transform: capitalize;
 }
@@ -217,7 +250,7 @@ footer .inner {
 
 h1,
 h2 {
-    color: var(--blue);
+    color: var(--xr-color);
     font-family: fucxed, sans-serif;
     text-transform: uppercase;
     line-height: 1;
@@ -227,12 +260,13 @@ h2 {
 }
 
 h1 {
-    font-size: 3.6em;
+    font-size: var(--step-4);
     margin-top: 0.5rem;
 }
 
 h2 {
     font-size: 2.2em;
+    font-size: var(--step-3);
     border-bottom: 2px solid currentColor;
     margin-top: 2em;
 }
@@ -243,8 +277,10 @@ h2 a {
 
 h3 {
     font-size: 1.5em;
-    color: var(--blue);
+    color: var(--xr-color);
     margin-bottom: 0.25rem;
+    line-height: 1;
+    letter-spacing: -0.02em;
 }
 
 h3+p {
@@ -255,9 +291,40 @@ p {
     margin-top: 0;
 }
 
+img {
+    border-radius: 5px;
+    max-width: 100%;
+}
+
 main p,
 main li {
-    color: #444;
+    color: var(--type-color);
+}
+
+blockquote {
+    padding: 1em 2em 1em 3em;
+    margin: 2em;
+    box-shadow: 0 0 1em var(--shadow-color);
+    border-left: solid var(--xr-color) 4px;
+    border-radius: 5px;
+}
+
+blockquote p:first-child {
+    position: relative;
+}
+
+blockquote p:first-child::before {
+    content: open-quote;
+    /*Font*/
+    font-family: Georgia, serif;
+    font-size: 3.5em;
+    font-weight: bold;
+    color: var(--xr-color);
+
+    /*Positioning*/
+    position: absolute;
+    left: -.6em;
+    top: -.25em;
 }
 
 main li::marker {
@@ -266,10 +333,6 @@ main li::marker {
 
 
 
-button:hover {
-    cursor: pointer;
-}
-
 .btn,
 a[title*="btn"] {
     display: inline-block;
@@ -277,26 +340,27 @@ a[title*="btn"] {
     font-size: 0.8em;
     font-family: fucxed, sans-serif;
     text-transform: uppercase;
-    border: solid 2px var(--black);
+    border: solid 2px var(--button-color);
     border-radius: 5px;
     background-color: transparent;
-    color: var(--black);
+    color: var(--button-color);
     padding: .4em 1.25rem .3em;
     border: solid 2px;
     transition: all .4s;
+    cursor: pointer;
 }
 
 .btn:hover,
 a[title*="btn"]:hover,
 .btn:active {
     color: #fff;
-    background-color: var(--black);
-    border-color: var(--black);
+    background-color: var(--button-color);
+    border-color: var(--button-color);
 }
 
 .donate {
     background-color: #fff;
-    color: var(--black);
+    color: var(--button-color);
 }
 
 
@@ -325,7 +389,7 @@ header a {
 .author-date {
     display: flex;
     gap: 2em;
-    font-size: 0.7em;
+    font-size: var(--step--1);
 }
 
 .prev-next {
@@ -357,7 +421,6 @@ header a {
 /* ---- SINGLE PAGE ----- */
 
 .cover-image {
-    border-radius: 5px;
     display: block;
     max-height: 80vh;
     margin: 2em 0;
@@ -470,12 +533,12 @@ a.share-btn:hover {
 
 /* ------ HOME PAGE ----- */
 
-.home .content>p:first-child {
+.content>p:first-child {
     font-size: 1.25em;
     font-weight: bold;
 }
 
-main .join {
+article .join {
     margin: 3em 0;
     padding: clamp(1.00rem, calc(-0.39rem + 4.46vw), 4.63rem);
     border-radius: 5px;
@@ -490,6 +553,7 @@ main .join {
 .join h2 {
     border: none;
     margin: 0 0 0.5em 0;
+    font-size: var(--step-2);
     color: var(--black);
 }
 
@@ -508,7 +572,8 @@ main .join a {
     color: #fff;
 }
 
-.sign-up-now {
+.sign-up-now,
+summary {
     text-align: center;
 }
 
@@ -516,7 +581,7 @@ main .join a {
     background-color: #fff8;
     color: #181818;
     border-width: 3px;
-    font-size: 1em;
+    font-size: var(--step-0);
 }
 
 .sign-up-now .btn:hover {
@@ -549,7 +614,7 @@ main .join a {
 .demand-number {
     font-family: fucxed, sans-serif;
     font-size: 4em;
-    color: var(--blue);
+    color: var(--xr-color);
     line-height: 1;
 }
 
@@ -560,5 +625,13 @@ main .join a {
 /* ------ Search Page -----` */
 
 input[type="text"] {
-    font-size: 1em;
+    font-size: 1.5em;
+    padding: 0.25em;
+    border: solid 1px #ccc;
+    border-radius: 5px;
+}
+
+input[type="text"]:focus {
+    border: $xr-red solid 3px;
+    outline: none;
 }
