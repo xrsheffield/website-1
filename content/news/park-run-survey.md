@@ -15,8 +15,11 @@ Three questions were asked:
 
 
 ![Citizen Survey](citizen-survey-1.jpg)
+
 ![Citizen Survey](citizen-survey-2.jpg)
+
 ![Citizen Survey](citizen-survey-4.jpg)
+
 ![Citizen Survey](citizen-survey-3.jpg)
 
 

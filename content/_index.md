@@ -26,7 +26,7 @@ New member Catherine says:
 
 <!-- {{< monday-meetings >}} -->
 
-The next Monday meetings are on **13/2**, **20/2** and **27/2**.
+The next Monday meetings are on **20 Feb**, **27 Feb** and **6 Mar**.
 
 The Samba band also meet at the Co-Working Space on Union Street on Thursdays. Like the Monday meeting newcomers are always welcome.
 
