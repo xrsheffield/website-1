@@ -7,7 +7,7 @@ draft: false
 summary: SYCA planning meeting on The Big One. Everyone welcome.
 categories: [meeting]
 location:
-  name: Room 12.101, Hallam University
+  name: Dorothy Fleming Lecture Theatre, Hallam University
   street: Charles Street Building
   town: Sheffield
   postcode:
@@ -15,6 +15,12 @@ cover_image: charles-street-building.jpg
 categories: [events]
 ---
 
+
+--- 
+
+PLEASE NOTE THE CHANGE OF ROOM. THE MEETING IS NOW IN the **Dorothy Fleming Lecture Theatre** and NOT Room 12.1.01 as previously described.
+
+--- 
 
 A big planning meeting organized by the {{< syca >}}  open to everyone intending to go to London for [The Big One](https://extinctionrebellion.uk/the-big-one/) on April 21st this year.
 
