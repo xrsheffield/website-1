@@ -7,3 +7,5 @@ categories: [events]
 ---
 
 Also our latest events are on our [Facebook page](https://www.facebook.com/pg/xrshef/events/). We meet weekly on Monday evenings and everyone is welcome. [Find out more..](/#monday-meetings-at-union-street)
+
+{{< monday-meetings >}}

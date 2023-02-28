@@ -18,6 +18,8 @@ Come along to our weekly get-together every Monday evening at Union Street Co-Wo
 
 You can also join in the Monday meetings using [Zoom](https://zoom.us/) if that's more convenient. Contact us at {{< main-email >}} for details of how to join.
 
+{{< monday-meetings >}}
+
 **What to expect at the Main Monday Meeting (MMM)** 
 
 New member Catherine says:
@@ -26,9 +28,8 @@ New member Catherine says:
 
 
 
-The next Monday meetings are on **27 Feb** and **6 Mar**.
 
-The Samba band also meet at the Co-Working Space on Union Street on Thursdays. Like the Monday meeting newcomers are always welcome.
+The Samba band also meet at the Co-Working Space on Union Street on Thursdays. Just like the Monday meetings, newcomers are always welcome.
 
 
 {{< event-list >}}

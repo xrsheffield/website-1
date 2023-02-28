@@ -1,52 +1,65 @@
-
-{{/*  This code creates a new Date object for today's date, and an array of Date objects for a list of dates. It then iterates through the list of dates and checks if each date is greater than or equal to today's date. If it is, it adds it to the upcomingDates array, and if the length of the upcomingDates array is 3, it stops the loop. Finally, it logs the upcomingDates array to the console, which will display the next 3 dates from and including the current day.  */}}
-
+<p class="next-monday-meetings">
+  The next Monday meetings are on: <span id="dates"></span>
+</p>
 
 <script>
-window.onload = function() {
-    const currentDate = new Date();
-    const dateList = [
-        new Date("2023-01-30"),
-        new Date("2023-02-06"),
-        new Date("2023-02-13"),
-        new Date("2023-02-20"),
-        new Date("2023-02-27"),
-        new Date("2023-03-06"),
-        new Date("2023-03-13"),
-        new Date("2023-03-20"),
-        new Date("2023-03-27"),
-        // new Date("2023-04-03"),
-        new Date("2023-04-10"),
-        new Date("2023-04-17"),
-        new Date("2023-04-24"),
-        new Date("2023-05-01"),
-        new Date("2023-05-08"),
-        new Date("2023-05-15"),
-        new Date("2023-05-22"),
-        new Date("2023-05-29"),
-        new Date("2023-06-05")
-    ];
+  const dates = [
+    new Date('2023-01-30'),
+    new Date('2023-02-06'),
+    new Date('2023-02-13'),
+    new Date('2023-02-20'),
+    new Date('2023-02-25'),
+    new Date('2023-02-27'),
+    new Date('2023-03-06'),
+    new Date('2023-03-13'),
+    new Date('2023-03-20'),
+    new Date('2023-03-27'),
+    // new Date("2023-04-03"),
+    new Date('2023-04-10'),
+    new Date('2023-04-17'),
+    new Date('2023-04-24'),
+    new Date('2023-05-01'),
+    new Date('2023-05-08'),
+    new Date('2023-05-15'),
+    new Date('2023-05-22'),
+    new Date('2023-05-29'),
+    new Date('2023-06-05'),
+    new Date('2023-06-12'),
+    new Date('2023-06-19'),
+    new Date('2023-06-26'),
+  ];
 
-    let next2Dates = "";
-    let count = 0;
-    for (let i = 0; i < dateList.length; i++) {
-      if (dateList[i] >= currentDate) {
-        const day = dateList[i].getDate();
-        const month = dateList[i].getMonth() + 1;
-        count++;
-        next2Dates += day + "/" + month;
-        if (count < 2) {
-          next2Dates += " and ";
-        }
-        if (count === 2) {
-          break;
-        }
+  const datesEl = document.querySelector('#dates');
+
+  function pickTwoDates(dates) {
+    let today = new Date();
+    let firstDate;
+    let secondDate;
+
+    // find the first date, either today or the next one after today
+    // subtract the number of milliseconds in a day - 86,400,000 - for the first day to make sure today is included.
+    for (let i = 0; i < dates.length; i++) {
+      if (dates[i].getTime() >= today.getTime() - 86400000) {
+        firstDate = dates[i];
+        break;
       }
     }
-  
-    document.getElementById("date-span").innerHTML = next2Dates;
-  };
+
+    // find the second date, the next one after the first date found above
+    for (let i = 0; i < dates.length; i++) {
+      if (dates[i].getTime() > firstDate.getTime()) {
+        secondDate = dates[i];
+        break;
+      }
+    }
+
+    datesEl.innerHTML = `
+      <b>${firstDate.getDate()} 
+        ${firstDate.toLocaleString( 'default', { month: 'long' } )}</b>
+         and 
+      <b>${secondDate.getDate()} 
+      ${secondDate.toLocaleString( 'default', { month: 'long' } )}</b>.
+    `;
+  }
+  pickTwoDates(dates);
 </script>
-
-<p><b>THE NEXT MONDAY MEETINGS ARE ON: <span id="date-span"></span></b></p>
-

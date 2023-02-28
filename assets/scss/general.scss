@@ -538,6 +538,14 @@ a.share-btn:hover {
     font-weight: bold;
 }
 
+.next-monday-meetings {
+    border: solid 4px var(--blue);
+    margin: 2em;
+    padding: 1em;
+    border-radius: 5px;
+}
+
+
 article .join {
     margin: 3em 0;
     padding: clamp(1.00rem, calc(-0.39rem + 4.46vw), 4.63rem);
@@ -547,7 +555,6 @@ article .join {
     background-size: 60%;
     background-repeat: no-repeat;
     background-position: 110% 10%;
-    ;
 }
 
 .join h2 {
