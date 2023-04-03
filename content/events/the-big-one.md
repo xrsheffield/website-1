@@ -13,19 +13,43 @@ location:
   postcode:
 cover_image:
 categories: [events]
+css:
+- ".coach-btns {margin: 3em auto; display:flex; justify-content: center; gap: 0.5em;}"
+- ".coach-btns .btn {background-color: #181818; border-color: #181818; color: #fff}"
+- ".coach-btns .btn:hover {background-color: #FF017E; border-color: #FF017E; color: #fff}"
+- "#the-big-one-begins-in {border: none}"
 ---
 
 
+**Fri 21st to Mon 24th April**
+
+*The Big One* is the name for the mass protest in London. The aim is to get as many people as possible to protest against the government and their inaction to do anything meaningful against climate change.
+
+The event is spread over 4 days: Fri 21st April, Sat 22nd April, Sun 23rd April and Mon 24th April. You can go to one or more of the days. XR Sheffield has organized coaches from Sheffield for the first 2 days.
+
+## Getting there
+
+![Coach to London](/img/london-coach.jpg)
+
+XR Sheffield have organized 2 coaches to get down to London and back. Coaches are going down on both **Friday 21st April** and **Saturday 22nd**.
+
+Both coaches leave Paternoster Row, Sheffield S1 2QQ at 7am, and Meadowhall coach park at 7.20am before heading to London. They both leave London at 6pm and are expected to arrive back around 10.30/11pm.
+
+{{< coach-btns >}}
+
+You can of course make your own way down via the regular coach companies, [National Express](https://www.nationalexpress.com), [Flixbus](https://flixbus.co.uk/), [Megabus](https://uk.megabus.com/) etc. or train.
+
+## More info
+
+[South Yorkshire Climate Alliance](https://www.southyorkshireclimatealliance.org.uk/2023/02/the-big-one-south-yorkshire-goes-to-london)
+
+[The BIG One on XR UK](https://extinctionrebellion.uk/the-big-one/) 
+
+[Surround Parliament] gives an overview overview of the idea behind the event:
+
 {{< surround-parliament >}}
 
-## April 21 2023
-
-*The Big One* is the name for the mass action in London to get as many people as possible to protest against the government and their inaction to do anything meaningful against climate change.
-
-[Surround Parliament] gives a good overview about the event with more details on the [XR UK website].
-
-
-The Big One is happening in:
+## The Big One begins in:
 
 {{< countdown-april-21 >}}
 
