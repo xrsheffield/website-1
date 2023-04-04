@@ -9,18 +9,8 @@
 # Delete dates that have passed then next 2 meetings will show up on the front page.
 
 dates:
-- "23/01"
-- "30/01"
-- "06/02"
-- "13/02"
-- "20/02"
-- "27/02"
-- "06/03"
-- "13/03"
-- "20/03"
-- "27/03"
 - "03/04"
-- "10/04"
+- "11/04"
 - "17/04"
 - "24/04"
 - "01/05"

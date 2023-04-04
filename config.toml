@@ -10,7 +10,7 @@ paginate = 10
 [menu]
 
     [[menu.main]]
-      identifier = "the climate crisis is happening now"
+      identifier = "the big one"
       name = "home"
       url = "/"
       weight = "10"
@@ -109,6 +109,6 @@ paginate = 10
       [markup.goldmark.parser]
       wrapStandAloneImageWithinParagraph = false
 
-        [markup.goldmark.parser.attribute]
-          block = true
-          title = true
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
