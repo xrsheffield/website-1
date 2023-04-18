@@ -65,6 +65,9 @@ The event is supported by:
 - and many more
 {.supported-by}
 
+
+## What's happening?
+
 The family friendly event is spread over 4 days: 
 
 - Friday 21st – **Unite to Survive**. Westminster is filled with flags, banners and people.
@@ -74,17 +77,33 @@ The family friendly event is spread over 4 days:
 
 You come when you like, leave when you like, and stay for as long as you can.  
 
-XR Sheffield has organized coaches from Sheffield for the first 2 days...
+
+### Sheffield in London
+
+If you want to get involved with Sheffield, XR Sheffield and/or South Yorkshire people there are some specific activities we will be at include:
+
+**Friday**  
+Picket of the DoT: from 11.30am - 12.00 is Sheffield's contribution to the day long picket of the Department of Transport at Horseferry Road.  
+Aviation march: We'll also be taking part in the anti-Aviation march in the afternoon which ends at a rally at 3pm
+
+**Saturday**  
+Biodiversity march: As part of Earth Day this begins with a rally on the main stage which is on Abingdon Street near Parliament.
+
+For more info contact {{< main-email >}} and join our WhatsApp group.
+
+
 
 ## Getting there
 
+XR Sheffield has organized coaches from Sheffield for the first 2 days...
+
 ![Coach to London](/img/london-coach.jpg)
 
-XR Sheffield have organized 2 coaches to get down to London and back. Coaches are going down on both **Friday 21st April** and **Saturday 22nd**.
+XR Sheffield have organized several coaches to get down to London and back. Coaches are going down on both **Friday 21st April** and **Saturday 22nd**.
 
 Both coaches leave Paternoster Row, Sheffield S1 2QQ at 7am, and Meadowhall coach park at 7.20am before heading to London. They both leave London at 6pm and are expected to arrive back around 10.30/11pm.
 
-The cost for a day trip is £30 though there are lower priced tickets for those on low incomes.
+The cost for a day trip is from £10 - £30 though - lower priced tickets are for those on low incomes.
 
 {{< coach-btns >}}
 

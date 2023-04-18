@@ -24,9 +24,9 @@ Extinction Rebellion (XR) needs people who both take action, and those who suppo
 {{< link_box >}}
 
 
-## Next meeting
+## Extra creative event
 
-Our next 'Monday' meeting is actually on TUESDAY 11 April this week. And its NOT at Union Street but at the [KIAC arts studio](http://www.kiac-sheffield.org) (Kelham Island). 
+In addition to our Monday meeting on 17th April we are having another creative event on **Tuesday 18th** from 6pm to 9pm. This is a chance to get creative to make banners, placards and anything else need for The Big One and other future protests. This will be at the [KIAC arts studio](http://www.kiac-sheffield.org) (Kelham Island). 
 
 The address is:
 
@@ -35,7 +35,7 @@ The Lion Works,
 40 Ball Street,  
 Sheffield, S3 8DB
 
-Everyone welcome to this and any future meetings at our regular day and venue:
+Everyone welcome.
 
 ## MONDAY MEETINGS AT UNION STREET
 
