@@ -7,12 +7,11 @@ css:
 - ".coach-btns {margin: 3em auto; display:flex; justify-content: center; gap: 0.5em;}"
 - ".coach-btns .btn {background-color: #181818; border-color: #181818; color: #fff}"
 - ".coach-btns .btn:hover {background-color: #FF017E; border-color: #FF017E; color: #fff}"
+- ".the-big-one {border: solid 6px var(--blue); padding: 1em 2em; border-radius: 10px}"
+- "h1 {line-height: 0.7; margin: 0.5em 0 0 0.125em;"
 ---
 
 {{< the-big-one-front-page >}}
-
-
-{{< coach-btns >}}
 
 
 ## The Climate Crisis is happening now
@@ -23,19 +22,6 @@ Extinction Rebellion (XR) needs people who both take action, and those who suppo
 
 {{< link_box >}}
 
-
-## Extra creative event
-
-In addition to our Monday meeting on 17th April we are having another creative event on **Tuesday 18th** from 6pm to 9pm. This is a chance to get creative to make banners, placards and anything else need for The Big One and other future protests. This will be at the [KIAC arts studio](http://www.kiac-sheffield.org) (Kelham Island). 
-
-The address is:
-
-KIAC,  
-The Lion Works,  
-40 Ball Street,  
-Sheffield, S3 8DB
-
-Everyone welcome.
 
 ## MONDAY MEETINGS AT UNION STREET
 

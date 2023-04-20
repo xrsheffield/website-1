@@ -80,7 +80,7 @@ You come when you like, leave when you like, and stay for as long as you can.
 
 ### Sheffield in London
 
-If you want to get involved with Sheffield, XR Sheffield and/or South Yorkshire people there are some specific activities we will be at include:
+If you want to get involved with Sheffield, XR Sheffield and/or South Yorkshire people there are some specific activities we will be at including:
 
 **Friday**  
 Picket of the DoT: from 11.30am - 12.00 is Sheffield's contribution to the day long picket of the Department of Transport at Horseferry Road.  
