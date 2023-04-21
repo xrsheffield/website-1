@@ -1,7 +1,7 @@
 ---
 title: "The BIG One London"
 date: 2023-02-07T07:11:48Z
-expirydate: 2023-04-21T09:00:11+01:00
+expirydate: 2023-04-24T09:00:11+01:00
 event_time: 
 draft: false
 categories: [action]
@@ -82,32 +82,12 @@ You come when you like, leave when you like, and stay for as long as you can.
 
 If you want to get involved with Sheffield, XR Sheffield and/or South Yorkshire people there are some specific activities we will be at including:
 
-**Friday**  
-Picket of the DoT: from 11.30am - 12.00 is Sheffield's contribution to the day long picket of the Department of Transport at Horseferry Road.  
-Aviation march: We'll also be taking part in the anti-Aviation march in the afternoon which ends at a rally at 3pm
-
 **Saturday**  
 Biodiversity march: As part of Earth Day this begins with a rally on the main stage which is on Abingdon Street near Parliament.
 
-For more info contact {{< main-email >}} and join our WhatsApp group.
+For more info contact {{< main-email >}} and/or join our WhatsApp group.
 
-
-
-## Getting there
-
-XR Sheffield has organized coaches from Sheffield for the first 2 days...
-
-![Coach to London](/img/london-coach.jpg)
-
-XR Sheffield have organized several coaches to get down to London and back. Coaches are going down on both **Friday 21st April** and **Saturday 22nd**.
-
-Both coaches leave Paternoster Row, Sheffield S1 2QQ at 7am, and Meadowhall coach park at 7.20am before heading to London. They both leave London at 6pm and are expected to arrive back around 10.30/11pm.
-
-The cost for a day trip is from £10 - £30 though - lower priced tickets are for those on low incomes.
-
-{{< coach-btns >}}
-
-You can of course make your own way down via the regular coach companies, [National Express](https://www.nationalexpress.com), [Flixbus](https://flixbus.co.uk/), [Megabus](https://uk.megabus.com/) etc. or train.
+You can make your own way down via the regular coach companies, [National Express](https://www.nationalexpress.com), [Flixbus](https://flixbus.co.uk/), [Megabus](https://uk.megabus.com/) etc. or train.
 
 ## More info
 
@@ -118,12 +98,6 @@ You can of course make your own way down via the regular coach companies, [Natio
 [Surround Parliament] gives an overview overview of the idea behind the event:
 
 {{< surround-parliament >}}
-
-## The Big One begins in:
-
-{{< countdown-april-21 >}}
-
-
 
 [Surround Parliament]: https://surroundparliament.com/
 
