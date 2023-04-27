@@ -10,7 +10,7 @@ paginate = 10
 [menu]
 
     [[menu.main]]
-      identifier = "the big one"
+      identifier = "the climate crisis is happening now"
       name = "home"
       url = "/"
       weight = "10"

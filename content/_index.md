@@ -1,20 +1,11 @@
 ---
-title: "THE BIG ONE"
+title: "The Climate Crisis is happening now"
 date: 2022-11-19T10:39:46Z
 draft: false
 description: Sheffield Extinction Rebellion  promotes non-violent direct action & civil disobedience for action on the climate & ecological crisis.
-css:
-- ".coach-btns {margin: 3em auto; display:flex; justify-content: center; gap: 0.5em;}"
-- ".coach-btns .btn {background-color: #181818; border-color: #181818; color: #fff}"
-- ".coach-btns .btn:hover {background-color: #FF017E; border-color: #FF017E; color: #fff}"
-- ".the-big-one {border: solid 6px var(--blue); padding: 1em 2em; border-radius: 10px}"
-- "h1 {line-height: 0.7; margin: 0.5em 0 0 0.125em;"
 ---
 
-{{< the-big-one-front-page >}}
 
-
-## The Climate Crisis is happening now
 
 Hello to anyone visiting this website … you may be here because you have feelings about the climate crisis that you find difficult to express. The intensity and overwhelming nature of it gets to us all and we’re right here with you. For some of us one thing that can help is knowing we’re fighting for a better future and whatever our differences we’ve found a group of people who care - and who care about each other.
 
