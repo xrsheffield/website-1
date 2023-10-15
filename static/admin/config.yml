@@ -1,3 +1,4 @@
+local_backend: true
 backend:
   name: git-gateway
   branch: master
@@ -33,3 +34,23 @@ collections:
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Image", name: "cover_image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+        
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "content/_index.md"
+        label: "Home Page"
+        name: "/"
+        fields:
+          - { label: "Title", name: "title", widget: "string"}
+          - {label: "Date", name: "date", widget: "datetime"}
+          - {label: "Description", name: "description", widget: "string"}
+          - { label: "Body", name: "body", widget: "markdown"}
+
+      - file: "content/who-we-are.md"
+        label: "Who We Are"
+        name: "who-we-are"
+        fields:
+          - { label: "Title", name: "title", widget: "string"}
+          - {label: "Date", name: "date", widget: "datetime"}
+          - { label: "Body", name: "body", widget: "markdown"}
