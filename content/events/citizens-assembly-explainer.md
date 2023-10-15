@@ -6,13 +6,13 @@ expirydate: 2023-10-19T19:00:11+01:00
 event_time: 7pm
 summary:
 draft: false
-categories: []
+categories: [events]
 location:
   name: The Workstation
   street: 15 Paternoster Row
   town: Sheffield
   postcode: S1 2BX
-cover_image:
+cover_image: 
 categories: [events]
 ---
 

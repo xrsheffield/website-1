@@ -9,8 +9,8 @@ draft: false
 location:
   name: Encliffe Park, Hunter's Bar roundabout entrance
   street: Eccelsall Road
-  town: 
-  postcode:
+  town: Sheffield  
+  postcode: S11
 cover_image: park-run.jpg
 categories: [events]
 ---

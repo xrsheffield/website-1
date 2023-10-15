@@ -9,8 +9,8 @@ categories: [action]
 location:
   name: Sheffield Town Hall
   street: Pinstone Street
-  town: 
-  postcode:
+  town: Sheffield
+  postcode: S1
 cover_image: drowning-in-promises-banner.jpg
 categories: [events]
 css:

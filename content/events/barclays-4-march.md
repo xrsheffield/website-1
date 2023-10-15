@@ -2,7 +2,6 @@
 title: "Barclays Action"
 date: 2023-02-07T07:00:21Z
 expirydate: 2023-03-11
-event_time: TBC
 draft: false
 summary: A joint action against Barclays with the Palestinian Solidarity Campaign. Details TBA
 categories: [action]
