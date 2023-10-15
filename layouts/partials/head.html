@@ -25,6 +25,9 @@
 
     <script src="/js/main.js" defer></script>
     <script src="https://alceris.com/script.js" data-id="a1cfee7fcdb3bf67" async defer></script> 
+    {{ if .IsHome }}
+        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    {{ end }}
     {{/*  <script src="https://unpkg.com/mastodon-share-button@latest/dist/mastodon-share-button.js"></script>  */}}
     {{ with .Params.css }}
     <style>
