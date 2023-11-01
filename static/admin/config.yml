@@ -1,9 +1,11 @@
 local_backend: false
 backend:
-  name: git-gateway
+  name: gitlab
+  repo: xrsweb/new-wix
   branch: master
+display_url: xrsheffield.org
 
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 
 media_folder: "assets/img"
 public_folder: "/img"
@@ -13,6 +15,8 @@ collections:
     label: "Events" # Used in the UI
     folder: "content/events" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    editor:
+      preview: true
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Link Title", name: "linktitle", widget: "string", required: false}
@@ -26,6 +30,8 @@ collections:
     label: "News" # Used in the UI
     folder: "content/news" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    editor:
+      preview: true
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Link Title", name: "linktitle", widget: "string", required: false}
@@ -41,6 +47,8 @@ collections:
       - file: "content/_index.md"
         label: "Home Page"
         name: "/"
+        editor:
+          preview: true
         fields:
           - { label: "Title", name: "title", widget: "string"}
           - {label: "Date", name: "date", widget: "datetime"}
@@ -50,6 +58,8 @@ collections:
       - file: "content/who-we-are.md"
         label: "Who We Are"
         name: "who-we-are"
+        editor:
+          preview: true
         fields:
           - { label: "Title", name: "title", widget: "string"}
           - {label: "Date", name: "date", widget: "datetime"}
