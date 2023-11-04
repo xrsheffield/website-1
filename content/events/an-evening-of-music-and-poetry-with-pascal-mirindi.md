@@ -9,9 +9,8 @@ cover_image: /img/radical-mutual-aid-evening.jpeg
 ---
 Pascal Mirindi of XR Universite de Goma, Democratic Republic of Congo, is a renowned climate activist who has a long association with XR Sheffield.  He will be giving a talk as part of an Evening of Music and Poetry on Sunday 12th November from 5pm at Sidney & Matilda.
 
-Please come and help give a warm welcome Pascal on his first visit to Sheffield.
+Please come and help give a warm welcome to Pascal on his first visit to Sheffield.
 
 Suggested donation £5 (a portion of proceeds will go to Sheffield Palestine Solidarity Campaign)
 
-Acoustic Performances, Poetry, Reflections, DJs, Open Mic  
-
+Acoustic Performances, Poetry, Reflections, DJs, Open Mic
