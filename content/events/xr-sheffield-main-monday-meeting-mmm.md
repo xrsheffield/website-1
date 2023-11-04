@@ -14,6 +14,4 @@ Open from 6pm for social and to help with setting up, meeting from 6:45 to 8pm
 
 At Union Street Union co-working Offices, 18-20 Union St, Sheffield S1 2JR
 
-... or join us [online](https://us02web.zoom.us/j/83837809892?pwd=TWRobzBuSS9HSWU3OFBBQzJTeUd4QT09)
-
-... or join online with Zoom: https://us02web.zoom.us/j/83837809892?pwd=TWRobzBuSS9HSWU3OFBBQzJTeUd4QT09
+... or join the meeting [online](https://us02web.zoom.us/j/83837809892?pwd=TWRobzBuSS9HSWU3OFBBQzJTeUd4QT09)
