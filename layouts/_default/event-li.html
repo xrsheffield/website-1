@@ -1,13 +1,13 @@
     <li class="event-li"
     {{ if .Params.cover_image }}
-        style=""
+        style="cursor: pointer;"
     {{ end }}
     >
     <a class="event-link" aria-label="More on {{ .Title }}" href="{{ .RelPermalink }}">
         <h2>{{ .LinkTitle | safeHTML }}</h2>
         
         <div class="time">
-            <time>{{ .ExpiryDate.Format "3.04pm, Mon 2 Jan 2006" }}</time>
+            <time>{{ .ExpiryDate.Format "Mon 2 Jan 2006" }}</time>
             {{ with .Params.Catagories }}<div class="catagory">{{ . }}</div>{{ end }}
         </div>
         

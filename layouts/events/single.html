@@ -5,6 +5,8 @@
         <p><time>{{ .ExpiryDate.Format "Mon 2 January" }}{{ with .Params.event_time }}. Time: {{ . }}{{ end }}</time></p>
         {{ with .Params.cover_image }}
         
+        <img src="{{ . }}" alt="">
+
         {{ $img_url := print "img/" . }}
             {{ with resources.Get $img_url }}
             {{ $image := . }}
