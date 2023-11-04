@@ -1,0 +1,16 @@
+---
+title: An Evening of Music and Poetry with Pascal Mirindi
+date: 2023-11-04T13:31:26.628Z
+expirydate: 2023-11-12T23:00:26.639Z
+summary: An Evening of Music and Poetry with Pascal Mirindi on Sunday 12th at
+  Sidney & Matilda
+cover_image: /img/radical-mutual-aid-evening.jpeg
+---
+Pascal Mirindi of XR Universite de Goma, Democratic Republic of Congo, is a renowned climate activist who has a long association with XR Sheffield.  He will be giving a talk as part of an Evening of Music and Poetry on Sunday 12th November from 5pm at Sidney & Matilda.
+
+Please come and help give a warm welcome Pascal on his first visit to Sheffield.
+
+Suggested donation £5 (a portion of proceeds will go to Sheffield Palestine Solidarity Campaign)
+
+Acoustic Performances, Poetry, Reflections, DJs, Open Mic  
+
