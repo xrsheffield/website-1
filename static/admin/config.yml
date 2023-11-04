@@ -18,11 +18,12 @@ collections:
     editor:
       preview: true
     fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Link Title", name: "linktitle", widget: "string", required: false}
+      - {label: "Title", name: "title", widget: "string", hint: 'The main title for the event'}
+      - {label: "Link Title", name: "linktitle", widget: "string", required: false, hint: 'If the above title is long, provide a shortened version here to appear in links'}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Expiry Date", name: "expirydate", widget: "datetime"}
-      - {label: "Summary", name: "summary", widget: "string"}
+      - {label: "Event Date", name: "expirydate", widget: "datetime", hint: 'Also the expiry date for the page. Set the time to late in the day, say 23.59'}
+      - {label: 'Time of the event', name: 'time', widget: 'string', hint: 'For example 2pm - 6pm. This will show up on the page. The time from Event Date above will not.', required: false}
+      - {label: "Summary", name: "summary", widget: "string", hint: 'A summary of the event appears in the listing of all events'}
       - {label: "Image", name: "cover_image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
