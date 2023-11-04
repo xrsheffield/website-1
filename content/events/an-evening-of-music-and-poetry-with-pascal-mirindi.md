@@ -2,6 +2,7 @@
 title: An Evening of Music and Poetry with Pascal Mirindi
 date: 2023-11-04T13:31:26.628Z
 expirydate: 2023-11-12T23:00:26.639Z
+time: 5pm onwards
 summary: An Evening of Music and Poetry with Pascal Mirindi at Sidney & Matilda
 cover_image: /img/radical-mutual-aid-evening.jpeg
 ---
