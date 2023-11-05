@@ -8,7 +8,7 @@ summary: This week's meeting will include planning XR Sheffield support for
 ---
 XR Sheffield's Main Monday Meeting (MMM)
 
-This week's meeting will include planning XR Sheffield support for COP28 related events
+At this week’s meeting we will do further planning for the mass mobilisation which will be taking place across the UK, globally and here in Sheffield in early December as the abysmal COP process takes us further into crisis. Please come along to contribute to thinking and planning. There’s something for everyone as we explore how to participate locally and amplify our message
 
 Open **from 6pm** for social and to help with setting up, meeting from **6:45 to 8pm**
 
