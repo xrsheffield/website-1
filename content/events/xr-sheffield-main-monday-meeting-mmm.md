@@ -10,8 +10,8 @@ XR Sheffield's Main Monday Meeting (MMM)
 
 This week's meeting will include planning XR Sheffield support for COP28 related events
 
-Open from 6pm for social and to help with setting up, meeting from 6:45 to 8pm
+Open **from 6pm** for social and to help with setting up, meeting from **6:45 to 8pm**
 
-At Union Street Union co-working Offices, 18-20 Union St, Sheffield S1 2JR
+At Union Street Co-working Offices, 18-20 Union St, Sheffield S1 2JR
 
 ... or join the meeting [online](https://us02web.zoom.us/j/83837809892?pwd=TWRobzBuSS9HSWU3OFBBQzJTeUd4QT09)
