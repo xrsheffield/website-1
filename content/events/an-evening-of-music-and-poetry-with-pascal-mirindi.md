@@ -14,3 +14,5 @@ Please come and help give a warm welcome to Pascal on his first visit to Sheffie
 Suggested donation £5 (a portion of proceeds will go to Sheffield Palestine Solidarity Campaign)
 
 Acoustic Performances, Poetry, Reflections, DJs, Open Mic
+
+[Get free tickets](https://www.eventbrite.com/e/an-evening-of-music-poetry-and-resistance-tickets-743981888857?aff=oddtdtcreator)
