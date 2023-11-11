@@ -5,7 +5,7 @@ expirydate: 2023-11-13T23:30:05.125Z
 event_time: 6-8pm
 summary: XR Sheffield Main Monday Meeting (MMM)
 ---
-
+XR Sheffield's Main Monday Meeting (MMM)
 
 Open **from 6pm** for social and to help with setting up, meeting from **6:45 to 8pm**
 
