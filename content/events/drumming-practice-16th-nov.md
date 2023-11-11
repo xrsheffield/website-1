@@ -9,3 +9,4 @@ Five Rivers Rising, XR Sheffield Samba Fusion Band practices every Thursday
 
 Arrive 7:15pm to collect instruments for 7:30 start.  
 
+At Union Street Co-working Offices, 18-20 Union St, Sheffield S1 2JR
