@@ -14,4 +14,4 @@ There will be soup and rolls, and hot drinks, so it promises to be an evening to
 
 Small donations on the day to cover costs will be appreciated but we know that the system does not allow everyone the ability to afford to go out – you are totally welcome to just come and be present.
 
-[Booking Link](https://www.eventbrite.co.uk/e/film-screening-and-discussion-everything-must-change-by-reel-news-tickets-731574899217?aff=oddtdtcreator)
+Book tickets [here](https://www.eventbrite.co.uk/e/film-screening-and-discussion-everything-must-change-by-reel-news-tickets-731574899217?aff=oddtdtcreator)
