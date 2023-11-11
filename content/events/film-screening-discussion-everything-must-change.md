@@ -1,13 +1,9 @@
 ---
-title: Film Screening & Discussion - Everything Must Change
+title: Film Screening
 date: 2023-11-11T20:06:52.188Z
 expirydate: 2023-11-17T23:14:35.090Z
 event_time: 6:30pm
-summary: Everything Must Change addresses all of the interconnected crises,
-  points to the ways in which people power can bring change if we come together.
-  The film makers will be there to facilitate small group discussions on how we
-  can fight back and to discuss the conversations that have taken place around
-  the country
+summary: Film Screeing and Discussion - "Everything Must Change"
 cover_image: ""
 ---
 ![Alt text](everything_must_change.png)
