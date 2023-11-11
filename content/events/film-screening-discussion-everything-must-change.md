@@ -6,7 +6,7 @@ event_time: 6:30pm
 summary: Film Screeing and Discussion - "Everything Must Change"
 cover_image: /img/everything_must_change.png
 ---
-Please come to this film screening Friday 17th November.  Everything Must Change addresses all of the interconnected crises, points to the ways in which people power can bring change if we come together.  The film makers will be there to facilitate small group discussions on how we can fight back and to discuss the conversations that have taken place around the country.
+Please come to this film screening Friday 17th November, 6:30pm at the Broonhall Centre.  "Everything Must Change" addresses all of the interconnected crises, points to the ways in which people power can bring change if we come together.  The film makers will be there to facilitate small group discussions on how we can fight back and to discuss the conversations that have taken place around the country.
 
 The film makers will also be bringing footage of their coverage of the protests demanding a Ceasefire in Palestine.  
 
