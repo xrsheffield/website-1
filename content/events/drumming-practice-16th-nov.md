@@ -1,5 +1,5 @@
 ---
-title: "Drumming Practice 16th Nov, "
+title: Drumming Practice 16th Nov
 date: 2023-11-11T19:44:21.284Z
 expirydate: 2023-11-16T23:44:21.300Z
 event_time: 7:15pm for 7:30
