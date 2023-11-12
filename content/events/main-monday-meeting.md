@@ -1,5 +1,6 @@
 ---
 title: Main Monday Meeting
+linktitle: mmm_13_11_23
 date: 2023-11-11T19:30:05.107Z
 expirydate: 2023-11-13T23:30:05.125Z
 event_time: 6-8pm
