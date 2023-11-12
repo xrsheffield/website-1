@@ -9,6 +9,6 @@ summary: Get creative! Help print things for Peace & Craft Fair (the following
 Get creative! Help print things for Peace & Craft Fair (the following day) and finish making flags for demos
 
 ### Where?
-At [KIAC](http://www.kiac-sheffield.org/contact-us.html) (Kelham Island Arts Collective) 40 Ball Street, Neepsend S3 8DB
+At [KIAC](http://www.kiac-sheffield.org/contact-us.html) (Kelham Island Arts Collective), 40 Ball Street, Sheffield S3 8DB
 
-Note - KIAC has two entrances - please use the one with a white door near the corner with Mowbray Street 
+Note - KIAC has two entrances - please use the one with a white door near the corner of Ball Street and Mowbray Street 
