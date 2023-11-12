@@ -1,6 +1,6 @@
 ---
 title: Main Monday Meeting
-date: 2023-11-04T20:21:33.064Z
+date: 2023-11-12T10:24:53.882Z
 expirydate: 2023-11-20T23:00:33.080Z
 time: 6:45 - 8pm
 summary: XR Sheffield's Main Monday Meeting (MMM)
