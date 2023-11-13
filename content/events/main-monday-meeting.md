@@ -4,7 +4,7 @@ linktitle: ""
 date: 2023-11-11T19:30:05.107Z
 expirydate: 2023-11-13T23:30:05.125Z
 event_time: 6-8pm
-summary: "XR Sheffield Main Monday Meeting (MMM).  This weeks topics include
+summary: "XR Sheffield Main Monday Meeting (MMM).  This week's topics include
   COP28 events, (vegan) food, and new banners "
 ---
 XR Sheffield's Main Monday Meeting (MMM)
