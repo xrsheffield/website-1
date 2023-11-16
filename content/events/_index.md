@@ -5,11 +5,11 @@ draft: false
 cover_image: null
 categories:
   - events
-expirydate: 2024-11-11T20:16:00.000Z
+expirydate: 2024-11-12T20:16:00.000Z
 summary: List of Events
 ---
 
-**An up to date list of events is on our [Events Calendar (doc)](https://docs.google.com/document/d/1-QC-x6TBCDtcJFbvCvFQ3Wx5kViYzoGfx6NigX-P7UQ/edit). Join [our mailing list](/contact/) or come to one of our regular [Monday meetings](/#monday-meetings-at-union-street) to keep informed.**
+**An up to date list of events is shown below. Join [our mailing list](/contact/) or come to one of our regular [Monday meetings](/#monday-meetings-at-union-street) to keep informed.**
 
 We meet weekly on Monday evenings and everyone is welcome. [Find out more..](/#next-meeting)
 
