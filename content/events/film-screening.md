@@ -5,7 +5,7 @@ expirydate: 2023-11-30T23:49:23.283Z
 event_time: 5:30pm
 summary: Film Screening and discussion - "Once You Know"
 ---
-XR Sheffield and South Yorkshire Climate Alliance are hosting a screening of 'Once You Know' followed by a facilitated discussion.
+XR Sheffield and South Yorkshire Climate Alliance are hosting a screening of **'Once You Know'** followed by a facilitated discussion.
 
 Showing as part of Special screenings & events
 
