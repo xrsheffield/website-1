@@ -9,3 +9,4 @@ A special Monday event for new members
 
 ### Where?
 
+[Union Street](https://www.union-st.org/) Co-working Offices, 18-20 Union St, Sheffield S1 2JR
