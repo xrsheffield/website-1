@@ -14,15 +14,17 @@ March and rally to Coincide with the end of COP28
 
 ----
 
+VOLUNTEER STEWARDS NEEDED
+
 We urgently need people to come forward and support stewarding for the Climate Justice March in Sheffield on the 9th of December!
  
-So sign up please fill in and  submit this [form](https://forms.gle/H6wNnsNUTLjbhLy78)
+So sign up please submit this [**form**](https://forms.gle/H6wNnsNUTLjbhLy78)
  
 There will be training on Monday the 27th November at 5:45pm-7:00pm to start in:
  
-Room 3 (From the main entrance go upstairs and it is where the rooms past the main hall are)
-Central United Reform Church
-60 Norfolk St
+Room 3 (From the main entrance go upstairs and it is where the rooms past the main hall are),
+[Central United Reformed Church](https://urc.org.uk/directory-find_church/church_listing/sheffield-central-urc/),
+60 Norfolk St,
 S1 2JB
  
 Bring a warm coat as we will also walk the route before the end of the session, as well as looking at key aspects of stewarding, assigning some key roles and answering any questions that volunteers have. 
