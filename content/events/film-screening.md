@@ -16,7 +16,7 @@ This special screening will be followed by an interactive facilitated discussion
 
 [Watch trailer](https://youtu.be/aPpTvOykUq4?si=IzfuLX68JZZH_w5V)
 
-[Audience reactions](https://youtu.be/FKOJAXkl548?feature=shared)
+[See audience reactions](https://youtu.be/FKOJAXkl548?feature=shared)
 
 [Book tickets](https://www.showroomworkstation.org.uk/onceyouknow)
 
