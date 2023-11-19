@@ -5,7 +5,7 @@ expirydate: 2023-12-09T23:11:46.484Z
 event_time: 12 noon
 summary: March from Devonshire Green for rally at City Hall
 ---
-March and rally to Coincide with the end of COP28 
+March and rally to coincide with the end of COP28 
 
 
 1. Assemble Devonshire Green - 12pm
