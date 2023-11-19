@@ -5,6 +5,8 @@ expirydate: 2023-12-02T23:08:23.351Z
 event_time: 12 noon - 3pm
 summary: Stalls by XR Sheffield and related organisations during COP28 week
 ---
+Stalls by XR Sheffield and related organisations during COP28 week  
+
 Stalls will be grouped in the following locations  
 
 Outside Moor marketplace  
