@@ -3,13 +3,11 @@ title: Main Monday Meeting
 date: 2023-11-12T10:24:53.882Z
 expirydate: 2023-11-20T23:00:33.080Z
 time: 6:45 - 8pm
-event_time: 6:45 - 8pm
+event_time: 6:45 - 8pm (social from 6pm)
 summary: Come and meet like-minded people and share your reasons wanting to get
   involved, or stay involved, in climate activism
 ---
 XR Sheffield's Main Monday Meeting (MMM)  
-
-Open from **6pm for social**, meeting from 6:45 to 8pm
 
 Tea and biscuits available 
 
