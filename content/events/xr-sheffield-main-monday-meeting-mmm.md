@@ -9,7 +9,7 @@ summary: Come and meet like-minded people and share your reasons wanting to get
 ---
 XR Sheffield's Main Monday Meeting (MMM)  
 
-Come and meet like-minded people and share your reasons wanting to get involved, or stay involved, in climate activism, then help plan for our forthcoming events and actions.  
+Come and meet like-minded people and share your reasons wanting to get involved, or stay involved, in climate activism, then help plan for our upcoming events and actions.  
 
 Tea and biscuits available 
 
