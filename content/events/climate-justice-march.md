@@ -18,7 +18,7 @@ VOLUNTEER STEWARDS NEEDED
 
 We urgently need people to come forward and support stewarding for the Climate Justice March in Sheffield on the 9th of December!
  
-So sign up please submit this [**form**](https://forms.gle/H6wNnsNUTLjbhLy78)
+So sign up please submit this [form](https://forms.gle/H6wNnsNUTLjbhLy78)
  
 There will be training on Monday the 27th November at 5:45pm-7:00pm to start in:
  
