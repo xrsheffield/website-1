@@ -10,7 +10,7 @@ Please come and help print things for the [Peace & Craft Fair](https://xrsheffie
 
 If you have any spare t-shirts or scraps of plain coloured material (or can find any going cheap in a charity shop) please bring them along to print and/or use on our stall at the Peace & Craft Fair.
 
-People will be making a **STOP ROSEBANK OILFIELD** banner at this workshop - any help will be appreciated.
+People will also be making a **STOP ROSEBANK OILFIELD** banner at this workshop - any help will be appreciated.
 
 No need to come for the whole three hours, just drop in any time between 6 and 9pm :)
 
