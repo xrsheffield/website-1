@@ -4,7 +4,7 @@ date: 2020-06-26
 Updated: Aug 18, 2020
 categories: [news]
 author: XR Sheffield Press
-cover_image: town-hall-1.jpg
+cover_image: img/town-hall-1.jpg
 ---
 
 * Sheffield in danger of losing green-city reputation under Dan Jarvis, according to XR Sheffield

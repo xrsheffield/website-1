@@ -2,7 +2,7 @@
 title: "Park Run Survey"
 date: 2023-02-15T05:18:43Z
 draft: false
-cover_image: park-run-survey.jpg
+cover_image: img/park-run-survey.jpg
 ---
 
 On Saturday morning Sheffield XR conducted a survey asking people’s views on the climate crisis after the weekly Park Run in Endcliffe Park.

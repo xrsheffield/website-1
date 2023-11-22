@@ -3,7 +3,7 @@ title: HEATHER’S APPEAL
 date: 2021-12-09
 author: XR Sheffield Press
 categories: [news]
-cover_image: heather-1.jpg
+cover_image: img/heather-1.jpg
 ---
 
 Over the coming weeks and months we will be sharing the story of XR Sheffield rebel Heather’s journey of appealing her unjust conviction during the 2019 rebellion. Here’s what Heather has to say:

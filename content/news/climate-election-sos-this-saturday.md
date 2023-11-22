@@ -3,7 +3,7 @@ title: CLIMATE ELECTION SOS THIS SATURDAY!
 date: 2019-12-04
 Updated: Dec 11, 2019
 categories: [news]
-cover_image: road-with-an-oncoming-flood.jpg
+cover_image: img/road-with-an-oncoming-flood.jpg
 ---
 
 

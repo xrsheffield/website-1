@@ -3,7 +3,7 @@ title: REBELLION OF ONE
 date: 2021-08-03
 author: XR Sheffield Press
 categories: [news]
-cover_image: im-terrified.jpg
+cover_image: img/im-terrified.jpg
 ---
 
 The Rebellion of One (Ro1) saw over 200 rebels come out onto the streets to take part in single-person roadblocks all over the country.

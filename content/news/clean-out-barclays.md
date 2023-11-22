@@ -2,8 +2,8 @@
 title: "Clean Out Barclays"
 date: 2022-12-27
 draft: false
-cover_image: barclays-2022.jpg
 summary: A belated report of XR Sheffield's November action which was part of the national, Better Without Barclays, day of action
+cover_image: img/barclays-2022.jpg
 ---
 
 As part of the Barclays day of action happening all around the country XR Sheffield thought it was about time Barclays cleaned up their act.

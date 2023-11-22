@@ -3,7 +3,7 @@ title: REST AND REFLECTION
 date: 2019-12-16
 author: XR Sheffield Press
 categories: [news]
-cover_image: box-of-xr-star-biscuits.jpg
+cover_image: img/box-of-xr-star-biscuits.jpg
 ---
 
 It's been a busy year - if you've been arrested, protested, or done any of the hundreds of things that have taken us so far already, then we and the planet are truly grateful.

@@ -9,7 +9,7 @@
     
     {{ with .Params.cover_image }}
     
-    {{ $img_url := print "img/" . }}
+    {{ $img_url := print . }}
         {{ with resources.Get $img_url }}
         {{ $image := . }}
         {{ if gt $image.Width 1004 }}
