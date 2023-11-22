@@ -11,7 +11,7 @@ location:
   street: Pinstone Street
   town: Sheffield
   postcode: S1
-cover_image: drowning-in-promises-banner.jpg
+cover_image: img/drowning-in-promises-banner.jpg
 categories: [events]
 css:
 - ".petition {border: solid 1px #ddd; padding: 2em; margin: 3em 2em; box-shadow: 0 0 25px #5552; border-radius: 10px;}"

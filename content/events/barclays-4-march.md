@@ -10,7 +10,7 @@ location:
   street: 2 - 12 Pinstone Street
   town: Sheffield
   postcode: S1 2HN
-cover_image: barclays-2022.jpg
+cover_image: img/barclays-2022.jpg
 categories: [events]
 ---
 
