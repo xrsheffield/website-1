@@ -11,7 +11,7 @@ cover_image: img/peace-and-craft-fair.jpg
 
 The Famous Sheffield Peace and Craft Fair is back, featuring campaigns and crafters with an emphasis on upcyclers and recyclers.
 
-XR Sheffield has a stall featuring 'Art Blockers' with wood block prints and fabric inks so you can print your own t-shirts etc.   to print on, or print on pieces of fabric (supplied).  Great fun for kids!
+XR Sheffield will have a stall featuring 'Art Blockers' with wood block prints and fabric inks so you can **bring your own t-shirts etc. to print on**, or print on pieces of fabric (supplied).  Great fun for kids!
 
 South Yorkshire Migration and Asylum Action Group ([SYMAAG
 ](https://www.symaag.org.uk/)) campaigns for the rights of all migrants in South Yorkshire.
