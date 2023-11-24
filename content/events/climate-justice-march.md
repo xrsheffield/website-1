@@ -4,7 +4,7 @@ date: 2023-11-16T21:11:46.468Z
 expirydate: 2023-12-09T23:11:46.484Z
 event_time: 12 noon
 summary: March from Devonshire Green for rally at City Hall
-cover_image: /img/cjc-sy-nowwerise-fbtwitter.jpg
+cover_image: ""
 ---
 March and rally to coincide with the end of COP28 
 
