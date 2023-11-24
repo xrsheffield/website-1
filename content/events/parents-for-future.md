@@ -5,6 +5,8 @@ expirydate: 2023-11-26T23:40:08.979Z
 event_time: 10:30 - 11:30am
 summary: Vote For Future's Sake
 ---
+'Vote For Future's Sake'
+
 We will be holding up colourful banners highlighting our MPs voting records - good & bad  
 
 All welcome!
