@@ -10,4 +10,4 @@ A great evening of block printing and flag painting with lots of people joining 
 
 There was lots of of good work done at [KIAC](http://www.kiac-sheffield.org/) on Friday evening, preparing for the [Sheffield Peace & Craft Fair](https://xrsheffield.org/events/peace-craft-fair/), and painting some flags for the [Climate Justice March](https://xrsheffield.org/events/climate-justice-march/) on 9th December.  
 
-XR Sheffield was pleased to welcome many young people campaigning to **STOP ROSEBANK OILFIELD** who created two beautiful banners carrying that massage ready to take on the Climate Justice march.
+XR Sheffield was pleased to welcome many young people (some from [Climbers For Climate](https://www.facebook.com/groups/603069447774239/)) campaigning to **STOP ROSEBANK OILFIELD** who created two beautiful banners carrying that message ready to take on the Climate Justice march.
