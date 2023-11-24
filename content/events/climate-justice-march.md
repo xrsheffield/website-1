@@ -18,8 +18,10 @@ See [Facebook Event](https://www.facebook.com/events/716214370567214)
 * On December 9th, join us in demanding climate justice and the system change we so desperately need. We're rising for a better world. 🌏✊ #ClimateJustice #NowWeRise 💰
 * While profits continue to soar, working-class individuals and communities around the world struggle to make ends meet. The climate crisis and the cost of living crisis are deeply rooted in our reliance on fossil fuels and an exploitative system. It's time to challenge this system
 * and create a more just and sustainable future. Join us on December 9th and be part of the movement for system change and a just transition. 💪🏭 #NowWeRise #ClimateAction
-  
 
+![](/img/cjc-sy-nowwerise-fbtwitter.jpg)
+
+  
 - - -
 
 VOLUNTEER STEWARDS NEEDED
