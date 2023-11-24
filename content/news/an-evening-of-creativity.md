@@ -6,4 +6,8 @@ summary: "A great evening of block printing and flag painting with lots of
 author: Benny
 cover_image: /img/art_workshop_24_11_23.jpg
 ---
-A great evening of block printing and flag painting with lots of people joining us to make #StopRosebank banners
+A great evening of block printing and flag painting with lots of people joining us to make #StopRosebank banners  
+
+There was lots of of good work done at [KIAC](http://www.kiac-sheffield.org/) on Friday evening, preparing for the [Sheffield Peace & Craft Fair](https://xrsheffield.org/events/peace-craft-fair/), and painting a few flags to take on the [Climate Justice March](https://xrsheffield.org/events/climate-justice-march/).  
+
+XR Sheffield was pleased to welcome many young people campaigning to STOP ROSEBANK OILFIELD who created two beautiful banners with that massage ready to take on the December 9th Climate Justice march.
