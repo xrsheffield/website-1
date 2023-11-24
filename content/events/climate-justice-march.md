@@ -4,6 +4,7 @@ date: 2023-11-16T21:11:46.468Z
 expirydate: 2023-12-09T23:11:46.484Z
 event_time: 12 noon
 summary: March from Devonshire Green for rally at City Hall
+cover_image: /img/cjc-sy-nowwerise-fbtwitter.jpg
 ---
 March and rally to coincide with the end of COP28 
 
@@ -17,9 +18,6 @@ See [Facebook Event](https://www.facebook.com/events/716214370567214)
 * On December 9th, join us in demanding climate justice and the system change we so desperately need. We're rising for a better world. 🌏✊ #ClimateJustice #NowWeRise 💰
 * While profits continue to soar, working-class individuals and communities around the world struggle to make ends meet. The climate crisis and the cost of living crisis are deeply rooted in our reliance on fossil fuels and an exploitative system. It's time to challenge this system
 * and create a more just and sustainable future. Join us on December 9th and be part of the movement for system change and a just transition. 💪🏭 #NowWeRise #ClimateAction
-
-![](/img/cjc-sy-nowwerise-fbtwitter.jpg)
-
   
 
 - - -
