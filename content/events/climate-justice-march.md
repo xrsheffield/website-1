@@ -7,33 +7,46 @@ summary: March from Devonshire Green for rally at City Hall
 ---
 March and rally to coincide with the end of COP28 
 
-
 1. Assemble Devonshire Green - 12pm
-2. March to City Hall - 12.45pm
-3. Speakers
+2. March to City Hall sets off - 12.45pm
+3. Speakers at City Hall
 
-----
+See [Facebook Event](https://www.facebook.com/events/716214370567214)
+
+-    🌍 The rising temperatures in 2023 are more than just record highs; they're a stark reminder of our planet in peril. The climate crisis isn't just about extreme weather; it's a result of unjust, capitalist, and colonial systems that prioritise profit over people. 
+
+
+
+-    On December 9th, join us in demanding climate justice and the system change we so desperately need. We're rising for a better world. 🌏✊ #ClimateJustice #NowWeRise 💰
+
+
+
+-    While profits continue to soar, working-class individuals and communities around the world struggle to make ends meet. The climate crisis and the cost of living crisis are deeply rooted in our reliance on fossil fuels and an exploitative system. It's time to challenge this system
+
+-    and create a more just and sustainable future. Join us on December 9th and be part of the movement for system change and a just transition. 💪🏭 #NowWeRise #ClimateAction  
+
+- - -
 
 VOLUNTEER STEWARDS NEEDED
 
 We urgently need people to come forward and support stewarding for the Climate Justice March in Sheffield on the 9th of December!
- 
+
 To sign up please submit this [form](https://forms.gle/H6wNnsNUTLjbhLy78)
- 
+
 There will be training on Monday the 27th November at 5:45pm-7:00pm to start in:
- 
+
 Room 3 (From the main entrance go upstairs and it is where the rooms past the main hall are),
 [Central United Reformed Church](https://urc.org.uk/directory-find_church/church_listing/sheffield-central-urc/),
 60 Norfolk St,
 S1 2JB
- 
+
 Bring a warm coat as we will also walk the route before the end of the session, as well as looking at key aspects of stewarding, assigning some key roles and answering any questions that volunteers have. 
- 
+
 There will also be a briefing at 11am on the day of the march.
- 
+
 It doesn't matter what your experience is - we will support you to be part of the vital team helping everyone have a safe and positive experience on the day of the march
 
----
+- - -
 
 ### Where?
 
