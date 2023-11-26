@@ -9,19 +9,19 @@ There is lots going on, of course, globally, across the UK and here in Sheffield
 
 This seems like the right time to re-visit the XR Solemn Intention statement which I first heard read aloud on a roadblock in Parliament Square:
 
-Let's take a moment, this moment, to consider why we are here.
+- Let's take a moment, this moment, to consider why we are here.
 
-Let's remember our love, for this beautiful planet that feeds, nourishes and sustains us.
+- Let's remember our love, for this beautiful planet that feeds, nourishes and sustains us.
 
-Let's remember our love for the whole of humanity in all corners of the world.
+- Let's remember our love for the whole of humanity in all corners of the world.
 
-Let's recollect our sincere desire to protect all this, for ourselves, for all living beings, and for generations to come.
+- Let's recollect our sincere desire to protect all this, for ourselves, for all living beings, and for generations to come.
 
-As we act today, may we find the courage to bring a sense of peace, love and appreciation to everyone we encounter, to every word we speak and to every action we make.
+- As we act today, may we find the courage to bring a sense of peace, love and appreciation to everyone we encounter, to every word we speak and to every action we make.
 
-We are here for all of us.
+- We are here for all of us.
 
-Hope, love and solidarity
+Hope, love and solidarity,
 
 Jenni for XR Sheffield
 
