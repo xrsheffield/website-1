@@ -12,7 +12,7 @@ Tea and biscuits available
 
 ### This week's topics
 
-Plan our welcome meeting on 11th December
+To plan our welcome meeting on 11th December
 
 ### Where?
 
