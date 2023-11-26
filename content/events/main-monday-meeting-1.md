@@ -9,7 +9,7 @@ summary: "Organise for the march on Saturday 9th December.  Decide on banner(s).
   more visually impactful, costumes etc.  "
 cover_image: ""
 ---
-XR Sheffield's Main Monday Meeting (MMM)
+XR Sheffield's Main Monday Meeting (MMM)  
 Open **from 6pm** for social and to help with setting up, meeting from **6:45 to 8pm**
 
 Tea and biscuits available 
