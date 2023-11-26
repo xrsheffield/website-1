@@ -1,5 +1,5 @@
 ---
-title: Main Monday Meeting
+title: Main Monday Meeting 20.11.23
 date: 2023-11-12T10:24:53.882Z
 expirydate: 2023-11-20T23:00:33.080Z
 time: 6:45 - 8pm
