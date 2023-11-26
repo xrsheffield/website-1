@@ -1,13 +1,35 @@
 ---
-title: The Climate Crisis is happening now
+title: COP28
 date: 2022-11-19T10:39:46.000Z
 draft: false
 description: Sheffield Extinction Rebellion  promotes non-violent direct action
   & civil disobedience for action on the climate & ecological crisis.
 ---
+There is lots going on, of course, globally, across the UK and here in Sheffield as the abysmal COP process takes us further into crisis. And that means lots of opportunities to get involved, shine a light and make some noise in a whole variety of ways; read on to find something that lands with your concerns and energies.
 
+This seems like the right time to re-visit the XR Solemn Intention statement which I first heard read aloud on a roadblock in Parliament Square:
+
+Let's take a moment, this moment, to consider why we are here.
+
+Let's remember our love, for this beautiful planet that feeds, nourishes and sustains us.
+
+Let's remember our love for the whole of humanity in all corners of the world.
+
+Let's recollect our sincere desire to protect all this, for ourselves, for all living beings, and for generations to come.
+
+As we act today, may we find the courage to bring a sense of peace, love and appreciation to everyone we encounter, to every word we speak and to every action we make.
+
+We are here for all of us.
+
+Hope, love and solidarity
+
+Jenni for XR Sheffield
+
+<!---
+The Climate Crisis is happening now
 
 Hello to anyone visiting this website … you may be here because you have feelings about the climate crisis that you find difficult to express. The intensity and overwhelming nature of it gets to us all and we’re right here with you. For some of us one thing that can help is knowing we’re fighting for a better future and whatever our differences we’ve found a group of people who care - and who care about each other.
+-->
 
 Extinction Rebellion (XR) needs people who both take action, and those who support those taking action - and many of us do bits of both! We take time out to share food and make each other smile and check in when it all feels a bit too much. If you want to get in touch to talk about climate grief or just share how you’re feeling - even if that’s all you’re ready to do with XR at the moment - drop us a line {{< main-email >}}. 
 
