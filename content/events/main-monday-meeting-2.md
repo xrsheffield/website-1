@@ -3,7 +3,9 @@ title: Monday Meeting
 date: 2023-11-26T09:41:33.834Z
 expirydate: 2023-12-04T23:41:33.846Z
 time: 6:45 - 8pm
+event_time: 6:45 to 8pm
 summary: To plan our welcome event on 11th December
+cover_image: /img/unionstreetbanner.jpg
 ---
 XR Sheffield's Main Monday Meeting (MMM)
 Open **from 6pm** for social and to help with setting up, meeting from **6:45 to 8pm**
