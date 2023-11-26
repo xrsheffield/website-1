@@ -34,6 +34,29 @@ for XR Sheffield
 
 ---
 <!---
+## Creates 2 Lines that CAN be selected as text
+## -------------------------------------------------
+### The non-breaking space ASCII character
+&nbsp;
+&nbsp;
+
+### HTML <(br)/> tag
+<br />
+<br />
+
+## Creates 2 Lines that CANNOT be selected as text
+## -------------------------------------------------
+### HTML Entity &NewLine;
+&NewLine;
+&NewLine;
+
+### Backticks with a space inside followed by two spaces
+`(space)`(space)(space)
+`(space)`(space)(space)
+#### sample:
+` `  
+` `
+
 The Climate Crisis is happening now
 
 Hello to anyone visiting this website … you may be here because you have feelings about the climate crisis that you find difficult to express. The intensity and overwhelming nature of it gets to us all and we’re right here with you. For some of us one thing that can help is knowing we’re fighting for a better future and whatever our differences we’ve found a group of people who care - and who care about each other.
