@@ -33,7 +33,6 @@ for XR Sheffield
 &nbsp;  
 
 ---
-
 <!---
 The Climate Crisis is happening now
 
