@@ -1,5 +1,5 @@
 ---
-title: Climate Vigil
+title: Climate Vigil 20.11.23
 date: 2023-11-12T09:59:53.610Z
 expirydate: 2023-11-20T21:00:53.628Z
 event_time: 12 noon - 1pm
