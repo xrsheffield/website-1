@@ -3,7 +3,8 @@ title: Welcome Event
 date: 2023-11-16T21:36:54.197Z
 expirydate: 2023-12-11T23:36:54.208Z
 event_time: 6-8pm
-summary: A special Monday event for new members
+summary: " \t  Shared meal from 6pm followed by a choice of 'Welcome for friends
+  new to XRS' or 'COP 28 reflections/actions debrief"
 ---
 A special Monday evening event for new members
 
