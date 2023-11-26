@@ -6,7 +6,13 @@ event_time: 6-8pm
 summary: " \t  Shared meal from 6pm followed by a choice of 'Welcome for friends
   new to XRS' or 'COP 28 reflections/actions debrief"
 ---
-A special Monday evening event for new members
+ 	
+
+A shared meal from 6pm followed by parallel meetings: 
+
+- Welcome for friends new to XR Sheffield 
+
+- COP 28 reflections and actions debrief
 
 ### Where?
 
