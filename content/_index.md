@@ -1,12 +1,12 @@
 ---
-title: COP28
+title: COP28 and counting ...
 date: 2022-11-19T10:39:46.000Z
 draft: false
 description: Sheffield Extinction Rebellion  promotes non-violent direct action
   & civil disobedience for action on the climate & ecological crisis.
 ---
 
-### ... AND COUNTING ...
+### How many COPs does it take to arrest climate change?
 
 &nbsp;  
 There is lots going on, of course, globally, across the UK and here in Sheffield as the abysmal COP process takes us further into crisis. And that means lots of opportunities to get involved, shine a light and make some noise in a whole variety of ways - read on to find something that lands with your concerns and energies.
