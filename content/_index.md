@@ -5,6 +5,8 @@ draft: false
 description: Sheffield Extinction Rebellion  promotes non-violent direct action
   & civil disobedience for action on the climate & ecological crisis.
 ---
+... and counting ...
+
 There is lots going on, of course, globally, across the UK and here in Sheffield as the abysmal COP process takes us further into crisis. And that means lots of opportunities to get involved, shine a light and make some noise in a whole variety of ways - read on to find something that lands with your concerns and energies.
 
 This seems like the right time to re-visit the XR Solemn Intention statement which I first heard read aloud on a roadblock in Parliament Square:
@@ -23,7 +25,10 @@ This seems like the right time to re-visit the XR Solemn Intention statement whi
 
 Hope, love and solidarity,
 
-Jenni for XR Sheffield
+Jenni  
+for XR Sheffield
+
+---
 
 <!---
 The Climate Crisis is happening now
