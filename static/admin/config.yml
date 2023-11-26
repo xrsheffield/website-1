@@ -5,7 +5,7 @@ backend:
   branch: master
 display_url: xrsheffield.org
 
-# publish_mode: editorial_workflow
+publish_mode: editorial_workflow
 
 media_folder: "assets/img"
 public_folder: "/img"
@@ -24,7 +24,7 @@ collections:
       - {label: "Event Date", name: "expirydate", widget: "datetime", hint: 'Also the expiry date for the page. Set the time to late in the day, say 23.59'}
       - {label: "Time of the event", name: "event_time", widget: "string", hint: "For example 2pm - 6pm. This will show up on the page. The time from Event Date above will not.", required: false}
       - {label: "Summary", name: "summary", widget: "string", hint: 'A summary of the event appears in the listing of all events'}
-      - {label: "Image", name: "cover_image", widget: "image", required: false}
+      - {label: "Image", name: "cover_image", widget: "image", required: false, hint: 'Use JPEGs only'}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "news" # Used in routes, e.g., /admin/collections/blog
