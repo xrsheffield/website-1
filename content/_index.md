@@ -8,29 +8,33 @@ description: Sheffield Extinction Rebellion  promotes non-violent direct action
 
 ### ... AND COUNTING ...
 
-&nbsp;
+&nbsp;  
 There is lots going on, of course, globally, across the UK and here in Sheffield as the abysmal COP process takes us further into crisis. And that means lots of opportunities to get involved, shine a light and make some noise in a whole variety of ways - read on to find something that lands with your concerns and energies.
 
 This seems like the right time to re-visit the XR Solemn Intention statement which I first heard read aloud on a roadblock in Parliament Square:
 
-- let's take a moment, this moment, to consider why we are here.
+- let's take a moment, this moment, to consider why we are here
 
-- let's remember our love, for this beautiful planet that feeds, nourishes and sustains us.
+- let's remember our love, for this beautiful planet that feeds, nourishes and sustains us
 
-- let's remember our love for the whole of humanity in all corners of the world.
+- let's remember our love for the whole of humanity in all corners of the world
 
-- let's recollect our sincere desire to protect all this, for ourselves, for all living beings, and for generations to come.
+- let's recollect our sincere desire to protect all this, for ourselves, for all living beings, and for generations to come
 
-- as we act today, may we find the courage to bring a sense of peace, love and appreciation to everyone we encounter, to every word we speak and to every action we make.
+- as we act today, may we find the courage to bring a sense of peace, love and appreciation to everyone we encounter, to every word we speak and to every action we make
 
-- we are here for all of us.
+- we are here for all of us
 
 Hope, love and solidarity,
 
 Jenni  
 for XR Sheffield
 
+&nbsp;  
+
 ---
+
+&nbsp;  
 
 <!---
 The Climate Crisis is happening now
