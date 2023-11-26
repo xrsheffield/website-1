@@ -7,7 +7,7 @@ event_time: 6:45 - 8pm
 summary: "Organise for the march on Saturday 9th December.  Decide on banner/s.
   Banner and flag carriers, leaflets, Who will carry Boney. Also how we can be
   more visually impactful, costumes etc.  "
-cover_image: /img/unionstreetbanner.jpg
+cover_image: ""
 ---
 XR Sheffield's Main Monday Meeting (MMM)
 Open **from 6pm** for social and to help with setting up, meeting from **6:45 to 8pm**
