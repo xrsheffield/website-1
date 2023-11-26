@@ -8,6 +8,12 @@ cover_image: ""
 ---
 March and rally to coincide with the end of COP28 
 
+All welcome
+
+We have lots of XR banners and flags available, please contact [xrsheffield@gmail.com](mailto:xrsheffield@gmail.com)
+
+Please turn up and join our march at 12 noon from Devonshire Green, just your presence will be really great!
+
 1. Assemble Devonshire Green - 12pm
 2. March to City Hall sets off - 12.45pm
 3. Speakers at City Hall
