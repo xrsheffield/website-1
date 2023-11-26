@@ -4,8 +4,8 @@ date: 2023-11-16T21:09:04.633Z
 expirydate: 2023-11-27T23:59:04.645Z
 time: 6:45 - 8pm
 event_time: 6:45 - 8pm
-summary: "Organise for the march on Saturday 9th December.  Decide on banner/s.
-  Banner and flag carriers, leaflets, Who will carry Boney. Also how we can be
+summary: "Organise for the march on Saturday 9th December.  Decide on banner(s).
+  Banner and flag carriers, leaflets, who will carry Boney. Also how we can be
   more visually impactful, costumes etc.  "
 cover_image: ""
 ---
@@ -16,7 +16,7 @@ Tea and biscuits available
 
 ### This week's topics
 
-Organise for the march on Saturday 9th December.  Decide on banner/s. Banner and flag carriers, leaflets, Who will carry Boney. Also how we can be more visually impactful, costumes etc.  
+Organise for the march on Saturday 9th December.  Decide on banner(s). Banner and flag carriers, leaflets, who will carry Boney. Also how we can be more visually impactful, costumes etc.  
 
 ### Where?
 
