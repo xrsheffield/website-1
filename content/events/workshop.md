@@ -3,8 +3,8 @@ title: Workshop
 date: 2023-11-26T20:04:26.368Z
 expirydate: 2023-12-06T23:04:26.381Z
 event_time: 7-9pm
-summary: Climate Justice, Palestine Justice, Connecting struggles. hosted by XR
-  Sheffield and Sheffield Coalition Against Israeli Apartheid
+summary: Climate Justice, Palestine Justice, Connecting struggles. Workshop
+  hosted by XR Sheffield and Sheffield Coalition Against Israeli Apartheid
 ---
 ### Workshop: Climate Justice, Palestine Justice, Connecting struggles
 
