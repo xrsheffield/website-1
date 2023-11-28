@@ -2,7 +2,11 @@
 title: Beyond Coronavirus 3
 date: 2020-06-19
 author: Zoe Roberts
-categories: [news]
+categories:
+  - news
+summary: XR Sheffield activist Zoe Roberts talks about how you can get
+  politically active and help tackle the climate crisis during the lockdown
+cover_image: /img/art_group.jpg
 ---
 
  
