@@ -6,7 +6,7 @@ categories:
   - news
 summary: XR Sheffield activist Zoe Roberts talks about how you can get
   politically active and help tackle the climate crisis during the lockdown
-cover_image: /img/art_group.jpg
+cover_image: ""
 ---
 
  
