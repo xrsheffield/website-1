@@ -4,7 +4,7 @@ date: 2023-11-16T21:36:54.197Z
 expirydate: 2023-12-11T23:36:54.208Z
 event_time: 6-8pm
 summary: "Shared meal from 6pm followed by two parallel gatherings "
-cover_image: /img/unionstreetbanner.jpg
+cover_image: ""
 ---
  	
 
