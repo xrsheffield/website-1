@@ -6,7 +6,8 @@ event_time: 7-9pm
 summary: Climate Justice, Palestine Justice, Connecting struggles. Workshop
   hosted by XR Sheffield and Sheffield Coalition Against Israeli Apartheid
 ---
-### Workshop: Climate Justice, Palestine Justice, Connecting struggles
+
+### Workshop: Climate Justice, Palestine Justice, Connecting struggles  
 
 Workshop hosted by Extinction Rebellion Sheffield and Sheffield Coalition Against Israeli Apartheid
 
