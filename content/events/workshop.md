@@ -8,7 +8,7 @@ summary: Climate Justice, Palestine Justice, Connecting Struggles
 
 ### Climate Justice, Palestine Justice, Connecting Struggles  
 
-[&nbsp]
+&nbsp;  
 Workshop hosted by Extinction Rebellion Sheffield and Sheffield Coalition Against Israeli Apartheid
 
 We will shine a light upon the powerful vested interests that continue to wreak havoc on people and land in Palestine and the Global South.
