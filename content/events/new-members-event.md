@@ -6,13 +6,12 @@ event_time: 6-8pm
 summary: "Shared meal from 6pm followed by two parallel gatherings "
 cover_image: ""
 ---
- 	
+![](/img/art_group.jpg)
 
 A shared meal from 6pm followed by parallel meetings: 
 
-- Welcome for friends new to XR Sheffield 
-
-- COP 28 reflections and actions debrief
+* Welcome for friends new to XR Sheffield 
+* COP 28 reflections and actions debrief
 
 ### Where?
 
