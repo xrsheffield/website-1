@@ -6,7 +6,6 @@ event_time: 6-8pm
 summary: "Shared meal from 6pm followed by two parallel gatherings "
 cover_image: ""
 ---
-![](/img/art_group.jpg)
 
 A shared meal from 6pm followed by parallel meetings: 
 
