@@ -1,7 +1,7 @@
 ---
 title: Band Practice
 date: 2023-11-30T15:10:11.765Z
-expirydate: 2023-11-30T22:10:11.776Z
+expirydate: 2023-11-30T23:10:11.776Z
 event_time: 7:15pm
 summary: Five Rivers Rising, XR Sheffield Samba Fusion Band practice session
 ---
