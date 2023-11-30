@@ -1,5 +1,5 @@
 ---
-title: Band Practice
+title: Band Practice 23.11.23
 date: 2023-11-12T10:27:09.993Z
 expirydate: 2023-11-23T23:00:10.004Z
 event_time: 7:15pm
