@@ -1,0 +1,11 @@
+    <p class="image-paragraph">
+        where is the image?
+        <img
+        src="{{ .Destination | safeURL }}"
+        alt="{{ .Text }}"
+        loading="lazy"
+        {{ with .Title}}title="{{ . }}"{{ end }}
+        {{ range $key, $val := .Attributes }}
+            {{ $key | safeHTMLAttr }}={{ $val }}
+        {{ end }} />
+    </p>

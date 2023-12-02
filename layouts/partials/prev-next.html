@@ -1,0 +1,13 @@
+{{/*  For the next and previous buttons at the bottom of each page  */}}
+
+        <div class="prev-next">
+            {{ with .PrevInSection }}
+            <a class="btn" href="{{ .RelPermalink }}" title="{{ .Title }}">&#10096; Previous Item</a>
+            {{ end }}
+        
+            <a href="/{{ .Section }}/" class="btn">All {{ .Section }}</a>
+        
+            {{ with .NextInSection }}
+            <a class="btn" href="{{ .RelPermalink }}" title="{{ .Title }}">Next Item &#10097;</a>
+            {{ end }}
+        </div>

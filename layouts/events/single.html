@@ -3,22 +3,12 @@
     <article>
         <h1>{{ .Title | safeHTML }}</h1>
         <p><time>{{ .ExpiryDate.Format "Mon 2 January" }}{{ with .Params.event_time }}. Time: {{ . }}{{ end }}</time></p>
-        {{ with .Params.cover_image }}
         
-        <img src="{{ . }}" alt="">
+        {{ partial "cover-image" . }}
 
-        {{ $img_url := print . }}
-            {{ with resources.Get $img_url }}
-            {{ $image := . }}
-            {{ if gt $image.Width 1004 }}
-                {{ $image = $image.Resize "1004x" }}
-            {{ end }}
-                <img src="{{ $image.RelPermalink }}" class="cover-image" alt="Cover image" style="max-width: 100%;">
-            {{ end }}
-        {{ end }}
         {{ .Content }}
-        {{ with .Params.location }}
         
+        {{ with .Params.location }}
         <div class="where-and-when">
             <div class="event-location">
                 <h3>Where?</h3>
@@ -29,7 +19,8 @@
                     {{with .postcode }}{{ . }}<br>{{ end }}
                 </p>
             </div>
-            {{ end }}
+        </div>
+        {{ end }}
         
             {{ if .ExpiryDate }}
                 <div class="event-time">
@@ -39,19 +30,10 @@
                     </p>
                 </div>
             {{ end }}
-        </div>
-        
-        {{ partial "social-share-btns" . }}
-        <div class="prev-next">
-            {{/*  {{ with .PrevInSection }}
-            <a class="btn" href="{{ .RelPermalink }}">&#10096; Previous</a>
-        
-            {{ end }}  */}}
-            <a href="/events/" class="btn">See more events</a>
-            {{/*  {{ with .NextInSection }}
-            <a class="btn" href="{{ .RelPermalink }}">Next &#10097;</a>
-            {{ end }}  */}}
-        </div>
+            
+            {{ partial "social-share-btns" . }}
+            
+            {{ partial "prev-next" . }}
     </article>
 
 {{ end }}
