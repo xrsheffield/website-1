@@ -9,6 +9,7 @@ location:
   street: 60 Norfolk St
   postcode: S1 2JB
   town: Sheffield
+cover_image: /img/palestine_climate_workshop.jpg
 ---
 ### Climate Justice, Palestine Justice, Connecting Struggles
 
