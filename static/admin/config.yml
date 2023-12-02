@@ -1,9 +1,11 @@
-local_backend: false
+# local_backend: true
 backend:
   name: gitlab
   repo: xrsweb/new-wix
   branch: master
 display_url: xrsheffield.org
+site_url: https://xrsheffield.org
+logo_url: https://xrsheffield.org/img/hourglass-logo.svg
 
 publish_mode: editorial_workflow
 
@@ -25,6 +27,15 @@ collections:
       - {label: "Time of the event", name: "event_time", widget: "string", hint: "For example 2pm - 6pm. This will show up on the page. The time from Event Date above will not.", required: false}
       - {label: "Summary", name: "summary", widget: "string", hint: 'A summary of the event appears in the listing of all events'}
       - {label: "Image", name: "cover_image", widget: "image", required: false, hint: 'Use JPEGs only'}
+      - label: "Location of event"
+        name: "location"
+        widget: "object"
+        # summary: '{{fields.name}}: {{fields.birthdate}}'
+        fields:
+          - {label: "Name", name: "name", widget: "string", required: false}
+          - {label: "Street", name: "street", widget: "string", required: false}
+          - {label: "Town", name: "town", widget: "string", required: false}
+          - {label: "Postcode", name: "postcode", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "news" # Used in routes, e.g., /admin/collections/blog

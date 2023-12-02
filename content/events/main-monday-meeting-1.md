@@ -1,6 +1,6 @@
 ---
 title: Monday Meeting
-date: 2023-11-16T21:09:04.633Z
+date: 2023-12-16T21:09:04.633Z
 expirydate: 2023-11-27T23:59:04.645Z
 time: 6:45 - 8pm
 event_time: 6:45 - 8pm
@@ -11,6 +11,8 @@ cover_image: ""
 ---
 XR Sheffield's Main Monday Meeting (MMM)  
 Open **from 6pm** for social and to help with setting up, meeting from **6:45 to 8pm**
+
+![dk](/img/co-working-space-04-dark.jpg)
 
 Tea and biscuits available 
 

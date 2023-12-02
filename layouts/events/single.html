@@ -8,8 +8,8 @@
 
         {{ .Content }}
         
-        {{ with .Params.location }}
         <div class="where-and-when">
+        {{ with .Params.location }}
             <div class="event-location">
                 <h3>Where?</h3>
                 <p>
@@ -19,17 +19,18 @@
                     {{with .postcode }}{{ . }}<br>{{ end }}
                 </p>
             </div>
-        </div>
-        {{ end }}
-        
-            {{ if .ExpiryDate }}
-                <div class="event-time">
-                    <h3>When?</h3>
-                    <p>
-                        {{ .ExpiryDate.Format "Monday 02 January" }} {{ with .Params.event_time }}<br>{{ . }}{{ end }}
-                    </p>
-                </div>
             {{ end }}
+            
+            {{ if .ExpiryDate }}
+            <div class="event-time">
+                <h3>When?</h3>
+                <p>
+                    {{ .ExpiryDate.Format "Monday 02 January" }} {{ with .Params.event_time }}<br>{{ . }}{{ end }}
+                </p>
+            </div>
+            {{ end }}
+        </div>
+
             
             {{ partial "social-share-btns" . }}
             

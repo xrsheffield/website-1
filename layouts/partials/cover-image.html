@@ -1,11 +1,21 @@
     {{ with .Params.cover_image }}
-    
-    {{ $img_url := print . }}
-        {{ with resources.Get $img_url }}
-        {{ $image := . }}
-            {{ if gt $image.Width 1004 }}
-                {{ $image = $image.Resize "1004x" }}
+
+        {{ if hasPrefix . "https://"  }}
+            {{ $remote := resources.GetRemote . }}
+                {{ if gt $remote.Width 760 }}
+                {{ $remote = $remote.Resize "760x" }}
+                {{ end }}
+            <img src="{{ $remote.RelPermalink }}" alt="remote image">
+
+        {{ else }}
+        
+            {{ $img_url := print . }}
+            {{ with resources.Get $img_url }}
+            {{ $image := . }}
+                {{ if gt $image.Width 760 }}
+                {{ $image = $image.Resize "760x" }}
+                {{ end }}
+                <img src="{{ $image.RelPermalink }}" class="cover-image" alt="Cover image" style="max-width: 100%;">
             {{ end }}
-            <img src="{{ $image.RelPermalink }}" class="cover-image" alt="Cover image" style="max-width: 100%;">
         {{ end }}
     {{ end }}

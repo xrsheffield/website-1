@@ -2,7 +2,7 @@
   <defs>
     <style>
       .cls-1 {
-        fill: var(--dark-pink);
+        fill: var(--dark-pink, #986297);
       }
     </style>
   </defs>

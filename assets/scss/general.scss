@@ -397,7 +397,7 @@ header a {
     margin: 2em 0;
     display: flex;
     justify-content: center;
-    gap: 2em;
+    gap: 0.5em;
     text-align: center;
 }
 
@@ -431,17 +431,18 @@ header a {
 /* ----- SOCIAL SHARE BUTTONS ------- */
 
 .social-share-btns {
-    margin: 2em 0 4em 0;
+    margin: 0 0 4em 0;
     display: flex;
     justify-content: center;
     gap: .25em;
 }
 
 .share {
+    margin: 6em auto 1em;
     line-height: 0;
-    display: flex;
-    align-items: center;
-    margin-right: 0.5em;
+    text-align: center;
+    // display: flex;
+    // align-items: center;
 }
 
 a.share-btn {
@@ -464,6 +465,11 @@ a.share-btn:hover {
 
 .twitter-btn {
     background-color: var(--twitter-blue);
+}
+
+.x-btn {
+    fill: #fff;
+    background-color: var(--black);
 }
 
 .pinterest-btn {

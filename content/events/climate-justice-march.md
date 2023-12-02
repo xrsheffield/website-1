@@ -5,6 +5,8 @@ expirydate: 2023-12-09T23:11:46.484Z
 event_time: 12 noon
 summary: March from Devonshire Green for rally at City Hall
 cover_image: ""
+location:
+  name: From Devonshire Green to City Hall
 ---
 March and rally to coincide with the end of COP28 
 
@@ -27,7 +29,6 @@ See [Facebook Event](https://www.facebook.com/events/716214370567214)
 
 ![](/img/cjc-sy-nowwerise-fbtwitter.jpg)
 
-  
 - - -
 
 VOLUNTEER STEWARDS NEEDED
@@ -47,10 +48,4 @@ Bring a warm coat as we will also walk the route before the end of the session, 
 
 There will also be a briefing at 11am on the day of the march.
 
-It doesn't matter what your experience is - we will support you to be part of the vital team helping everyone have a safe and positive experience on the day of the march
-
-- - -
-
-### Where?
-
-March from [Devonshire Green](https://www.google.co.uk/maps/place/Devonshire+Green/@53.3789794,-1.4808529,17z/data=!3m1!4b1!4m6!3m5!1s0x4879827fb2f86363:0xaa6be24bd3405d15!8m2!3d53.3789762!4d-1.478278!16s%2Fm%2F05m_c92?entry=ttu) to [City Hall](https://www.google.co.uk/maps/place/Sheffield+City+Hall/@53.3805816,-1.4748571,17z/data=!3m1!4b1!4m6!3m5!1s0x48798281ea1f581f:0x78db17563a164d56!8m2!3d53.3805784!4d-1.4722822!16zL20vMDIwMG00?entry=ttu)
+It doesn't matter what your experience is - we will support you to be part of the vital team helping everyone have a safe and positive experience on the day of the march.[](https://www.google.co.uk/maps/place/Sheffield+City+Hall/@53.3805816,-1.4748571,17z/data=!3m1!4b1!4m6!3m5!1s0x48798281ea1f581f:0x78db17563a164d56!8m2!3d53.3805784!4d-1.4722822!16zL20vMDIwMG00?entry=ttu)

@@ -7,8 +7,11 @@
     <a class="twitter-btn share-btn" href="https://twitter.com/share?url={{ .Permalink }}&text={{ .Title }}&via=[via]&hashtags=[hashtags]" title="Share this story on Twitter">
         <svg viewBox='0 0 24 24' id='twitter'><use href='/img/socials.svg#twitter'></use></svg>
         </a>
+    {{/*  <a class="x-btn share-btn" href="https://twitter.com/share?url={{ .Permalink }}&text={{ .Title }}&via=[via]&hashtags=[hashtags]" title="Share this story on X">
+        <svg viewBox='0 0 24 24' id='x'><use href='/img/socials.svg#x'></use></svg>
+    </a>  */}}
         
-    <a class="mastodon-btn share-btn" href="https://toot.kytta.dev/">
+    <a class="mastodon-btn share-btn" href="https://toot.kytta.dev/" title="Share this story on your Mastodon instance.">
         <svg viewBox="0 0 512 512" id="mastodon" onclick="MastodonShare(this);" data-src="{{ .Title }}&amp;url={{ .Permalink }}"><use href='/img/socials.svg#mastodon'></use></svg>
     </a>
     

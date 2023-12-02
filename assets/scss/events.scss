@@ -58,23 +58,33 @@
 }
 
 .where-and-when {
+    --brad: 10px;
     width: fit-content;
     max-width: 750px;
     margin: 4em auto;
     display: grid;
     grid-template-columns: repeat(2, auto);
-    gap: 1.5em;
+    gap: 0.5em;
     justify-content: space-between;
 }
 
 .where-and-when>* {
-    // padding: 1em;
-    // border: solid 1px #ccc;
-    border-radius: 10px;
+    padding: 0em;
+    border: solid 3px var(--blue);
+    border-radius: var(--brad);
 }
 
 .where-and-when h3 {
     margin: 0;
+    font-size: 1.1em;
+    padding: 0.5em 1em;
+    background-color: var(--blue);
+    color: #fff;
+    border-radius: var(--brad) var(--brad) 0 0;
+}
+
+.where-and-when p {
+    margin: 1em;
 }
 
 h1+p {
