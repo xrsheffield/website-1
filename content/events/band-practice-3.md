@@ -17,8 +17,6 @@ Arrive 6:45pm to collect instruments for 7pm start, followed by meeting
 
 Come and join us, all welcome. (XR or non-XR, children, relatives, friends, drummer or not!)  Instruments and ear protection will be provided.
 
- 
-
 We do have some sessions which are specifically oriented towards new or prospective drummers, but newbies are welcome to discover the joy of drumming at ALL SESSIONS. 
 
 
