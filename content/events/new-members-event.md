@@ -6,10 +6,10 @@ event_time: 6-8pm
 summary: "Shared meal from 6pm followed by two parallel gatherings "
 cover_image: /img/unionstreetbanner.jpg
 location:
-  street: 18-20 Union St
+  street: 18-20 Union Street
   postcode: S1 2JR
   town: Sheffield
-  name: Union Street Co-working Offices
+  name: Union St Co-working Offices
 ---
 A shared meal from 6pm followed by parallel meetings: 
 
