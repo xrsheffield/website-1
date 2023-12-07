@@ -8,10 +8,11 @@ cover_image: ""
 location:
   name: From Devonshire Green to City Hall
 ---
-
 March and rally to coincide with the end of COP28 
 
 All welcome
+
+![]()
 
 We have lots of XR banners and flags available, please contact [xrsheffield@gmail.com](mailto:xrsheffield@gmail.com)
 
@@ -28,7 +29,7 @@ See [Facebook Event](https://www.facebook.com/events/716214370567214)
 * While profits continue to soar, working-class individuals and communities around the world struggle to make ends meet. The climate crisis and the cost of living crisis are deeply rooted in our reliance on fossil fuels and an exploitative system. It's time to challenge this system
 * and create a more just and sustainable future. Join us on December 9th and be part of the movement for system change and a just transition. 💪🏭 #NowWeRise #ClimateAction
 
-![](/img/cjc-sy-nowwerise-fbtwitter.jpg)
+![Now We Rise poster](/img/cjc-sy-nowwerise-fbtwitter.jpg)
 
 - - -
 
@@ -44,6 +45,8 @@ Room 3 (From the main entrance go upstairs and it is where the rooms past the ma
 [Central United Reformed Church](https://urc.org.uk/directory-find_church/church_listing/sheffield-central-urc/),
 60 Norfolk St,
 S1 2JB
+
+![]()
 
 Bring a warm coat as we will also walk the route before the end of the session, as well as looking at key aspects of stewarding, assigning some key roles and answering any questions that volunteers have. 
 

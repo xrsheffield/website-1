@@ -1,4 +1,4 @@
-    <p class="image-paragraph">
+    {{/*  <p class="image-paragraph">
         where is the image?
         <img
         src="{{ .Destination | safeURL }}"
@@ -8,4 +8,38 @@
         {{ range $key, $val := .Attributes }}
             {{ $key | safeHTMLAttr }}={{ $val }}
         {{ end }} />
-    </p>
+    </p>  */}}
+
+
+    {{- $altText := .Text -}}
+    {{- $imgURL := .Destination -}}
+
+    {{- if hasPrefix $imgURL "http"   -}}
+       {{ with resources.GetRemote $imgURL }}
+       {{ $image := . }}
+       {{ if gt $image.Width 760 }}
+       {{ $image = $image.Resize "760x" }}
+       {{ end }}
+       {{/*  {{- $imgSized := .Resize "760x" -}}  */}}
+       <p class="image-paragraph">
+           <img src="{{ $image.RelPermalink }}" alt="{{ $altText }}">
+        </p>
+        {{ end }}
+        
+        {{- else -}}
+        
+        {{- with resources.Get $imgURL -}}
+        {{ $image := . }}
+        {{ if gt $image.Width 760 }}
+        {{ $image = $image.Resize "760x" }}
+        {{ end }}
+
+
+    {{/*  {{- $imgSized := .Resize "760x" -}}  */}}
+        <p class="image-paragraph">
+            <img src="{{ $image.RelPermalink }}" alt="{{ $altText }}" title="{{ $altText }}" loading="lazy">
+        </p>
+    {{ end }}
+    
+    
+    {{ end }}
