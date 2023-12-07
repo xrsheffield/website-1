@@ -3,11 +3,12 @@ title: Climate Justice March
 date: 2023-11-16T21:11:46.468Z
 expirydate: 2023-12-09T23:11:46.484Z
 event_time: 12 noon
-summary: March from Devonshire Green for rally at City Hall
+summary: March from Devonshire Green for a rally at City Hall.
 cover_image: ""
 location:
   name: From Devonshire Green to City Hall
 ---
+
 March and rally to coincide with the end of COP28 
 
 All welcome

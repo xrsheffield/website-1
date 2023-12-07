@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 85.49 87.37">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ab6f6f;
+      }
+    </style>
+  </defs>
+  <title>x-logo-small</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <path class="cls-1" d="M50.88,37,82.71,0H75.16L47.53,32.12,25.46,0H0L33.38,48.57,0,87.37H7.54L36.73,53.45,60,87.37H85.49L50.88,37ZM40.55,49l-3.38-4.84L10.26,5.68H21.84L43.56,36.74l3.38,4.84L75.17,82H63.58L40.55,49Z"/>
+    </g>
+  </g>
+</svg>

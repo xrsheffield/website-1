@@ -4,12 +4,10 @@
     <a class="facebook-btn share-btn" href="https://www.facebook.com/sharer.php?u={{ .RelPermalink }}" title="Share this story on Facebook">
         <svg viewBox="0 0 56.693 56.693" id='fb'><use href='/img/socials.svg#fb'></use></svg>
     </a>
-    <a class="twitter-btn share-btn" href="https://twitter.com/share?url={{ .Permalink }}&text={{ .Title }}&via=[via]&hashtags=[hashtags]" title="Share this story on Twitter">
-        <svg viewBox='0 0 24 24' id='twitter'><use href='/img/socials.svg#twitter'></use></svg>
-        </a>
-    {{/*  <a class="x-btn share-btn" href="https://twitter.com/share?url={{ .Permalink }}&text={{ .Title }}&via=[via]&hashtags=[hashtags]" title="Share this story on X">
+    
+    <a class="x-btn share-btn" href="https://twitter.com/share?url={{ .Permalink }}&text={{ .Title }}&via=[via]&hashtags=[hashtags]" title="Share this story on X">
         <svg viewBox='0 0 24 24' id='x'><use href='/img/socials.svg#x'></use></svg>
-    </a>  */}}
+    </a>
         
     <a class="mastodon-btn share-btn" href="https://toot.kytta.dev/" title="Share this story on your Mastodon instance.">
         <svg viewBox="0 0 512 512" id="mastodon" onclick="MastodonShare(this);" data-src="{{ .Title }}&amp;url={{ .Permalink }}"><use href='/img/socials.svg#mastodon'></use></svg>
