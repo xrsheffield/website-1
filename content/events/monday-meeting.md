@@ -3,7 +3,8 @@ title: Monday Meeting
 date: 2023-12-10T23:03:56.897Z
 expirydate: 2023-12-18T23:03:56.913Z
 event_time: "6:45-8pm "
-summary: XR Sheffield's Main Monday Meeting
+summary: Come and meet like-minded people and share your reasons wanting to get
+  involved, or stay involved, in climate activism
 cover_image: /img/unionstreetbanner.jpg
 location:
   street: 18-20 Union Street
