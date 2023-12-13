@@ -2,6 +2,7 @@
 title: Monday Meeting
 date: 2023-12-10T23:03:56.897Z
 expirydate: 2023-12-18T23:03:56.913Z
+draft: true
 event_time: 6:45-8pm (Social and setting-up from 6pm)
 summary: Come and meet like-minded people and share your reasons wanting to get
   involved, or stay involved, in climate activism
