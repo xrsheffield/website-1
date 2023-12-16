@@ -17,3 +17,5 @@ XR Sheffield's Main Monday Meeting (MMM)
 Hot vegan food will be served from 6pm. 
 
 Come and meet like-minded people and share your reasons for being involved in climate activism.  Help plan for our upcoming events and actions.  Newcomers welcome, tea and biscuits available.
+
+You can also join the meeting [online via Zoom](https://us02web.zoom.us/j/83837809892?pwd=TWRobzBuSS9HSWU3OFBBQzJTeUd4QT09) from 6:45pm
