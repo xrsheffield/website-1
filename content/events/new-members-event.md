@@ -2,7 +2,7 @@
 title: Monday Meeting
 date: 2023-11-16T21:36:54.197Z
 expirydate: 2024-01-08T23:36:54.208Z
-event_time: 6:45 - 8pm, social from 6pm
+event_time: Food & social 6pm, meeting 6:45-8pm
 summary: XR Sheffield's weekly Monday Meeting, 6:45 - 8pm
 cover_image: /img/unionstreetbanner.jpg
 location:
@@ -14,8 +14,6 @@ location:
 
 XR Sheffield's Main Monday Meeting (MMM)
 
-Topics - to be decided
+Hot vegan food will be served from 6pm. 
 
-Come and meet like-minded people and share your reasons wanting to get involved, or stay involved, in climate activism, then help plan for our upcoming events and actions.
-
-Tea and biscuits available 
+Come and meet like-minded people and share your reasons for being involved in climate activism.  Help plan for our upcoming events and actions.  Newcomers welcome, tea and biscuits available.
