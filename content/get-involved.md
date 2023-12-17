@@ -1,9 +1,24 @@
 ---
-title: "Get Involved"
-date: 2022-11-19T17:50:01Z
+title: Get Involved
+date: 2022-11-19T17:50:01.000Z
 draft: false
 ---
 
+## MONDAY MEETINGS AT UNION STREET
+
+Come along to our weekly get-together every Monday evening at Union Street Co-Working Space (18-20 Union Street, Sheffield, S1 2JP).  6pm for hot drinks and social chats, 6:45-8pm for the meeting.  You are welcome to bring your own food for the social part.
+
+You can also join in the Monday meetings using [Zoom](https://zoom.us/) if that's more convenient. Contact us at {{< main-email >}} for details of how to join.
+
+{{< monday-meetings >}}
+
+**What to expect at the Main Monday Meeting (MMM)** 
+
+New member Catherine says:
+
+> In August me and my partner went to London to take part in the 'Impossible Rebellion'. We’d never joined a protest or taken part in direct action, but were moved to get involved after hearing the shocking IPCC report headlines and Code Red for Humanity. We read that global warming of 2°C will be exceeded unless deep reductions in carbon dioxide occur. It was shocking. But jolted us into action. Since then we’ve attended the MMMs and joined some other XR Sheffield activities. The MMM is where people come along, learn about what is happening in XR and think about where they can get involved. People might break into groups to talk about a specific issue or plan action. There is an idea that ‘we are all crew’, that everyone can practically contribute, so you are encouraged to get involved in the things that interest you or that you have time for. I generally work six or seven days a week, life is very busy, but I feel better turning up on a Monday and being involved in an organisation that is raising the alarm about the climate emergency and trying to get politicians to act."
+
+The Samba band also meet at the Co-Working Space on Union Street on Thursdays. Just like the Monday meetings, newcomers are always welcome.
 There are so many ways to get involved - everyone has something to contribute and together we are stronger.
 
 We have many different working groups so whatever your skills or particular interests there is a place for you. You really don’t need to get arrested to be part of XR! 
@@ -33,6 +48,8 @@ Want to help but low on time? You can also support through making a donation.
 ​You can also get involved by volunteering with us, see below.
 
 For links to national and local resources, see below.
+
+
 
 ## VOLUNTEERING
 
