@@ -28,14 +28,17 @@ Current working groups include:
 
 - Samba Band
 - Arts and Crafts 
+- Media and Messaging
+- Website
+
+<!--
 - Banner Dropping
 - Flyering and Stickering
 - Internal Coordinators
 - Monday Meeting Planning Group
-- Media and Messaging
 - Stalls / Climate Hub
-- Website
 
+-->
 
 If any of these interest you, drop us an email, {{< main-email >}}, and we’ll link you up!
 
@@ -45,11 +48,11 @@ Want to help but low on time? You can also support through making a donation.
 
 ​To receive regular updates by email, please sign up to our mailing list at the bottom of this page and you are welcome to join us at our weekly Monday meetings where there will be an induction session for new members running parallel to the main meeting.
 
+<!---
+
 ​You can also get involved by volunteering with us, see below.
 
 For links to national and local resources, see below.
-
-
 
 ## VOLUNTEERING
 
@@ -68,11 +71,13 @@ We are facing an ecological crisis and we need your help. Our beautiful movement
 
 **XR North Affinity Group Tech Wizard:** Working with XR North to build a communications structure in collaboration with the UK AGSN and UK Tech Teams, and on-board AG coordinators and AG members into the new system. Need confident (but not expert) use of IT systems, e.g. using and manipulating spreadsheets and communications apps. Contact will.r.cooke@gmail.com
 
-<!-- **Regen Working Group (WG) coordinator:** (Regen: Regenerative Culture: sustainable activist well-being). Vacancy after Easter. This involves attending monthly Regen WG meetings and being the contact point in XR Sheffield. For more info please contact xrsheffieldregen@gmail.com or {{< main-email >}}, and see the mandate here. -->
+**Regen Working Group (WG) coordinator:** (Regen: Regenerative Culture: sustainable activist well-being). Vacancy after Easter. This involves attending monthly Regen WG meetings and being the contact point in XR Sheffield. For more info please contact xrsheffieldregen@gmail.com or {{< main-email >}}, and see the mandate here.
 
 **Sheffield Climate Alliance** would like someone with expertise in energy to join their climate jobs group. Please contact them directly or via {{< main-email >}} if interested.
 
 **XRUK Self-Organising Systems National Team:** contact us for more information or xr.mandates@gmail.com to get involved.
+
+ -->
 
 
 ## RESOURCES
