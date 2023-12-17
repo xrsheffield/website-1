@@ -12,8 +12,6 @@ location:
   town: 11 Napier Street
   postcode: S11 8HA
 ---
-### South Yorkshire Climate Alliance 'Speed Dating' Event
-
-** Get ready to meet like-minded individuals passionate about tackling climate change at the South Yorkshire Climate Alliance Speed Dating Event **
+### South Yorkshire Climate Alliance Speed Dating Event
 
 Join us for an exciting evening of speed dating with a twist! The South Yorkshire Climate Alliance is hosting a fun and interactive event where you can meet like-minded individuals who are passionate about tackling climate change. Don't miss out on this opportunity to connect with individuals and groups who share your commitment to creating a sustainable future!
