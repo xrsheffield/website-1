@@ -8,8 +8,8 @@ summary: Get ready to meet like-minded individuals passionate about tackling
 cover_image: /img/speed_dating.jpg
 location:
   name: Cemetery Road Baptist Church
-  street: (Napier St entrance)
-  town: 11 Napier Street
+  street: 11 Napier Street
+  town: ""
   postcode: S11 8HA
 ---
 ### South Yorkshire Climate Alliance Speed Dating Event
