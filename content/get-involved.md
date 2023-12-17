@@ -1,9 +1,24 @@
 ---
-title: "Get Involved"
-date: 2022-11-19T17:50:01Z
+title: Get Involved
+date: 2022-11-19T17:50:01.000Z
 draft: false
 ---
 
+## MONDAY MEETINGS AT UNION STREET
+
+Come along to our weekly get-together every Monday evening at Union Street Co-Working Space (18-20 Union Street, Sheffield, S1 2JP).  6pm for hot drinks and social chats, 6:45-8pm for the meeting.  You are welcome to bring your own food for the social part.
+
+You can also join in the Monday meetings using [Zoom](https://zoom.us/) if that's more convenient. Contact us at {{< main-email >}} for details of how to join.
+
+{{< monday-meetings >}}
+
+**What to expect at the Main Monday Meeting (MMM)** 
+
+New member Catherine says:
+
+> In August me and my partner went to London to take part in the 'Impossible Rebellion'. We’d never joined a protest or taken part in direct action, but were moved to get involved after hearing the shocking IPCC report headlines and Code Red for Humanity. We read that global warming of 2°C will be exceeded unless deep reductions in carbon dioxide occur. It was shocking. But jolted us into action. Since then we’ve attended the MMMs and joined some other XR Sheffield activities. The MMM is where people come along, learn about what is happening in XR and think about where they can get involved. People might break into groups to talk about a specific issue or plan action. There is an idea that ‘we are all crew’, that everyone can practically contribute, so you are encouraged to get involved in the things that interest you or that you have time for. I generally work six or seven days a week, life is very busy, but I feel better turning up on a Monday and being involved in an organisation that is raising the alarm about the climate emergency and trying to get politicians to act."
+
+The Samba band also meet at the Co-Working Space on Union Street on Thursdays. Just like the Monday meetings, newcomers are always welcome.
 There are so many ways to get involved - everyone has something to contribute and together we are stronger.
 
 We have many different working groups so whatever your skills or particular interests there is a place for you. You really don’t need to get arrested to be part of XR! 
@@ -13,14 +28,17 @@ Current working groups include:
 
 - Samba Band
 - Arts and Crafts 
+- Media and Messaging
+- Website
+
+<!--
 - Banner Dropping
 - Flyering and Stickering
 - Internal Coordinators
 - Monday Meeting Planning Group
-- Media and Messaging
 - Stalls / Climate Hub
-- Website
 
+-->
 
 If any of these interest you, drop us an email, {{< main-email >}}, and we’ll link you up!
 
@@ -29,6 +47,8 @@ We’re also always keen for new working groups so if you have an idea, let us k
 Want to help but low on time? You can also support through making a donation.
 
 ​To receive regular updates by email, please sign up to our mailing list at the bottom of this page and you are welcome to join us at our weekly Monday meetings where there will be an induction session for new members running parallel to the main meeting.
+
+<!---
 
 ​You can also get involved by volunteering with us, see below.
 
@@ -51,11 +71,13 @@ We are facing an ecological crisis and we need your help. Our beautiful movement
 
 **XR North Affinity Group Tech Wizard:** Working with XR North to build a communications structure in collaboration with the UK AGSN and UK Tech Teams, and on-board AG coordinators and AG members into the new system. Need confident (but not expert) use of IT systems, e.g. using and manipulating spreadsheets and communications apps. Contact will.r.cooke@gmail.com
 
-<!-- **Regen Working Group (WG) coordinator:** (Regen: Regenerative Culture: sustainable activist well-being). Vacancy after Easter. This involves attending monthly Regen WG meetings and being the contact point in XR Sheffield. For more info please contact xrsheffieldregen@gmail.com or {{< main-email >}}, and see the mandate here. -->
+**Regen Working Group (WG) coordinator:** (Regen: Regenerative Culture: sustainable activist well-being). Vacancy after Easter. This involves attending monthly Regen WG meetings and being the contact point in XR Sheffield. For more info please contact xrsheffieldregen@gmail.com or {{< main-email >}}, and see the mandate here.
 
 **Sheffield Climate Alliance** would like someone with expertise in energy to join their climate jobs group. Please contact them directly or via {{< main-email >}} if interested.
 
 **XRUK Self-Organising Systems National Team:** contact us for more information or xr.mandates@gmail.com to get involved.
+
+ -->
 
 
 ## RESOURCES
