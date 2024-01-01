@@ -1,7 +1,7 @@
 ---
 title: Band Practice
 date: 2024-01-01T20:41:16.261Z
-expirydate: 2024-01-01T20:41:16.276Z
+expirydate: 2024-01-04T20:41:16.276Z
 event_time: 6:45pm
 summary: Five Rivers Rising, XR Sheffield Samba Fusion Band practice session,
   followed by meeting
