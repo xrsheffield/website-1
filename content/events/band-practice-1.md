@@ -12,9 +12,9 @@ location:
   town: "Sheffield "
   postcode: S1 2JR
 ---
-Five Rivers Rising, XR Sheffield Samba Fusion Band practice session
+Five Rivers Rising, XR Sheffield Samba Fusion Band practice session and meeting
 
-Arrive 6:45pm to collect instruments for 7pm start, followed by meeting
+Arrive 6:45pm to collect instruments for 7pm start. There will be a band meeting after the practice session for those that want to be involved.
 
 Come and join us, all welcome. (XR or non-XR, children, relatives, friends, drummer or not!)  Instruments and ear protection will be provided.
 
