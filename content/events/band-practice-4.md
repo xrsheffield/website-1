@@ -11,6 +11,7 @@ location:
   town: "Sheffield "
   postcode: S1 2JR
 ---
+
 Five Rivers Rising, XR Sheffield Samba Fusion Band practice session
 
 **CHANGE OF PLAN: Well be playing at the Town Hall from 7:30, meeting back at Union St. around 8pm**
