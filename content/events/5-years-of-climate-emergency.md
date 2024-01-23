@@ -19,6 +19,6 @@ location:
 
 We will be marking the 5th anniversary of Sheffield City Council's declaration of a Climate Emergency with a rally, banners and questions in the main Sheffield City Council meeting.
 
-Meet outside Sheffield Town Hall at 1pm (and for people who want to, 2 p.m. inside Town Hall to observe the meeting and support the people asking questions of the council)
+Meet outside Sheffield Town Hall at 1pm (and for people who want to, 2pm inside Town Hall to observe the meeting and support the people asking questions of the council)
 
 Wear black if you would like to have stripes and antennae added to make a bee costume! 
