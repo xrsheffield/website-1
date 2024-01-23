@@ -11,6 +11,8 @@ location:
   street: Pinstone Street
   postcode: S1 2HH
 ---
+<h4 style="text-align: center;">Climate Emergency declared in 2019</h4>
+
 <p style="text-align: center;">Climate Emergency declared in 2019</p>
 
 We will be marking the 5th anniversary of Sheffield City Council's declaration of a Climate Emergency with a rally, banners and questions in the main Sheffield City Council meeting.
