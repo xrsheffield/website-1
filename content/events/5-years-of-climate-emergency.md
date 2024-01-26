@@ -23,4 +23,4 @@ Meet outside Sheffield Town Hall at 1pm (and for people who want to, 2pm inside 
 
 Wear black if you would like to have stripes and antennae added to make a bee costume!
 
-![Climate Emergency declared in 2019](assets/img/84028695_2794310560796464_2852198677882077184_n.jpg)
+![](assets/img/84028695_2794310560796464_2852198677882077184_n.jpg)
