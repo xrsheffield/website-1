@@ -1,9 +1,9 @@
 ---
-title: Free Radicals
+title: The Free Radicals
 date: 2024-03-14T18:06:01.916Z
 expirydate: 2024-03-16T17:58:00.000Z
 event_time: From 7:30pm
-summary: A night of funk and soul classics - benefit event for Palestine
+summary: A night of funk and soul classics - a benefit event for Palestine
 cover_image: /img/free-rads-16-03-24.jpg
 location:
   name: Crookes Social Club
