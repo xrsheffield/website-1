@@ -14,5 +14,9 @@ A benefit event for Palestine
 
 The Free Radicals invite you to a night of funk and soul classics
 
-With special guests SOSA-XA
+With special guests SOSA-XA -
 An amazing Sheffield community choir specialising in Southern African music 
+
+Donations on the door
+
+Suggested donations - waged: £10 - unwaged: as you're able
