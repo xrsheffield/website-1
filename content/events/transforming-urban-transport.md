@@ -29,6 +29,6 @@ The audience will also be invited to ask questions and contribute ideas.
 
 **Rizwana Lala**, whose work has included advising the NHS on how active travel and affordable public transit can tackle health inequalities.
 
-Speakers representing Cycle Sheffield, local businesses, and bus campaigners.
+Speakers representing **Cycle Sheffield**, **local businesses**, and **bus campaigners**.
 
 Free to attend but booking is essential: [get tickets](https://buytickets.at/festivalofdebate/1183836)
