@@ -21,14 +21,12 @@ As part of the Sheffield Festival of Debate, South Yorkshire Climate Alliance ha
 
 The audience will also be invited to ask questions and contribute ideas.
 
-Professor Ed Ferrari, of Hallam University, will chair a panel including :-
+**Professor Ed Ferrari**, of Hallam University, will chair a panel including :-
 
-Professor Greg Marsden, a University of Leeds climate and transport policy expert.
+**Professor Greg Marsden**, a University of Leeds climate and transport policy expert.
 
-Rizwana Lala, whose work has included advising the NHS on how active travel and affordable public transit can tackle health inequalities.
+**Rizwana Lala**, whose work has included advising the NHS on how active travel and affordable public transit can tackle health inequalities.
 
 Speakers representing Cycle Sheffield, local businesses, and bus campaigners.
 
-Free to attend but booking is essential:
-
-[Get tickets here](https://buytickets.at/festivalofdebate/1183836)
+Free to attend but booking is essential: [get tickets](https://buytickets.at/festivalofdebate/1183836)
