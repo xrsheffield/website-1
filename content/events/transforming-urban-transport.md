@@ -11,7 +11,7 @@ location:
   town: Hallam University
   postcode: S1 1WB
 ---
-Transforming Urban Transport
+### Transforming Urban Transport
 
 Limiting climate change, pollution and congestion are all good reasons for a radical move away from our-car-dominated urban transport system. Solutions are varied, often involving more active travel and public transport, or reducing the need to travel. In recent years, Sheffield has introduced several initiatives to limit car usage and promote active travel and a charging Clean Air Zone. Other proposed measures have been scaled back or dropped, due to opposition. This has been driven by the immediate practical impacts on local peoples’ lives and -to a greatly disputed extent– media misinformation about climate policies. Meanwhile, whilst an improved bus service is generally accepted as vital, it is still declining.
 
@@ -31,4 +31,4 @@ Speakers representing Cycle Sheffield, local businesses, and bus campaigners.
 
 Free to attend but booking is essential:
 
-https://buytickets.at/festivalofdebate/1183836
+[Get tickets here](https://buytickets.at/festivalofdebate/1183836)
