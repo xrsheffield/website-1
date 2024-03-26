@@ -6,4 +6,6 @@ summary: Earth Day has evolved into the largest civic event on Earth, activating
   billions across 192 countries to safeguard our planet and fight for a brighter
   future
 ---
-Earth Day has evolved into the largest civic event on Earth, activating billions across 192 countries to safeguard our planet and fight for a brighter future
+Earth Day has evolved into the largest civic event on Earth, activating billions across 192 countries to safeguard our planet and fight for a brighter future.
+
+[Earth Day 2024](https://www.earthday.org/earth-day-2024/)
