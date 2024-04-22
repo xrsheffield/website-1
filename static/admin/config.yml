@@ -17,6 +17,7 @@ collections:
     label: "Events" # Used in the UI
     folder: "content/events" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     editor:
       preview: true
     fields: # The fields for each document, usually in front matter
@@ -42,6 +43,7 @@ collections:
     label: "News" # Used in the UI
     folder: "content/news" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     editor:
       preview: true
     fields: # The fields for each document, usually in front matter
