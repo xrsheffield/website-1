@@ -3,8 +3,8 @@ title: Restore Nature Now
 date: 2024-04-28T20:13:00.000Z
 expirydate: 2024-06-22T21:13:00.000Z
 event_time: Meet at midday, march from 1pm
-summary: London march from Park Lane to Parliament Square - the biggest ever UK
-  gathering for nature and climate!
+summary: March in London from Park Lane to Parliament Square - the biggest ever
+  UK gathering for nature and climate!
 cover_image: /img/restore_nature.jpg
 location:
   street: ""
