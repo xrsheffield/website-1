@@ -7,7 +7,7 @@ summary: London march from Park Lane to Parliament Square - the biggest ever UK
   gathering for nature and climate!
 cover_image: /img/restore_nature.jpg
 location:
-  street: Park Lane
+  street: ""
   town: London
 ---
 Restore Nature Now is calling for urgent action to restore nature and tackle climate change in the UK. Time to unite! 
