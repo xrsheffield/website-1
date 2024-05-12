@@ -1,5 +1,5 @@
 ---
-title: Active Hope and climate change
+title: Active Hope and Climate Change
 date: 2024-05-12T20:24:00.000Z
 expirydate: 2024-05-19T21:22:00.000Z
 event_time: 2 - 4pm
