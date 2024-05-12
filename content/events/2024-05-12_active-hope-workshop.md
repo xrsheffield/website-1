@@ -8,6 +8,9 @@ summary: An Active Hope workshop at the beautiful Apple Shack Cafe in the
 cover_image: /img/appleshack.png
 location:
   name: Apple Shack Cafe
+  street: Manchester Road
+  town: Sheffield
+  postcode: S6 5SH
 ---
 Active Hope workshop 
 
