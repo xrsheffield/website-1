@@ -13,6 +13,6 @@ summary: List of Events
 
 Join [our mailing list](/contact/) or come to one of our regular [Monday meetings](/#monday-meetings-at-union-street) to keep informed
 
-We meet weekly on Monday evenings and everyone is welcome. [Find out more..](/#next-meeting)
+We meet on the evenings of the 1st and 3rd Mondays each month and everyone is welcome. [Find out more..](/#next-meeting)
 
 {{< monday-meetings >}}
