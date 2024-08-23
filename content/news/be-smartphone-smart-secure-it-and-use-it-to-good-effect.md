@@ -4,7 +4,7 @@ date: 2019-08-10
 author: XR Geek
 categories: [news]
 Updated: Aug 13, 2019
-cover_image: img/police-and-phone.jpg
+# cover_image: img/police-and-phone.jpg
 ---
 
 
