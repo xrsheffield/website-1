@@ -28,7 +28,7 @@ We have many different working groups so whatever your skills or particular inte
 Current working groups include:
 
 
-- Samba Band
+- Samba Fusion Band
 - Arts and Crafts 
 - Media and Messaging
 - Website
