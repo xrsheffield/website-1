@@ -17,8 +17,6 @@ Logo here
  
 -->
 
-(Logo here)
-
 ## IT'S TIME TO ACT NOW
 
 Five Rivers Rising is the name of XR Sheffield rhythms band. We are a samba-inspired drumming group. We play to support protests - usually climate-related, but also for other adjacent causes such as the injustices of poverty, pollution, war, discrimination, corporate greed, and more.
