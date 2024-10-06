@@ -11,9 +11,8 @@ cover_image: null
 XR Sheffield Drummers Need You. Join Us. Help Change Our Future.
 
  
-
+![Ant logo](https://assets/img/5rr-ant-on-transparency.jpg "5RR ant logo")
  
-
 
 
 ## IT'S TIME TO ACT NOW
