@@ -16,9 +16,11 @@ cover_image: null
 
 Logo here
 
+-->
+
 ![Ant logo](assets/img/5rr-ant-on-transparency.jpg "5RR ant logo")
  
--->
+
 
 ## IT'S TIME TO ACT NOW
 
