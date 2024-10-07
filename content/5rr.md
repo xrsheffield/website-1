@@ -24,6 +24,8 @@ cover_image: null
 
 ![image](https://xrsheffield.org/img/5rr-ant-small_hu2119542672326185217.jpg)
 
+https://xrsheffield.org/img/5rr-ant-small_hu2119542672326185217.jpg
+
 Logo here
 
 -->
@@ -51,4 +53,4 @@ We practice every Thursday evening in the centre of Sheffield.
 
 Please contact us for the details:  [xr.sheffield.5riversrising@gmail.com](mailto:xr.sheffield.5riversrising@gmail.com)
 
- 
+![image](https://xrsheffield.org/img/5rr-ant-small_hu2119542672326185217.jpg)
