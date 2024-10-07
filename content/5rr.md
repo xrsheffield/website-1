@@ -5,12 +5,16 @@ draft: false
 cover_image: null
 ---
 
-![image](assets/img/band_photo_1_small.jpg)
+
+
+![image](https://xrsheffield.org/img/band_photo_1_small_hu3088396975745140125.jpg)
 
 
 ### XR Sheffield Drummers Need You. Join Us. Help Change Our Future.
 
 <!-- 
+
+![image](assets/img/band_photo_1_small.jpg)
 
 ![image](https://xrsheffield.org/img/whatsapp-image-2023-11-25-at-10.42.21_c000bb17_hu2725172199972002772.jpg)
 
