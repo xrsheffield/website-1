@@ -14,11 +14,17 @@ cover_image: null
 
 ![Ant logo](https://assets/img/5rr-ant-on-transparency.jpg "5RR ant logo")
 
+![Ant logo](assets/img/5rr-ant-on-transparency.jpg "5RR ant logo")
+
 Logo here
 
-![Ant logo](assets/img/5rr-ant-on-transparency.jpg "5RR ant logo")
- 
 -->
+
+![image](assets/img/band_photo_1.jpg "photo of band practice")
+
+
+ 
+
 
 ## IT'S TIME TO ACT NOW
 
