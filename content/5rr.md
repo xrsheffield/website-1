@@ -22,6 +22,8 @@ cover_image: null
 
 ![image](assets/img/5rr-ant-on-transparency.jpg "5RR ant logo")
 
+![image](https://xrsheffield.org/img/5rr-ant-small_hu2119542672326185217.jpg)
+
 Logo here
 
 -->
