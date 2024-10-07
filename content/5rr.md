@@ -5,7 +5,7 @@ draft: false
 cover_image: null
 ---
 
-![image](assets/img/band_photo_1_small.jpg "band practice")
+![band practice](assets/img/band_photo_1_small.jpg "band practice")
 
 
 ### XR Sheffield Drummers Need You. Join Us. Help Change Our Future.
