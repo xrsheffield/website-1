@@ -8,6 +8,8 @@ cover_image: null
 
 ### XR Sheffield Drummers Need You. Join Us. Help Change Our Future.
 
+![image](https://xrsheffield.org/img/whatsapp-image-2023-11-25-at-10.42.21_c000bb17_hu2725172199972002772.jpg)
+
 <!-- 
 ![Ant logo](https://assets/img/5rr-ant-on-transparency.jpg "5RR ant logo")
 
