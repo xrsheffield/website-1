@@ -5,7 +5,7 @@ draft: false
 cover_image: null
 ---
 
-![band practice](assets/img/band_photo_1_small.jpg "band practice")
+![image](assets/img/band_photo_1_small.jpg "band practice")
 
 
 ### XR Sheffield Drummers Need You. Join Us. Help Change Our Future.
@@ -16,7 +16,7 @@ cover_image: null
 
 ![Ant logo](https://assets/img/5rr-ant-on-transparency.jpg "5RR ant logo")
 
-![Ant logo](assets/img/5rr-ant-on-transparency.jpg "5RR ant logo")
+![image](assets/img/5rr-ant-on-transparency.jpg "5RR ant logo")
 
 Logo here
 
