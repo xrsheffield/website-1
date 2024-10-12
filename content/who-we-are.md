@@ -10,7 +10,7 @@ This is a group aimed at promoting non-violent direct action & civil disobedienc
 
 We have [weekly meetings](/events/) at Union St on Mondays. The doors are open from 6pm. Meetings then begin at 6.45pm and continue until around 8pm.
 
-Our [Samba Fusion band (Five Rivers Rising)](/5rr/) practices every Thursday evening and regularly supports actions by Extinction Rebellion and related causes.
+Our [Samba Fusion band (Five Rivers Rising)](/5rr/) practices every Thursday evening and regularly supports actions by Extinction Rebellion and related causes. We are always looking for new people to join the band.
 
 {{< our-3-demands >}}
 
