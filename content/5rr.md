@@ -14,6 +14,8 @@ cover_image: null
 
 <!-- 
 
+https://xrsheffield.org/img/5rr-ant-small2_hu11287661320159157006.jpg
+
 ![image](assets/img/band_photo_1_small.jpg)
 
 ![image](https://xrsheffield.org/img/whatsapp-image-2023-11-25-at-10.42.21_c000bb17_hu2725172199972002772.jpg)
@@ -53,4 +55,8 @@ We practice every Thursday evening in the centre of Sheffield.
 
 Please contact us for the details:  [xr.sheffield.5riversrising@gmail.com](mailto:xr.sheffield.5riversrising@gmail.com)
 
+![image](https://xrsheffield.org/img/5rr-ant-small2_hu11287661320159157006.jpg)
+
+<!--
 ![image](https://xrsheffield.org/img/5rr-ant-small_hu2119542672326185217.jpg)
+-->
