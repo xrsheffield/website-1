@@ -57,6 +57,6 @@ Please contact us for the details:  [xr.sheffield.5riversrising@gmail.com](mailt
 
 ![image](https://xrsheffield.org/img/5rr-ant-small2_hu11287661320159157006.jpg)
 
-<!--
+<!-- 
 ![image](https://xrsheffield.org/img/5rr-ant-small_hu2119542672326185217.jpg)
 -->
