@@ -1,6 +1,6 @@
 ---
-title: "Who We Are"
-date: 2022-11-19T10:40:19Z
+title: Who We Are
+date: 2022-11-19T10:40:19.000Z
 draft: false
 ---
 
@@ -9,6 +9,8 @@ We are a group of people in Sheffield taking part in the international Extinctio
 This is a group aimed at promoting non-violent direct action & civil disobedience for action on the climate & ecological crisis.
 
 We have [weekly meetings](/events/) at Union St on Mondays. The doors are open from 6pm. Meetings then begin at 6.45pm and continue until around 8pm.
+
+Our [Samba Fusion band (Five Rivers Rising)](/5rr/) practices every Thursday evening and regularly supports actions by Extinction Rebellion and related causes.
 
 {{< our-3-demands >}}
 
