@@ -16,7 +16,7 @@ XR Sheffield's Main Monday Meeting (MMM)
 
 Presentation by Reclaim the Moors
 
-There will be a shared vegan meal at 6pm.  If you’re wanting to join us, please let Dale know so that we make enough for all: [dale@inewgames.com](mailto:dale@inewgames.com)
+There will be a shared vegan meal at 6pm.  If you’re wanting to join us, please let us know so that we make enough for all: [xrsheffield@gmail.com](mailto:xrsheffield@gmail.com)
 
 You can also join the meeting [online via Zoom](https://us02web.zoom.us/j/83837809892?pwd=TWRobzBuSS9HSWU3OFBBQzJTeUd4QT09) from 6:45pm
 
