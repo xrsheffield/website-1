@@ -11,7 +11,7 @@ summary: List of Events
 
 **A list of XR Sheffield and related events is shown below:**
 
-You can also view a Calendar of Events [here (google doc)](https://docs.google.com/document/d/1-QC-x6TBCDtcJFbvCvFQ3Wx5kViYzoGfx6NigX-P7UQ/edit?tab=t.0) 
+You can also view a Calendar of Events (google doc) [here](https://docs.google.com/document/d/1-QC-x6TBCDtcJFbvCvFQ3Wx5kViYzoGfx6NigX-P7UQ/edit?tab=t.0) 
 
 Join [our mailing list](/contact/) or come to one of our regular [Monday meetings](/#monday-meetings-at-union-street) to keep informed
 
