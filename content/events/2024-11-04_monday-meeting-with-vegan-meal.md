@@ -4,7 +4,7 @@ title: Monday Meeting with Vegan Meal
 date: 2024-11-04T15:19:00.000Z
 expirydate: 2024-11-18T22:59:00.000Z
 event_time: 6:45-8pm (shared vegan meal from 6pm)
-summary: XR Sheffield's Main Monday Meeting
+summary: XR Sheffield's Main Monday Meeting - presentation by Reclaim the Moors
 cover_image: /img/unionstreetbanner.jpg
 location:
   street: 18-20 Union Street
@@ -13,6 +13,8 @@ location:
   name: Union St Co-working Offices
 ---
 XR Sheffield's Main Monday Meeting (MMM)
+
+Presentation by Reclaim the Moors
 
 There will be a shared vegan meal at 6pm.  If you’re wanting to join us, please let Dale know so that we make enough for all: [dale@inewgames.com](mailto:dale@inewgames.com)
 
