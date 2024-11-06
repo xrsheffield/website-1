@@ -13,4 +13,4 @@ AON have “deep experience across all segments of the natural resources industr
 
 New oil and gas facilities threaten our survival - we call on AON and others to commit to ending these ties!
 
-Insurance company Zurich just dropped new oil and gas - why can't AON do the same?
+Insurance company Zurich just dropped new oil and gas - why can't AON do the same? 
