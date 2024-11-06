@@ -5,7 +5,7 @@ summary: On Wednesday we targeted the Insurance Broker AON at its office off
   Ecclesall Rd as part of a national week of action against insurance companies
   and brokers insuring climate chaos
 author: Benny
-cover_image: /img/whatsapp-image-2024-10-30-at-16.28.17_26e94e3d.jpg
+cover_image: /img/insure-our-survival-shef.jpg
 ---
 On Wednesday we targeted the Insurance Broker AON at its office off Ecclesall Rd as part of a national week of action against insurance companies and brokers insuring climate chaos
 
