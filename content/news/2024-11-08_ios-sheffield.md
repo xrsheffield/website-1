@@ -1,9 +1,10 @@
 ---
-title: Ios Sheffield
+title: Insure Our Survival - Sheffield
 date: 2024-11-08T19:42:00.000Z
 summary: Twenty people targeted Aon at their Napier St office, on Wednesday 30th
   October over lunch time
 author: Benny
+cover_image: /img/ios-sheffield.jpg
 ---
 It was small, good, and how wonderful to meet people from different groups too. Twenty people targeted Aon at their Napier St office, on Wednesday 30th October over lunch time. A small group of Aon employees engaged with us in their car park - no cars were parked in Aon's spaces and nobody answered the door bell even though the small group had claimed a receptionist would.
 
