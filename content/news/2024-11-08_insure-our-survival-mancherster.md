@@ -1,5 +1,5 @@
 ---
-title: Insure Our Survival - Mancherster
+title: Insure Our Survival - Manchester
 date: 2024-11-08T19:51:00.000Z
 summary: There were hundreds of people, with a good Sheffield contingent from
   both XR and Five Rhythms Rising XR samba fusion band
