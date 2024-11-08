@@ -1,7 +1,8 @@
 ---
 title: Defend Our Juries
 date: 2024-11-08T19:25:00.000Z
-summary: Defend Our Juries action in London
+summary: On 24th October, United Nations Day, several of XR Sheffield joined
+  more than 300 others on a green street corner in London
 author: Benny
 cover_image: /img/defend_juries.jpg
 ---
