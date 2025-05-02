@@ -1,11 +1,11 @@
 # local_backend: true
 backend:
-  name: gitlab
-  repo: xrsweb/new-wix
+  name: github
+  repo: xrsheffield/website-1
   branch: master
 display_url: xrsheffield.org
-site_url: https://xrsheffield.org
-logo_url: https://xrsheffield.org/img/hourglass-logo.svg
+site_url: https://github-xrs.netlify.app/
+logo_url: https://github-xrs.netlify.app/img/hourglass-logo.svg
 
 publish_mode: editorial_workflow
 

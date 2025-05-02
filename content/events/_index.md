@@ -5,7 +5,6 @@ draft: false
 cover_image: null
 categories:
   - events
-# expirydate: 2024-11-12T20:16:00.000Z
 summary: List of Events
 ---
  
