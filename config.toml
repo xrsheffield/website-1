@@ -4,7 +4,7 @@ title = 'XR Sheffield'
 sectionPagesMenu = "footer"
 enableGitInfo = true
 
-paginate = 10
+pagination.pagerSize = 10
 
 
 [menu]

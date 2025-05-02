@@ -1,11 +1,11 @@
 ---
 title: Events
-date: 2023-11-11T18:16:41.813Z
+# date: 2023-11-11T18:16:41.813Z
 draft: false
 cover_image: null
 categories:
   - events
-expirydate: 2024-11-12T20:16:00.000Z
+# expirydate: 2024-11-12T20:16:00.000Z
 summary: List of Events
 ---
  

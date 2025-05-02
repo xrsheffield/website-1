@@ -1,6 +1,6 @@
 ---
 title: MEETINGS STILL GO ON!
-date: 2019-28-28
+date: 2019-12-28
 author: XR Sheffield Press
 categories: [news]
 ---

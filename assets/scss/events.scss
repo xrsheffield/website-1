@@ -1,4 +1,6 @@
-/* --- EVENTS sytling ------ */
+/* --- EVENTS styling ------ */
+
+@use "custom-props" as *;
 
 .events .list-page-list {
     gap: 1em;

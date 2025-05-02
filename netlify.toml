@@ -1,6 +1,7 @@
 [build.environment]
-HUGO_VERSION = "0.133.0"
-DART_SASS_VERSION = "1.75.0"
+HUGO_VERSION = "0.147.0"
+GO_VERSION = "1.24.0"
+DART_SASS_VERSION = "1.87.0"
 TZ = "UK/London"
 
 [build]
@@ -10,5 +11,6 @@ command = """\
   tar -xf dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz && \
   rm dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz && \
   export PATH=/opt/build/repo/dart-sass:$PATH && \
-  hugo --gc \
+  git config core.quotepath false && \
+  hugo --gc --minify \
   """
