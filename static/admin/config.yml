@@ -1,9 +1,11 @@
 # local_backend: true
 backend:
-  name: github
+  name: git-gateway
   repo: xrsheffield/website-1
-  branch: master
-display_url: xrsheffield.org
+  branch: gh
+  identity_url: https://auth.decapbridge.com/sites/427ac8cd-1334-4a70-85d8-411bb1f32295
+  gateway_url: https://gateway.decapbridge.com
+display_url: github-xrs.netlify.app
 site_url: https://github-xrs.netlify.app/
 logo_url: https://github-xrs.netlify.app/img/hourglass-logo.svg
 

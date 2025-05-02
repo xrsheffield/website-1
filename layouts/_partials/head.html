@@ -8,6 +8,7 @@
     {{ end -}}
 
     <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}"/>
+    <meta name="last-site-build-time" content="{{ time.Now | time.Format " 15.04 Mon 2 Jan 2006" }}">
     <link rel="dns-prefetch" href="{{ .Site.BaseURL }}">
     <link rel="preconnect" href="{{ .Site.BaseURL }}">
     <link rel="canonical" href="{{ .Site.BaseURL }}"/>
