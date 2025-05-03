@@ -3,6 +3,7 @@ title: Get Involved
 date: 2022-11-19T17:50:01.000Z
 draft: false
 ---
+<!-- This is a comment and will not appear visible on the page -->
 
 One of the best ways to get involved is to come along to one of our regular Monday Meetings.  Newcomers are always welcome.
 
