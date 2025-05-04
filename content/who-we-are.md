@@ -30,6 +30,7 @@ We hope to see you at one of our future meetings or actions soon!
 ~Extinction Rebellion Sheffield
 
 
+
 ## How we work
 
 To ensure we work according to Extincion Rebellion's Principles, the following ways of working have been agreed by the group:
