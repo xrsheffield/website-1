@@ -4,11 +4,7 @@ date: 2024-08-20T16:30:33+01:00
 draft: false
 cover_image: null
 ---
-
-
-
-![image](https://xrsheffield.org/img/band_photo_1_small_hu3088396975745140125.jpg)
-
+![image](/img/band_photo_1.jpg)
 
 ### XR Sheffield Drummers Need You. Join Us. Help Change Our Future.
 
@@ -16,26 +12,21 @@ cover_image: null
 
 https://xrsheffield.org/img/5rr-ant-small2_hu11287661320159157006.jpg
 
-![image](assets/img/band_photo_1_small.jpg)
+!\[image](assets/img/band_photo_1_small.jpg)
 
-![image](https://xrsheffield.org/img/whatsapp-image-2023-11-25-at-10.42.21_c000bb17_hu2725172199972002772.jpg)
+!\[image](https://xrsheffield.org/img/whatsapp-image-2023-11-25-at-10.42.21_c000bb17_hu2725172199972002772.jpg)
 
-![Ant logo](https://assets/img/5rr-ant-on-transparency.jpg "5RR ant logo")
+!\[Ant logo](https://assets/img/5rr-ant-on-transparency.jpg "5RR ant logo")
 
-![image](assets/img/5rr-ant-on-transparency.jpg "5RR ant logo")
+!\[image](assets/img/5rr-ant-on-transparency.jpg "5RR ant logo")
 
-![image](https://xrsheffield.org/img/5rr-ant-small_hu2119542672326185217.jpg)
+!\[image](https://xrsheffield.org/img/5rr-ant-small_hu2119542672326185217.jpg)
 
 https://xrsheffield.org/img/5rr-ant-small_hu2119542672326185217.jpg
 
 Logo here
 
 -->
-
-
-
- 
-
 
 ## IT'S TIME TO ACT NOW
 
@@ -55,8 +46,8 @@ We practice every Thursday evening in the centre of Sheffield.
 
 Please contact us for the details:  [xr.sheffield.5riversrising@gmail.com](mailto:xr.sheffield.5riversrising@gmail.com)
 
-![image](https://xrsheffield.org/img/5rr-ant-small2_hu11287661320159157006.jpg)
+![image](/img/5rr-ant-small2.jpg)
 
 <!-- 
-![image](https://xrsheffield.org/img/5rr-ant-small_hu2119542672326185217.jpg)
+!\[image](https://xrsheffield.org/img/5rr-ant-small_hu2119542672326185217.jpg)
 -->
